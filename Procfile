@@ -1,1 +1,1 @@
-web: qunicorn routes
+web: qunicorn routes:app
