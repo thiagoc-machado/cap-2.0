@@ -14,8 +14,6 @@ def wtf_quiz():
         return redirect(url_for('passed'))
     return render_template('quiz.html', form=form)
 
-
-
 @app.route('/passed')
 def passed():
     return render_template('passed.html')

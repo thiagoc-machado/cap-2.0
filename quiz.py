@@ -3,7 +3,6 @@ from wtforms import RadioField
 from wtforms.validators import ValidationError
 import linecache
 import random
-from flask import request
 class p():
     i = 0
     err = 0
