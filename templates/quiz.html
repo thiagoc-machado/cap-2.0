@@ -12,7 +12,6 @@
   </style>
   <body>
     <div class="container">
-
       <form action="/" method="POST" role="form">
         {% for question in form %}
               <div class="question">
@@ -21,6 +20,8 @@
               <div class = "answer">
                 {{ question }}
               </div>
+
+
         {% endfor %}
         <input type="submit" value = "Responder" />
       </form>
