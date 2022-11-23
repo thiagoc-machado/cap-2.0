@@ -84,7 +84,6 @@ class PopQuiz(Form):
         p.per,
         choices=[('RESPUESTA: A', p.alt1), ('RESPUESTA: B', p.alt2),('RESPUESTA: C', p.alt3),('RESPUESTA: D', p.alt4)],
         validators=[CorrectAnswer(p.res)]
-
         )
 
 
