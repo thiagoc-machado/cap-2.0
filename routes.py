@@ -11,16 +11,18 @@ def wtf_quiz():
     form = PopQuiz()
     if form.validate_on_submit():
         print(p.per)
+
         return redirect(url_for('passed'))
-    return render_template('quiz.html', form=form)
+    return redirect(url_for('quiz'))
 
 @app.route('/passed')
 def passed():
     return render_template('passed.html')
 
-@app.route('/err')
-def err():
-    return render_template('err.html')
+@app.route('/quiz')
+def quiz():
+    form = PopQuiz()
+    return render_template('quiz.html', form=form)
 
 
 if __name__ == '__main__':

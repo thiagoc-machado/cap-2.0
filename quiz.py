@@ -57,19 +57,18 @@ class p():
     if resp == dic[nperg][6]:
         resul = "Correcto"
         corr += 1
-        toterr = err
-        totcorr = corr
+
     if resp == "RESPUESTA: NA":
         resul = "Sin respuesta"
         sres += 1
-        toterr = err
-        totcorr = corr
-        semres = sres
+
     else:
         resul = "Errado"
         err += 1
-    print(per)
 
+    toterr = err
+    totcorr = corr
+    semres = sres
 class CorrectAnswer(object):
     def __init__(self, answer):
         self.answer = answer
@@ -81,6 +80,7 @@ class CorrectAnswer(object):
 
 class PopQuiz(Form):
     q1 = RadioField(
+
         p.per,
         choices=[('RESPUESTA: A', p.alt1), ('RESPUESTA: B', p.alt2),('RESPUESTA: C', p.alt3),('RESPUESTA: D', p.alt4)],
         validators=[CorrectAnswer(p.res)]
