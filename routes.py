@@ -4,17 +4,23 @@ from quiz import perg
 app = Flask(__name__)
 app.config.from_object(__name__)
 
-
+p = perg()
+res = p[7]
+i = 1
 
 @app.route('/', methods=['GET', 'POST'])
 def wtf_quiz():
-    p = perg()
-    res = p[7]
+
     if request.method == "POST":
         resp = request.form["submit_button"]
         print(res)
+        print(resp)
+        global p
         if "RESPUESTA: " + resp == res:
+            p = perg()
             return redirect(url_for('passed'))
+        if resp == "No Responder":
+            p = perg()
     else:
         pass
 
@@ -24,9 +30,9 @@ def wtf_quiz():
 def passed():
     return render_template('passed.html')
 
-@app.route('/passed')
-def passed():
-    return render_template('passed.html')
+@app.route('/err')
+def err():
+    return render_template('err.html')
 
 @app.route('/quiz')
 def quiz():
