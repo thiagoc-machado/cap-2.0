@@ -3,7 +3,7 @@ from wtforms import RadioField
 from wtforms.validators import ValidationError
 import linecache
 import random
-class p():
+def perg():
     i = 0
     err = 0
     corr = 0
@@ -69,6 +69,9 @@ class p():
     toterr = err
     totcorr = corr
     semres = sres
+    return name, cod, per, alt1, alt2, alt3, alt4,res, qtd, resul, err, resp, tst2
+name, cod, per, alt1, alt2, alt3, alt4,res, qtd, resul, err, resp, tst2 = perg()
+
 class CorrectAnswer(object):
     def __init__(self, answer):
         self.answer = answer
@@ -78,13 +81,13 @@ class CorrectAnswer(object):
         if field.data != self.answer:
             raise ValidationError(message)
 
-class PopQuiz(Form):
-    q1 = RadioField(
-
-        p.per,
-        choices=[('RESPUESTA: A', p.alt1), ('RESPUESTA: B', p.alt2),('RESPUESTA: C', p.alt3),('RESPUESTA: D', p.alt4)],
-        validators=[CorrectAnswer(p.res)]
-        )
+#class PopQuiz(Form):
+#    q1 = RadioField(
+#
+#        per,
+#       choices=[('RESPUESTA: A', alt1), ('RESPUESTA: B', alt2),('RESPUESTA: C', alt3),('RESPUESTA: D', alt4)],
+#        validators=[CorrectAnswer(res)]
+#        )
 
 
 
