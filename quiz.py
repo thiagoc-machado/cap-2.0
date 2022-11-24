@@ -24,19 +24,19 @@ def perg():
                 if txt in linha.split():
                     nome = linha
             else:
-                registro[0] = (linecache.getline("C://Users/thiag/PycharmProjects/cop/cap.txt", index)).replace(
+                registro[0] = (linecache.getline("cap.txt", index)).replace(
                         "\n", "")
-                registro[1] = (linecache.getline("C://Users/thiag/PycharmProjects/cop/cap.txt", index + 1)).replace(
+                registro[1] = (linecache.getline("cap.txt", index + 1)).replace(
                         "\n", "")
-                registro[2] = (linecache.getline("C://Users/thiag/PycharmProjects/cop/cap.txt", index + 3)).replace(
+                registro[2] = (linecache.getline("cap.txt", index + 3)).replace(
                         "\n", "")
-                registro[3] = (linecache.getline("C://Users/thiag/PycharmProjects/cop/cap.txt", index + 4)).replace(
+                registro[3] = (linecache.getline("cap.txt", index + 4)).replace(
                         "\n", "")
-                registro[4] = (linecache.getline("C://Users/thiag/PycharmProjects/cop/cap.txt", index + 5)).replace(
+                registro[4] = (linecache.getline("cap.txt", index + 5)).replace(
                         "\n", "")
-                registro[5] = (linecache.getline("C://Users/thiag/PycharmProjects/cop/cap.txt", index + 6)).replace(
+                registro[5] = (linecache.getline("Cap.txt", index + 6)).replace(
                         "\n", "")
-                registro[6] = (linecache.getline("C://Users/thiag/PycharmProjects/cop/cap.txt", index + 7)).replace(
+                registro[6] = (linecache.getline("cap.txt", index + 7)).replace(
                         "\n", "")
                 dic.append(registro)
                 nome = ""
