@@ -83,7 +83,6 @@ class CorrectAnswer(object):
 
 #class PopQuiz(Form):
 #    q1 = RadioField(
-#
 #        per,
 #       choices=[('RESPUESTA: A', alt1), ('RESPUESTA: B', alt2),('RESPUESTA: C', alt3),('RESPUESTA: D', alt4)],
 #        validators=[CorrectAnswer(res)]
