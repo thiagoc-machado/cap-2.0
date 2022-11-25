@@ -1,18 +1,20 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title> CAP 2022 </title>
+
     <link rel="stylesheet" href="../static/styles/styles.css">
     <link rel= "stylesheet" type= "text/css" href= "{{ url_for('static',filename='styles/styles.css') }}">
 </head> 
     <body>
+        <h1>CAP 2022</h1>
         <div class="flex-container">
-            <h3>Pregunta: {{perg}}</h3>
-            <h4>A:  {{alt1}}</h4>
-            <h4>B:  {{alt2}}</h4>
-            <h4>C:  {{alt3}}</h4>
-            <h4>D:  {{alt4}}</h4>
-        
+            <div class="alt">
+                <h3>Pregunta: {{perg}}</h3>
+                <h4>A:  {{alt1}}</h4>
+                <h4>B:  {{alt2}}</h4>
+                <h4>C:  {{alt3}}</h4>
+                <h4>D:  {{alt4}}</h4>
+            </div>
             <form action="/" method="POST" role="form">
                 <input type="submit" name="submit_button" value="A">
                 <input type="submit" name="submit_button" value="B">
@@ -20,9 +22,11 @@
                 <input type="submit" name="submit_button" value="D">
                 <br><input type="submit" name="submit_button" value="No Responder">
             </form>
+            <div class = leg>
             <h5>Correctas:     {{cor}}</h5>
             <h5>Erroneas:      {{er}}</h5>
             <h5>Sin resposta:  {{sn}}</h5>
+            </div>
         </div>
     </body>
 </html>

@@ -1,28 +1,33 @@
 *{  
-    margin: 0px;
+    margin: 2px;
     margin-right: 20px;
     margin-left: 20px;
     padding: 10px;
-    box-sizing: border-box;
-    background: rgb(107, 116, 107);
+    background: rgb(62, 68, 73);
     display: flex;
     flex-flow: column nowrap;
 }
 body{
-
-    padding: 4px 2px;
-    margin-right: 20px;
+    display: flex;
+    justify-content: center;
+    margin-top: -60px;
+    display: flex;
+    justify-content: center;
+    background: #000000;
+    border-radius: 20px;
 }
+
 .flex-container {
     display: flex;
     flex-wrap: nowrap;
-    max-width: 800px;
-  }
+
+}
 form{
+    color: white;
     display: flex;
     border: 2px solid #000000;
     border-radius: 10px;
-    background-color: rgb(160, 160, 160);
+    background-color: rgb(78, 71, 71);
     flex-direction: row;
     justify-content: center;
 
@@ -30,14 +35,21 @@ form{
 form:hover{
     color: #000000;
 }
+h1{
+    display: flex;
+    color: white;
+    justify-content: center;
+}
 h3{
     display: flex;
     color: aliceblue;
     display: flex;
     justify-content: center;
     flex-flow: column nowrap;
+    border-radius: 20px;
+    border: 2px solid #000000;
 }
-h4{
+.alt{
     display: flex;
     margin-right: 20px;
     padding: 4px 2px;
@@ -48,15 +60,26 @@ h4{
     justify-content: center;
     flex-flow: column nowrap;
 }
+h4{
+    display: flex;
+    margin-right: 20px;
+    padding: 4px 2px;
+    border: 2px;
+    border: 2px solid #000000;
+    background: rgb(87, 87, 87);
+    border-radius: 20px;
+    justify-content: center;
+    flex-flow: column nowrap;
+}
 h4:hover{
     color: #000000;
     background: rgb(104, 103, 103);
 }
-h5{
+.leg{
 
     display: flex;
     flex-direction: row;
-    flex-flow: row;
+    justify-content: center;
     border: 2px;
     background: rgb(104, 103, 103);
     border-radius: 20px;
