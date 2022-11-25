@@ -1,93 +1,70 @@
-from flask_wtf import FlaskForm as Form
-from wtforms import RadioField
-from wtforms.validators import ValidationError
-import linecache
-import random
-def perg():
+from flask import Flask, render_template, redirect, url_for, request
+from quiz import perg
+
+app = Flask(__name__)
+app.config.from_object(__name__)
+i = 1
+p = perg()
+res = p[7]
+cor = 0
+er = 0
+sn = 0
+print(p)
+@app.route('/', methods=['GET', 'POST'])
+def wtf_quiz():
+    global p
+    global res
+    global cor
+    global er
+    global sn
+    print("Corretas:")
+    print(cor)
+    print("Erradas")
+    print(er)
+    print("sem responder")
+    print(sn)
+    print(p)
     i = 0
-    err = 0
-    corr = 0
-    sres = 0
-    registro = {}
-    dic = []
-    index = -8
-    nome = ""
-    txt = "RESPUESTA:"
-    name = ""
+    if request.method == "POST":
+        resp = request.form["submit_button"]
+        print(res)
+        if "RESPUESTA: " + resp == res:
+            p = perg()
+            res = p[7]
+            if i == 0:
+                cor += 1
+                i += 1
+                print("Corretaaaaaa")
+            return redirect(url_for('passed'))
+        if resp == "No Responder":
+            if i == 0:
+                i =+ 1
+                sn +=1
+            p = perg()
+            txt = ""
+        if "RESPUESTA: " + resp != res:
+            if i == 0:
+                i = + 1
+                er += 1
+                print("Erradadadadadda")
+            pass
+    return render_template('quiz.html',text='txt',perg=p[2],alt1=p[3],alt2=p[4],alt3=p[5],alt4=p[6],cor=cor, er=er,sn=sn)
 
-    with open("cap.txt", "r", encoding="utf8") as arquivo:
-        cap = arquivo.readlines()
-        for linha in cap:
-            index += 1
-            linha = linha.strip('\n')
-            if nome == "":
-                if txt in linha.split():
-                    nome = linha
-            else:
-                registro[0] = (linecache.getline("cap.txt", index)).replace(
-                        "\n", "")
-                registro[1] = (linecache.getline("cap.txt", index + 1)).replace(
-                        "\n", "")
-                registro[2] = (linecache.getline("cap.txt", index + 3)).replace(
-                        "\n", "")
-                registro[3] = (linecache.getline("cap.txt", index + 4)).replace(
-                        "\n", "")
-                registro[4] = (linecache.getline("cap.txt", index + 5)).replace(
-                        "\n", "")
-                registro[5] = (linecache.getline("Cap.txt", index + 6)).replace(
-                        "\n", "")
-                registro[6] = (linecache.getline("cap.txt", index + 7)).replace(
-                        "\n", "")
-                dic.append(registro)
-                nome = ""
-                registro = {}
+@app.route('/passed')
+def passed():
+    return render_template('passed.html')
 
-    qtd = (len(dic))
-    nperg = random.randrange(qtd)
+@app.route('/err')
+def err():
+    return render_template('err.html')
 
-    cod = dic[nperg][0]
-    per = dic[nperg][1]
-    alt1 = dic[nperg][2]
-    alt2 = dic[nperg][3]
-    alt3 = dic[nperg][4]
-    alt4 = dic[nperg][5]
-    res = dic[nperg][6]
-    resp = "RESPUESTA: " + name
-    tst2 = dic[nperg][6]
-    if resp == dic[nperg][6]:
-        resul = "Correcto"
-        corr += 1
-
-    if resp == "RESPUESTA: NA":
-        resul = "Sin respuesta"
-        sres += 1
-
-    else:
-        resul = "Errado"
-        err += 1
-
-    toterr = err
-    totcorr = corr
-    semres = sres
-    return name, cod, per, alt1, alt2, alt3, alt4,res, qtd, resul, err, resp, tst2
-name, cod, per, alt1, alt2, alt3, alt4,res, qtd, resul, err, resp, tst2 = perg()
-
-class CorrectAnswer(object):
-    def __init__(self, answer):
-        self.answer = answer
-    def __call__(self, form, field):
-        message = 'Incorrect answer.'
-
-        if field.data != self.answer:
-            raise ValidationError(message)
-
-#class PopQuiz(Form):
-#    q1 = RadioField(
-#
-#        per,
-#       choices=[('RESPUESTA: A', alt1), ('RESPUESTA: B', alt2),('RESPUESTA: C', alt3),('RESPUESTA: D', alt4)],
-#        validators=[CorrectAnswer(res)]
-#        )
+@app.route('/quiz')
+def quiz():
+#    form = PopQuiz()
+    return render_template('quiz.html')
 
 
-
+if __name__ == '__main__':
+#    from waitress import serve
+#    serve(app, host="127.0.0.1", port=8080)
+    app.run(debug=True)
