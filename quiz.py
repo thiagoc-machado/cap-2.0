@@ -1,5 +1,3 @@
-from flask_wtf import FlaskForm as Form
-from wtforms import RadioField
 from wtforms.validators import ValidationError
 import linecache
 import random
