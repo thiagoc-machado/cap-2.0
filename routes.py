@@ -60,7 +60,6 @@ def err():
 
 @app.route('/quiz')
 def quiz():
-#    form = PopQuiz()
     return render_template('quiz.html')
 
 
