@@ -12,7 +12,6 @@ def perg():
     nome = ""
     txt = "RESPUESTA:"
     name = ""
-
     with open("cap.txt", "r", encoding="utf8") as arquivo:
         cap = arquivo.readlines()
         for linha in cap:
@@ -35,7 +34,6 @@ def perg():
 
     qtd = (len(dic))
     nperg = random.randrange(qtd)
-
     cod = dic[nperg][0]
     per = dic[nperg][1]
     alt1 = dic[nperg][2]
@@ -57,9 +55,6 @@ def perg():
         resul = "Errado"
         err += 1
 
-    toterr = err
-    totcorr = corr
-    semres = sres
     return name, cod, per, alt1, alt2, alt3, alt4,res, qtd, resul, err, resp, tst2
 name, cod, per, alt1, alt2, alt3, alt4,res, qtd, resul, err, resp, tst2 = perg()
 
