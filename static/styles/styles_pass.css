@@ -48,28 +48,6 @@ h1{
     flex-direction: row;
     justify-content: center;
 }
-h3{
-    font-size: 2em;
-    background: #2e1dc9;
-    color: aliceblue;
-    flex-flow: column nowrap;
-    border-radius: 20px;
-    border: 2px solid #000000;
-    padding: 4px;
-
-}
-h5{
-
-    border-radius: 20px;
-    background: #af655b;
-}
-.leg{
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    border-radius: 20px;
-    background: #af655b;
-}
 
 /* responsive */
 
@@ -115,33 +93,13 @@ h5{
         color:#e8ebec;
     }
     h1{
-        font-size: 2vh;
+        font-size: 4vh;
+        padding: 40px;
         color: white;
         background: #25274d;  
         border-radius: 20px;  
         display: flex;
         flex-direction: row;
         justify-content: center;
-    }
-    h3{
-        font-size: 3vh;
-        background: #2e1dc9;
-        color: aliceblue;
-        flex-flow: column nowrap;
-        border-radius: 20px;
-        border: 2px solid #000000;
-        padding: 4px;
-    
-    }
-    h5{
-        border-radius: 20px;
-        font-size: 1.5vh;
-    }
-    .leg{
-        display: flex;
-        flex-direction: row;
-        justify-content: center;
-        border-radius: 20px;
-        background: #af655b;
     }
 }
