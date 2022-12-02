@@ -26,7 +26,7 @@ def perg():
                 registro[2] = (linecache.getline("cap.txt", index + 3)).replace("\n", "")
                 registro[3] = (linecache.getline("cap.txt", index + 4)).replace("\n", "")
                 registro[4] = (linecache.getline("cap.txt", index + 5)).replace("\n", "")
-                registro[5] = (linecache.getline("Cap.txt", index + 6)).replace("\n", "")
+                registro[5] = (linecache.getline("cap.txt", index + 6)).replace("\n", "")
                 registro[6] = (linecache.getline("cap.txt", index + 7)).replace("\n", "")
                 dic.append(registro)
                 nome = ""
