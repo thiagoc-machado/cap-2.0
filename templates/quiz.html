@@ -5,17 +5,17 @@
 </head> 
     <body>
         <div class="titulo" id="tit">
-            <div class="res" id="resp" value="casa">{{res}}</div>
+            <a1 id="resp"> {{res}} </a1>
             <a> CAP 2022</a>
             <input type="checkbox" id="switch"></h1>
         </div>
         <div class="btn">
             <h3>Pregunta: {{perg}}</h3>            
             <form class="perg" action="/" method="POST" role="form">
-                <button id="btn_a" type="submit" name="submit_button" value="A">{{alt1}}</button>
-                <button id="btn_b" type="submit" name="submit_button" value="B">{{alt2}}</button>
-                <button id="btn_c" type="submit" name="submit_button" value="C">{{alt3}}</button>
-                <button id="btn_d" type="submit" name="submit_button" value="D">{{alt4}}</button>
+                <button id="btn_a" type="submit" name="submit_button" value="A">A: {{alt1}}</button>
+                <button id="btn_b" type="submit" name="submit_button" value="B">B: {{alt2}}</button>
+                <button id="btn_c" type="submit" name="submit_button" value="C">C: {{alt3}}</button>
+                <button id="btn_d" type="submit" name="submit_button" value="D">D: {{alt4}}</button>
                 <button id="btn_nr" type="submit" name="submit_button" value="No Responder">No responder</button>
             </form>
             <div class = leg>
