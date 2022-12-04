@@ -17,7 +17,7 @@ body{
     background: #5b94af;
     border-radius: 20px;
 }
-form{
+.perg{
     display: flex;
     background-color: #0f1136;
     border-radius: 20px;

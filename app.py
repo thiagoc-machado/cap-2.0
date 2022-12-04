@@ -37,6 +37,15 @@ def wtf_quiz():
                 print("Corretaaaaaa")
             return redirect(url_for('passed'))
         if resp == "No Responder":
+#            if res == "RESPUESTA A:":
+#                correct = "A"
+#            if res == "RESPUESTA B:":
+#                correct = "B"
+#            if res == "RESPUESTA C:":
+#                correct = "C"
+#            if res == "RESPUESTA D:":
+#                correct = "D"
+            
             if i == 0:
                 i =+ 1
                 sn +=1
@@ -48,7 +57,7 @@ def wtf_quiz():
                 er += 1
                 print("Erradadadadadda")
             pass
-    return render_template('quiz.html',text='txt',perg=p[2],alt1=p[3],alt2=p[4],alt3=p[5],alt4=p[6],cor=cor, er=er,sn=sn)
+    return render_template('quiz.html',text='txt',perg=p[2],alt1=p[3],alt2=p[4],alt3=p[5],alt4=p[6],cor=cor, er=er,sn=sn,res=res)
 
 @app.route('/passed')
 def passed():
@@ -67,4 +76,5 @@ def quiz():
 if __name__ == '__main__':
 #    from waitress import serve
 #    serve(app, host="127.0.0.1", port=8080)
-    app.run(debug=False, host="0.0.0.0")
+    #app.run(debug=False, host="0.0.0.0")
+    app.run(debug=True)

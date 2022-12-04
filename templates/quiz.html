@@ -5,21 +5,26 @@
     <link rel= "stylesheet" type= "text/css" href= "{{ url_for('static',filename='styles/styles_quiz.css') }}">
 </head> 
     <body>
-        <h1>CAP 2022</h1>
-        <div class="flex-container">
-                <h3>Pregunta: {{perg}}</h3>            
-                <form action="/" method="POST" role="form">
-                    <button type="submit" name="submit_button" value="A">{{alt1}}</button>
-                    <button type="submit" name="submit_button" value="B">{{alt2}}</button>
-                    <button type="submit" name="submit_button" value="C">{{alt3}}</button>
-                    <button type="submit" name="submit_button" value="D">{{alt4}}</button>
-                    <button type="submit" name="submit_button" value="No Responder">No responder</button>
+        <div class="titulo" id="tit">
+            <div class="res" id="resp">{{res}}</div>
+            <a> CAP 2022</a>
+            <input type="checkbox" id="switch"></h1>
+        </div>
+        <div class="btn">
+            <h3>Pregunta: {{perg}}</h3>            
+            <form class="perg" action="/" method="POST" role="form">
+                <button id="btn_a" type="submit" name="submit_button" value="A">{{alt1}}</button>
+                <button id="btn_b" type="submit" name="submit_button" value="B">{{alt2}}</button>
+                <button id="btn_c" type="submit" name="submit_button" value="C">{{alt3}}</button>
+                <button id="btn_d" type="submit" name="submit_button" value="D">{{alt4}}</button>
+                <button id="btn_nr" type="submit" name="submit_button" value="No Responder">No responder</button>
             </form>
             <div class = leg>
-            <h5>&nbsp;Correctas:&nbsp;{{cor}}&nbsp;</h5>
-            <h5>&nbsp;Erroneas:&nbsp;{{er}}&nbsp;</h5>
-            <h5>&nbsp;Sin resposta:&nbsp;{{sn}}&nbsp;</h5>
+                <h5>&nbsp;Correctas:&nbsp;{{cor}}&nbsp;</h5>
+                <h5>&nbsp;Erroneas:&nbsp;{{er}}&nbsp;</h5>
+                <h5>&nbsp;Sin resposta:&nbsp;{{sn}}&nbsp;</h5>
             </div>
         </div>
+        <script src="/static/styles/scrypt_quiz.js"></script>
     </body>
 </html>
