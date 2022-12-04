@@ -2,11 +2,10 @@
 <html lang="en">
 <head>
     <link rel="stylesheet" href="../static/styles/styles_quiz.css">
-    <link rel= "stylesheet" type= "text/css" href= "{{ url_for('static',filename='styles/styles_quiz.css') }}">
 </head> 
     <body>
         <div class="titulo" id="tit">
-            <div class="res" id="resp">{{res}}</div>
+            <div class="res" id="resp" value="casa">{{res}}</div>
             <a> CAP 2022</a>
             <input type="checkbox" id="switch"></h1>
         </div>
@@ -25,6 +24,6 @@
                 <h5>&nbsp;Sin resposta:&nbsp;{{sn}}&nbsp;</h5>
             </div>
         </div>
-        <script src="/static/styles/scrypt_quiz.js"></script>
+        <script src="/static/styles/scrypt_quiz.js" defer></script>
     </body>
 </html>
