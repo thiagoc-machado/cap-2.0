@@ -175,13 +175,14 @@ h5{
     
     }
     h5{
+        display:none;
         border-radius: 20px;
         font-size: 0.5vh;
     }
     .leg{
         display: flex;
         flex-direction: row;
-        justify-content: space-between;
+        justify-content: space-around;
         border-radius: 20px;
     }
 }
