@@ -16,14 +16,17 @@
                 <button id="btn_b" type="submit" name="submit_button" value="B">B: {{alt2}}</button>
                 <button id="btn_c" type="submit" name="submit_button" value="C">C: {{alt3}}</button>
                 <button id="btn_d" type="submit" name="submit_button" value="D">D: {{alt4}}</button>
-                <button id="btn_nr" type="submit" name="submit_button" value="No Responder">No responder</button>
             </form>
             <div class = leg>
-                <h5>&nbsp;Correctas:&nbsp;{{cor}}&nbsp;</h5>
+                <!-- <h5>&nbsp;Correctas:&nbsp;{{cor}}&nbsp;</h5>
                 <h5>&nbsp;Erroneas:&nbsp;{{er}}&nbsp;</h5>
-                <h5>&nbsp;Sin resposta:&nbsp;{{sn}}&nbsp;</h5>
+                <h5>&nbsp;Sin resposta:&nbsp;{{sn}}&nbsp;</h5>-->
+                <h5>&nbsp;{{res}}&nbsp;</h5> 
+                <form class="perg2" action="/" method="POST" role="form">
+                    <button id="btn_nr" type="submit" name="submit_button" value="No Responder">NO RESPONDER</button>
+                    <button id="btn_p" type="submit" name="submit_button" value="No Responder">PROXIMA PREGUNTA</button>
+                </form>
             </div>
-        </div>
         <script src="/static/styles/scrypt_quiz.js" defer></script>
     </body>
 </html>
