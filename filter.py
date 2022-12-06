@@ -1,5 +1,4 @@
 import random
-
 def perg():
 
     with open("cap_scrap.txt", "r", encoding="utf8") as arquivo:
