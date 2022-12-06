@@ -14,6 +14,8 @@
 *{  
     padding: 1px 1px 0px 1px;
     background: var(--sec-color);
+    display: flex;
+    flex-flow: column nowrap;
 }
 .titulo{
     color: var(--font-color);
@@ -99,13 +101,13 @@ button:hover{
 }
 .btn .leg .envio{
     display: flex;
-    flex-direction: row;
     background: var(--pri-color);
     border-radius: 20px;
 }
 .btn .leg .envio .perg2{
     background-color: var(--pri-color);
     border-radius: 20px;
+    flex-direction: row;
 }
 .btn .leg{
     display: flex;
@@ -119,6 +121,8 @@ button:hover{
     font-size: 2vh;
     flex-direction: column;
     background: var(--pri-color);
+    border-radius: 20px;
+    padding: 7px;
 }
 .btn .leg .ref a{
     background-color: var(--pri-color);
