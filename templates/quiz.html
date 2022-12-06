@@ -5,27 +5,40 @@
 </head> 
     <body>
         <div class="titulo" id="tit">
-            <a1 id="resp"> {{res}} </a1>
-            <a> CAP 2022</a>
-            <input type="checkbox" id="switch"></h1>
+            <div class = "info">
+                <a> Qtd. preg.: &nbsp;{{qtd}}</a>  
+                <a> Cod. preg.: &nbsp;{{cod}}</a>
+            </div>
+            <div class="tit">
+                <a> CAP 2022</a>
+            </div>
+            <div class="check">
+                <a>Dak mode</a>
+                <input type="checkbox" id="switch">
+            </div>           
         </div>
         <div class="btn">
-            <h3>Pregunta: {{perg}}</h3>            
-            <form class="perg" action="/" method="POST" role="form">
+            <div class="perg">
+                <a>Pregunta: {{perg}}</a>
+            </div>            
+            <form class="alt" action="/" method="POST" role="form">
                 <button id="btn_a" type="submit" name="submit_button" value="A">A: {{alt1}}</button>
                 <button id="btn_b" type="submit" name="submit_button" value="B">B: {{alt2}}</button>
                 <button id="btn_c" type="submit" name="submit_button" value="C">C: {{alt3}}</button>
                 <button id="btn_d" type="submit" name="submit_button" value="D">D: {{alt4}}</button>
             </form>
-            <div class = leg>
-                <!-- <h5>&nbsp;Correctas:&nbsp;{{cor}}&nbsp;</h5>
-                <h5>&nbsp;Erroneas:&nbsp;{{er}}&nbsp;</h5>
-                <h5>&nbsp;Sin resposta:&nbsp;{{sn}}&nbsp;</h5>-->
-                <h5>&nbsp;{{res}}&nbsp;</h5> 
-                <form class="perg2" action="/" method="POST" role="form">
-                    <button id="btn_nr" type="submit" name="submit_button" value="No Responder">NO RESPONDER</button>
-                    <button id="btn_p" type="submit" name="submit_button" value="No Responder">PROXIMA PREGUNTA</button>
-                </form>
+            <div class = "leg">
+                <div class="ref">
+                    <a>&nbsp;{{res}}&nbsp;</a> 
+                    <a>&nbsp;{{norma}}&nbsp;</a>
+                    <a>&nbsp;{{ref}}&nbsp;</a>
+                </div>
+                <div class="envio">
+                    <form class="perg2" action="/" method="POST" role="form">
+                        <button id="btn_nr" type="submit" name="submit_button" value="No Responder">NO RESPONDER</button>
+                        <button id="btn_p" type="submit" name="submit_button" value="No Responder">PROXIMA PREGUNTA</button>
+                    </form>
+                </div>               
             </div>
         </div>
         <script src="/static/styles/scrypt_quiz.js" defer></script>

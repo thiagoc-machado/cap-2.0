@@ -14,49 +14,70 @@
 *{  
     padding: 1px 1px 0px 1px;
     background: var(--sec-color);
-    display: flex;
-    flex-flow: column nowrap;
 }
-
-.titulo {
-    font-size: 5vh;
+.titulo{
     color: var(--font-color);
-    background: var(--sec-color);  
-    border-radius: 20px;  
     display: flex;
     flex-wrap: nowrap;
     flex-direction: row;
     justify-content:space-between;
 }
-.titulo input{
+.titulo .tit{
+    font-size: 5vh;
+    font-weight: bold;
+    height: auto;
+}
+.titulo .info{
+    font-size: 15px;
     display: flex;
     flex-wrap: nowrap;
-    justify-content: right;
+    flex-direction: column;
+    height: auto;
 }
-.titulo a1{
-    font-size: 10px;
+.titulo .check{
+    align-items:flex-end;
+    height: auto;
+}
+.titulo .check input{
+    cursor: pointer;
 }
 .btn {
     background: var(--pri-color);
     border-radius: 20px;
 }
-form{
+.btn .perg{
     display: flex;
     background-color: var(--pri-color);
     border-radius: 20px;
+    font-size: 2em;
+}
+.btn .perg a{
+    background-color: var(--pri-color);
+    border-radius: 20px;
+    padding: 10px;
+}
+.btn .alt{
+    display: flex;
+    background-color: var(--pri-color);
+    border-radius: 20px;
+    font-size: 2em;
+    background: var(--pri-color);
+    color: var(--font-color);
+    flex-flow: column nowrap;
+    border-left: 10px;
+    border-radius: 20px;
+    padding: 4px;
 }
 button{
     background-color:var(--sec-color);
     color: var(--font-color);
     padding: 20px;
     border-radius: 20px;
-    border: none;
     border: 1px solid #919191;
     font-size: 15px;
     font-weight: bold;
     cursor: pointer;
     transition: .5s;
-    margin-left: 5px;
 }
 button:hover{
     background-color: var(--pri-color);
@@ -76,33 +97,34 @@ button:hover{
     background-color: #BDB76B;
     color: var(--font-color);
 }
-.perg2{
+.btn .leg .envio{
     display: flex;
     flex-direction: row;
-}
-
-h3{
-    font-size: 2em;
     background: var(--pri-color);
-    color: var(--font-color);
-    flex-flow: column nowrap;
     border-radius: 20px;
-
-    padding: 4px;
-
 }
-h5{
-
+.btn .leg .envio .perg2{
+    background-color: var(--pri-color);
     border-radius: 20px;
-    background: var(--pri-color);
 }
-.leg{
+.btn .leg{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     border-radius: 20px;
     background: var(--pri-color);
 }
+.btn .leg .ref{
+    display: flex;
+    font-size: 2vh;
+    flex-direction: column;
+    background: var(--pri-color);
+}
+.btn .leg .ref a{
+    background-color: var(--pri-color);
+    border-radius: 20px;
+}
+
 
 /* responsive */
 

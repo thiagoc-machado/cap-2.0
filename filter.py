@@ -5,17 +5,17 @@ def perg():
         dic = []
         nome = []
         txt = "COD:"
-        count = 13
+        count = 14
         cap = arquivo.readlines()
         for linha in cap:
             if txt in linha.split():
                 nome.append(linha)
                 count = 0
-            if count < 13:
-                if count > 0 and count != 2 and count != 4 and count != 6 and count != 8:
+            if count < 10:
+                if count > 0 and count != 2:
                     nome.append(linha)
                 count += 1
-            if count == 13:
+            if count == 10:
                 dic.append(nome)
                 nome = []
                 count = + 1
