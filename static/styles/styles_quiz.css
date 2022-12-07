@@ -140,31 +140,71 @@ button:hover{
 
 @media (max-width: 680px), screen and (orientation: portrait) {
     *{  
-        padding: 1px 1px 1px 1px;
+        padding: 1px 1px 0px 1px;
+        background: var(--sec-color);
         display: flex;
         flex-flow: column nowrap;
     }
     body{
-        border-radius: 20px;
+        padding: 0px;
+        margin: 0;
     }
-    .flex-container {
-        border-radius: 20px;
-    }
-    form{
+    .titulo{
+        color: var(--font-color);
         display: flex;
+        flex-wrap: nowrap;
+        flex-direction: row;
+        justify-content:space-between;
+    }
+    .titulo .tit{
+        font-size: 4vh;
+        font-weight: bolder;
+        height: auto;
+        transition: .5s;
+    }
+    .titulo .info{
+        font-size: 1vh;
+        display: flex;
+        flex-wrap: nowrap;
+        flex-direction: column;
+        height: auto;
+        font-weight: bold;
+    }
+    .titulo .check{
+        align-items:flex-end;
+        height: auto;
+        font-size: 2vh;
+    }
+    .titulo .check input{
+        cursor: pointer;
+    }
+    .btn {
+        background: var(--pri-color);
         border-radius: 20px;
+    }
+    .btn .perg{
+        display: flex;
+        background-color: var(--pri-color);
+        color: var(--font-color);
+        border-radius: 20px;
+        font-size: 3vh;
+        transition: .5s;
+    }
+    .btn .perg a{
+        background-color: var(--pri-color);
+        border-radius: 20px;
+        padding: 10px;
     }
     button{
+        background-color:var(--sec-color);
         color: var(--font-color);
-        padding: 60px;
+        padding: 4vh;
         border-radius: 20px;
-        border: none;
         border: 1px solid #919191;
         font-size: 2vh;
         font-weight: bold;
         cursor: pointer;
         transition: .5s;
-        margin-left: 5px;
     }
     button:hover{
         background-color: var(--pri-color);
@@ -172,7 +212,6 @@ button:hover{
     }
     #btn_nr{
         background-color: #4169E1;
-        padding: 40px;
     }
     #btn_nr:hover{
         background-color: var(--pri-color);
@@ -180,41 +219,30 @@ button:hover{
     }
     #btn_p{
         background-color: #DAA520;
-        padding: 40px;
     }
     #btn_p:hover{
         background-color: #BDB76B;
         color: var(--font-color);
     }
-    .perg2{
-        display: flex;
-        flex-direction: row;
+    .btn .leg{
+        display: inline-block;
+        flex-direction:row;
+        justify-content: space-between;
+        border-radius: 10px;
+        background: var(--pri-color);
     }
-    h1{
-        font-size: 2vh;
+    .btn .leg .ref{
+        display:flex;
+        font-size: 20px;
+        flex-direction: column;
+        background: var(--pri-color);
         color: var(--font-color);
-        border-radius: 20px;  
-        display: flex;
-        flex-direction: row;
-        justify-content: center;
-    }
-    h3{
-        font-size: 3vh;
-        color: var(--font-color);
-        flex-flow: column nowrap;
         border-radius: 20px;
-        padding: 20px;
-    
+        padding: 7px;
+        font-weight: bold;
     }
-    h5{
-        display:none;
-        border-radius: 20px;
-        font-size: 0.5vh;
-    }
-    .leg{
-        display: flex;
-        flex-direction: row;
-        justify-content: space-around;
+    .btn .leg .ref a{
+        background-color: var(--pri-color);
         border-radius: 20px;
     }
 }
