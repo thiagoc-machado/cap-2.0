@@ -1,6 +1,9 @@
 from wtforms.validators import ValidationError
 import linecache
 import random
+
+
+
 def perg():
     i = 0
     err = 0
@@ -43,26 +46,7 @@ def perg():
     res = dic[nperg][6]
     resp = "RESPUESTA: " + name
     tst2 = dic[nperg][6]
-    if resp == dic[nperg][6]:
-        resul = "Correcto"
-        corr += 1
+    
+    return name, cod, per, alt1, alt2, alt3, alt4, res, qtd, res, err, resp, tst2
 
-    if resp == "RESPUESTA: NA":
-        resul = "Sin respuesta"
-        sres += 1
 
-    else:
-        resul = "Errado"
-        err += 1
-
-    return name, cod, per, alt1, alt2, alt3, alt4,res, qtd, resul, err, resp, tst2
-name, cod, per, alt1, alt2, alt3, alt4,res, qtd, resul, err, resp, tst2 = perg()
-
-class CorrectAnswer(object):
-    def __init__(self, answer):
-        self.answer = answer
-    def __call__(self, form, field):
-        message = 'Incorrect answer.'
-
-        if field.data != self.answer:
-            raise ValidationError(message)

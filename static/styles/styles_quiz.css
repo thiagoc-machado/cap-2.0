@@ -2,13 +2,13 @@
     --pri-color: #6c71db;
     --sec-color:#4b528f;
     --font-color:rgb(0, 0, 0);
-    transition: 1;
+    transition: .5;
 }
 .dark-mode:root{
     --pri-color: #25274d;
     --sec-color:#353A65;
     --font-color:#fff;
-    transition: 1s;
+    transition: .5s;
 }
 
 *{  
@@ -26,8 +26,9 @@
 }
 .titulo .tit{
     font-size: 5vh;
-    font-weight: bold;
+    font-weight: bolder;
     height: auto;
+    transition: .5s;
 }
 .titulo .info{
     font-size: 15px;
@@ -35,6 +36,7 @@
     flex-wrap: nowrap;
     flex-direction: column;
     height: auto;
+    font-weight: bold;
 }
 .titulo .check{
     align-items:flex-end;
@@ -50,8 +52,10 @@
 .btn .perg{
     display: flex;
     background-color: var(--pri-color);
+    color: var(--font-color);
     border-radius: 20px;
     font-size: 2em;
+    transition: .5s;
 }
 .btn .perg a{
     background-color: var(--pri-color);
@@ -121,8 +125,10 @@ button:hover{
     font-size: 2vh;
     flex-direction: column;
     background: var(--pri-color);
+    color: var(--font-color);
     border-radius: 20px;
     padding: 7px;
+    font-weight: bold;
 }
 .btn .leg .ref a{
     background-color: var(--pri-color);
