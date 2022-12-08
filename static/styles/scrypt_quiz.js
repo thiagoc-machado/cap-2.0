@@ -2,27 +2,49 @@ const $html = document.querySelector('html')
 const $checkbox = document.querySelector('#switch')
 dark = 0
 $checkbox.addEventListener('change', function() {
-    $html.classList.toggle('dark-mode')
-    //$html.classList.toggle('dark')
+    if (dark == 0){
+        $html.classList.toggle('dark-mode')
+        console.log("light")
+        dark = 1
+    }else{
+        $html.classList.toggle('dark-mode')
+        console.log("dark")
+        dark = 0
+    }  
     })
+
 nodupl = 0
 corr = 0
 err = 0
 nr = 0
+//**************************************EXISTE COOKIE?********************************* */
+if (document.cookie.indexOf("corr") !="") {
+    corr = getCookie("corr")
+    err = getCookie("err")
+    nr = getCookie("nr")
+    dark = getCookie("dark")
+    console.log("Cookies encontrados")
+}else{
+    setCookie("corr", 0, 365)
+    setCookie("err", 0, 365)
+    setCookie("nr", 0, 365)
+    setCookie("dark", 0, 365)
+    console.log("cookies criados")
+}
+//**************************************SET DARKMODE********************************** */
 
-corr = getCookie("corr")
-err = getCookie("err")
-nr = getCookie("nr")
-
+if (dark == 1){
+$html.classList.toggle('dark-mode')
+}
+//**************************************COOKIES>VAR*********************************** */
 console.log("correto " + corr);
 console.log("errado " + err);
 console.log("n resp " + nr);
 console.log("Tema " + dark)
 
-
 const res = document.getElementById("resp").innerHTML;
 console.log(res)
-//*****************************************BTN RESP A************************************ */
+//***************************************BTN RESP A*********************************** */
 const btn1 = document.getElementById("btn_a");
 btn1.addEventListener("click", function(e){
     if (res == "RESPUESTA: A\n"){
@@ -153,13 +175,12 @@ btn1.addEventListener("click", function(e){
 //*****************************************BTN RESET************************************* */
 
 const btn7 = document.getElementById("reset");
-btn6.addEventListener("click", function(e){
+btn7.addEventListener("click", function(e){
     btn7.style.backgroundColor = "#2E8B57";
     //e.preventDefault();
-    corr = 0
-    err = 0
-    nr = 0
-    eraseCookie()
+    setCookie("corr", 0, 365)
+    setCookie("err", 0, 365)
+    setCookie("nr", 0, 365)
 })
 //*****************************************RES COUNT************************************* */
 
@@ -197,9 +218,18 @@ function getCookie(cname) {
     }
     return "";
 }
-    
-    function eraseCookie(nome) {   
-        document.cookie = nome +'=; Path=/; Expires=Thu, 01 Jan 1970 00:00:01 GMT;';
-    }
+
+var switchContainer = $('.switch-container');
+
+switchContainer.on('click', function() {
+    var body      = $('body'),
+        onSwitch  = $('.switch'),
+        container = $('.container');
+    $(this).toggleClass('on-indicator');
+    onSwitch.toggleClass('switched-on');
+    body.toggleClass('night-mode');
+    container.toggleClass('night-mode-text');
+});
+
 
 
