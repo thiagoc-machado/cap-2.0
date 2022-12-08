@@ -34,6 +34,7 @@ def perg():
             norma = dic[nperg][7]
             ref = dic[nperg][8]
             print(dic[nperg])
+            print(res)
         return cod, per, alt1, alt2, alt3, alt4, res, norma, ref, qtd
 #cod, per, alt1, alt2, alt3, alt4, res, norma, ref, qtd = perg()
 
