@@ -3,7 +3,7 @@ const $checkbox = document.querySelector('#switch')
 dark = 0
 $checkbox.addEventListener('change', function() {
     $html.classList.toggle('dark-mode')
-    $html.classList.toggle('dark')
+    //$html.classList.toggle('dark')
     })
 nodupl = 0
 corr = 0
@@ -150,6 +150,17 @@ btn1.addEventListener("click", function(e){
         setCookie("nr", nr, 365)
         setCookie("dark", dark, 365)
     })
+//*****************************************BTN RESET************************************* */
+
+const btn7 = document.getElementById("reset");
+btn6.addEventListener("click", function(e){
+    btn7.style.backgroundColor = "#2E8B57";
+    //e.preventDefault();
+    corr = 0
+    err = 0
+    nr = 0
+    eraseCookie()
+})
 //*****************************************RES COUNT************************************* */
 
 document.getElementById("corr").innerHTML = "Corectas " + corr;
