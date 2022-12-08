@@ -25,11 +25,16 @@
     justify-content:space-between;
 }
 .titulo .tit{
+    border-radius: 20px;
     font-size: 5vh;
     font-weight: bolder;
     height: auto;
     transition: .5s;
 }
+.titulo .tit a{
+    border-radius: 20px;
+    }
+
 .titulo .info{
     font-size: 15px;
     display: flex;
