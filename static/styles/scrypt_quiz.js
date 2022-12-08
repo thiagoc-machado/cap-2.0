@@ -155,7 +155,7 @@ btn1.addEventListener("click", function(e){
 document.getElementById("corr").innerHTML = "Corectas " + corr;
 document.getElementById("err").innerHTML = "Erroneas " + err;
 document.getElementById("nr").innerHTML = "No resp. " + nr;
-tot = corr + err + nr
+tot = parseInt(corr) + parseInt(err) + parseInt(nr)
 document.getElementById("tot").innerHTML = "Total.   " + tot;
 if (dark == 0){
     document.getElementById("switch").checked = false;
