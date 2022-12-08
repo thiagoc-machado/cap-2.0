@@ -6,7 +6,7 @@
 .dark-mode:root{
     --pri-color: #25274d;
     --sec-color:#353A65;
-    --font-color:#fff;
+    --font-color:rgb(219, 219, 219);
     transition: .5s;
 }
 
@@ -15,7 +15,13 @@
     background: var(--sec-color);
     display: flex;
     flex-flow: column nowrap;
-    margin: 3px;
+
+    margin-top: 0px;
+    margin-left: 1;
+    margin-right: 1;
+}
+#resp{
+    display: none;
 }
 .titulo{
     color: var(--font-color);
@@ -46,6 +52,8 @@
 .titulo .check{
     align-items:flex-end;
     height: auto;
+    flex-direction: column;
+    font-size: 1.8vh;
 }
 .titulo .check input{
     cursor: pointer;
@@ -84,7 +92,7 @@ button{
     color: var(--font-color);
     padding: 20px;
     border-radius: 20px;
-    border: 1px solid #919191;
+    border: 1px solid var(--pri-color);
     font-size: 15px;
     font-weight: bold;
     cursor: pointer;
@@ -140,6 +148,7 @@ button:hover{
     border-radius: 20px;
 }
 .btn .count{
+    padding: 2px;
 font-weight: bold;
 border-radius: 20px;
 display: flex;
@@ -147,9 +156,16 @@ flex-direction: row;
 justify-content: space-between;
 margin: 5px;
 }
+.btn .count a{
+    border-radius: 20px;
+}
+.btn .count .perg2{
+    border-radius: 20px;
+}
 #reset{
-    padding: 2px;
-    border: 1px solid black;
+    padding: 0px;
+    border: 1px solid var(--pri-color);
+    background: var(--pri-color);
 }
 
 
@@ -187,21 +203,20 @@ input:checked[type="checkbox"]:before{
     left:30px;
 }
 
+
 /* responsive */
 
 @media (max-width: 680px), screen and (orientation: portrait) {
     *{  
         padding: 1px 1px 0px 1px;
-        background: var(--sec-color);
-        display: flex;
-        flex-flow: column nowrap;
+        margin: 5px;
+        margin-top: 0px;
     }
     body{
         padding: 0px;
         margin: 0;
     }
     .titulo{
-        color: var(--font-color);
         display: flex;
         flex-wrap: nowrap;
         flex-direction: row;
@@ -221,88 +236,67 @@ input:checked[type="checkbox"]:before{
         height: auto;
         font-weight: bold;
     }
-    .titulo .check{
-        align-items:flex-end;
-        height: auto;
-        font-size: 2vh;
-    }
-    .titulo .check input{
-        cursor: pointer;
-    }
-    .btn {
-        background: var(--pri-color);
-        border-radius: 20px;
-    }
     .btn .perg{
         display: flex;
-        background-color: var(--pri-color);
-        color: var(--font-color);
         border-radius: 20px;
         font-size: 3vh;
         transition: .5s;
     }
     .btn .perg a{
-        background-color: var(--pri-color);
         border-radius: 20px;
         padding: 10px;
     }
     button{
-        background-color:var(--sec-color);
-        color: var(--font-color);
         padding: 4vh;
         border-radius: 20px;
-        border: 1px solid #919191;
         font-size: 2vh;
         font-weight: bold;
         cursor: pointer;
         transition: .5s;
-    }
-    button:hover{
-        background-color: var(--pri-color);
-        color: var(--font-color);
-    }
-    #btn_nr{
-        background-color: #4169E1;
-    }
-    #btn_nr:hover{
-        background-color: var(--pri-color);
-        color: var(--font-color);
-    }
-    #btn_p{
-        background-color: #DAA520;
-    }
-    #btn_p:hover{
-        background-color: #BDB76B;
-        color: var(--font-color);
     }
     .btn .leg{
         display: inline-block;
         flex-direction:row;
         justify-content: space-between;
         border-radius: 10px;
-        background: var(--pri-color);
     }
     .btn .leg .ref{
         display:flex;
-        font-size: 20px;
+        font-size: 1vh;
         flex-direction: column;
-        background: var(--pri-color);
-        color: var(--font-color);
         border-radius: 20px;
         padding: 7px;
         font-weight: bold;
     }
-    .btn .leg .ref a{
-        background-color: var(--pri-color);
-        border-radius: 20px;
-    }
     .btn .count{
+        font-size: 1.5vh;
         font-weight: bold;
         border-radius: 20px;
         display: flex;
-        flex-direction: column;
+        flex-direction: row;
         justify-content: space-between;
         margin: 5px;
-        }
+    }
+    input[type="checkbox"]{
+        height:40px;
+        width:100px;
+        outline:none;
+    }
+    input[type="checkbox"]:before{
+        content:'';
+        display:inline-block ;
+        height:30px;
+        width:30px;
+        border-radius:50%;
+        position:relative ;
+        top:5px;
+        left:5px;
+        transform:scale(1.1);
+        transition:.4s;
+    }
+    input:checked[type="checkbox"]:before{
+        position:relative ;
+        left:60px;
+    }
 
 }
