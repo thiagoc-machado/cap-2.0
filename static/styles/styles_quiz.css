@@ -148,13 +148,13 @@ button:hover{
     border-radius: 20px;
 }
 .btn .count{
-    padding: 2px;
-font-weight: bold;
-border-radius: 20px;
-display: flex;
-flex-direction: row;
-justify-content: space-between;
-margin: 5px;
+	padding: 2px;
+	font-weight: bold;
+	border-radius: 20px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	margin: 5px;
 }
 .btn .count a{
     border-radius: 20px;
