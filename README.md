@@ -1,5 +1,5 @@
 # cap2022
 
-This application takes the database of the Spanish Ministry of Transport 
-https://www.mitma.gob.es/areas-de-actividad/transporte-terrestre/servicios-al-transportista/cap/examenes-de-formacion-de-conductores-profesionales-cap
-filters the data, breaks it into blocks and presents it to the user in a quiz format.
+This web application I present is a study tool designed especially for those who need to pass the CAP exam in Spain. It performs web scraping of the questions from the website of the Spanish Ministry of Transport, selects the links to the topics of the questions, accesses each one of them and downloads all the questions, creating a file with the raw data.
+The data is organized and presented to the user randomly, allowing you to test your knowledge in a challenging and efficient way. In addition, the application has a system for counting correct answers, errors and unanswered questions, which is carried out using javascript and saved in cookies in the user's browser so you don't lose your progress.
+I am still working on the development of this tool and we plan to implement new features, such as organizing the questions by topic and creating a login system to control users. I believe that these improvements will be fundamental in making the application even more useful and efficient for those who need to prepare for the CAP exam.
