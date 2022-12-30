@@ -1,5 +1,9 @@
 # cap2022
 
-This web application I present is a study tool designed especially for those who need to pass the CAP exam in Spain. It performs web scraping of the questions from the website of the Spanish Ministry of Transport, selects the links to the topics of the questions, accesses each one of them and downloads all the questions, creating a file with the raw data.
-The data is organized and presented to the user randomly, allowing you to test your knowledge in a challenging and efficient way. In addition, the application has a system for counting correct answers, errors and unanswered questions, which is carried out using javascript and saved in cookies in the user's browser so you don't lose your progress.
-I am still working on the development of this tool and we plan to implement new features, such as organizing the questions by topic and creating a login system to control users. I believe that these improvements will be fundamental in making the application even more useful and efficient for those who need to prepare for the CAP exam.
+## Descrição
+
+Este é um aplicativo web criado como ferramenta de estudo para aqueles que precisam passar no exame CAP na Espanha. Ele realiza o web scraping de perguntas do site do Ministério de Transporte da Espanha, seleciona os links para os tópicos das perguntas, acessa cada um deles e baixa todas as perguntas, criando um arquivo com os dados brutos.
+Os dados são organizados e apresentados ao usuário de forma aleatória, permitindo que você teste seus conhecimentos de maneira desafiadora e eficiente. Além disso, o aplicativo possui um sistema para contar as respostas corretas, erros e perguntas sem resposta, o qual é realizado usando javascript e salvo em cookies no navegador do usuário, para que você não perca seu progresso.
+Ainda estou trabalhando no desenvolvimento desta ferramenta e planejamos implementar novas funcionalidades, como organizar as perguntas por tópico e criar um sistema de login para controlar os usuários. Acredito que essas melhorias serão fundamentais para tornar o aplicativo ainda mais útil e eficiente para aqueles que precisam se preparar para o exame CAP.
+
+Veja o projeto em ação: [Site do projeto](https://cap-empc.onrender.com/)
