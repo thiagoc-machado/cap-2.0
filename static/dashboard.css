@@ -34,27 +34,38 @@ body {
 }
 
 /* MAIN BLOCK */
-#tit {
+
+/* #mainBlock {
+  border: 2px solid rgb(0, 0, 0);
+}
+#mainBlock .tit {
   font-size: 2vh;
+  display: flex;
+  justify-content: center;
+  max-width: 100%;
 }
 #perg .perg {
+
+  display: block;
+  width: fit-content;
+  background: #bbb;
   font-size: 3vh;
 }
-#perg .alt {
+#mainBlock .btn .alt {
   font-size: 2vh;
   display: flex;
   gap: 10px;
   flex-direction: column;
-  max-width: 100%;
+  width: 100%;
   font-weight: 600;
 }
 #resp {
   display: none;
 }
-#perg .leg {
+#mainBlock .btn .leg {
   max-width: 100%;
   font-size: 2vh;
-}
+} */
 
 @media (min-width: 768px) {
   .sidebar {
