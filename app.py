@@ -65,6 +65,13 @@ def signup():
     form = RegisterForm()
     db.create_all()
     if form.validate_on_submit():
+        user = User.query.filter_by(username=form.username.data).first()
+        email = User.query.filter_by(email=form.email.data).first()
+        if user:
+            return '<h1>Username ja cadastrado</h1>'
+        if email:
+            return '<h1>Email ja cadastrado</h1>'
+
         hashed_password = generate_password_hash(form.password.data, method='sha256')
         new_user = User(username=form.username.data, email=form.email.data, password=hashed_password)
         db.session.add(new_user)
