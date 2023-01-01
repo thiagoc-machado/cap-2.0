@@ -7,7 +7,6 @@ body {
   padding-top: 50px;
 }
 
-
 /*
  * Global add-ons
  */
@@ -33,6 +32,30 @@ body {
 .sidebar {
   display: none;
 }
+
+/* MAIN BLOCK */
+#tit {
+  font-size: 2vh;
+}
+#perg .perg {
+  font-size: 3vh;
+}
+#perg .alt {
+  font-size: 2vh;
+  display: flex;
+  gap: 10px;
+  flex-direction: column;
+  max-width: 100%;
+  font-weight: 600;
+}
+#resp {
+  display: none;
+}
+#perg .leg {
+  max-width: 100%;
+  font-size: 2vh;
+}
+
 @media (min-width: 768px) {
   .sidebar {
     position: fixed;
@@ -66,7 +89,6 @@ body {
   background-color: #428bca;
 }
 
-
 /*
  * Main content
  */
@@ -83,7 +105,6 @@ body {
 .main .page-header {
   margin-top: 0;
 }
-
 
 /*
  * Placeholder dashboard ideas

@@ -6,6 +6,7 @@ from wtforms.validators import InputRequired, Email, Length
 from flask_sqlalchemy  import SQLAlchemy
 from werkzeug.security import generate_password_hash, check_password_hash
 from flask_login import LoginManager, UserMixin, login_user, login_required, logout_user, current_user
+from filter import perg
 
 app = Flask(__name__)
 app.config['SECRET_KEY'] = 'Thisissupposedtobesecret!'
@@ -41,6 +42,7 @@ class RegisterForm(FlaskForm):
 def index():
     return render_template('index.html')
 
+
 @app.route('/login', methods=['GET', 'POST'])
 def login():
     form = LoginForm()
@@ -57,6 +59,7 @@ def login():
 
     return render_template('login.html', form=form)
 
+
 @app.route('/signup', methods=['GET', 'POST'])
 def signup():
     form = RegisterForm()
@@ -72,10 +75,13 @@ def signup():
 
     return render_template('signup.html', form=form)
 
+
 @app.route('/dashboard')
 @login_required
 def dashboard():
-    return render_template('dashboard.html', name=current_user.username)
+    p = perg()
+    return render_template('dashboard.html', name=current_user.username,cod = p[0], perg = p[1], alt1 = p[2], alt2 = p[3], alt3 = p[4], alt4 = p[5], res = p[6], norma = p[7], ref = p[8], qtd = p[9])
+
 
 @app.route('/logout')
 @login_required
@@ -83,13 +89,12 @@ def logout():
     logout_user()
     return redirect(url_for('index'))
 
-@app.route('/', methods=['GET', 'POST'])
-def wtf_quiz():
+
+@app.route('/quiz', methods=['GET', 'POST'])
+def quiz():
     p = perg()
     return render_template('quiz.html',cod = p[0], perg = p[1], alt1 = p[2], alt2 = p[3], alt3 = p[4], alt4 = p[5], res = p[6], norma = p[7], ref = p[8], qtd = p[9])
-@app.route('/quiz')
-def quiz():
-    return render_template('quiz.html')
+
 
 if __name__ == '__main__':
     app.run(debug=True)
