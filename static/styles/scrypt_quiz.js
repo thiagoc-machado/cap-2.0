@@ -203,7 +203,7 @@ function setCookie(cname, cvalue, exdays) {
     var expires = "expires="+ d.toUTCString();
     document.cookie = cname + "=" + cvalue + "; " + expires;
 }
-    
+//*****************************************GET COOKIES*********************************** */
 function getCookie(cname) {
     let name = cname + "=";
     let ca = document.cookie.split(";");
@@ -218,7 +218,7 @@ function getCookie(cname) {
     }
     return "";
 }
-
+//*****************************************DARK-MODE************************************* */
 var switchContainer = $('.switch-container');
 
 switchContainer.on('click', function() {
