@@ -158,7 +158,8 @@ btn5.addEventListener("click", function (e) {
     nr++;
     nodupl++;
     setCookie("nr", nr, 365);
-    window.location.href = "/quiz";
+    const dest = window.location.href;
+    window.location.href = dest;
   } else {
     e.preventDefault();
   }
@@ -173,7 +174,8 @@ btn6.addEventListener("click", function (e) {
   setCookie("err", err, 365);
   setCookie("nr", nr, 365);
   setCookie("dark", dark, 365);
-  window.location.href = "/quiz";
+  const dest = window.location.href;
+  window.location.href = dest;
 });
 //*****************************************BTN RESET************************************* */
 
@@ -184,7 +186,8 @@ btn7.addEventListener("click", function (e) {
   setCookie("corr", 0, 365);
   setCookie("err", 0, 365);
   setCookie("nr", 0, 365);
-  window.location.href = "/quiz";
+  const dest = window.location.href;
+  window.location.href = dest;
 });
 //*****************************************RES COUNT************************************* */
 
