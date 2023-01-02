@@ -101,6 +101,11 @@ def quiz():
     p = perg((request.args['sec']))
     return render_template('quiz_comp.html',cod = p[0], perg = p[1], alt1 = p[2], alt2 = p[3], alt3 = p[4], alt4 = p[5], res = p[6], norma = p[7], ref = p[8], qtd = p[9], name=current_user.username)
 
+@app.route('/services', methods=['GET', 'POST'])
+@login_required
+def services():
+    return render_template('services.html',name=current_user.username)
+
 
 if __name__ == '__main__':
     app.run(debug=True)
