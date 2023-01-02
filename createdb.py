@@ -7,11 +7,11 @@ def create_table():
     cursor.execute('''
         CREATE TABLE "user" (
             "id"	INTEGER NOT NULL UNIQUE,
-            "username"	TEXT NOT NULL UNIQUE,
+            "username"	TEXT NOT NULL,
             "email"	TEXT NOT NULL UNIQUE,
             "password"	TEXT NOT NULL,
             PRIMARY KEY("id" AUTOINCREMENT)
         );
     ''')
 
-#create_table()
+create_table()

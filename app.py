@@ -55,7 +55,6 @@ def login():
                 return redirect(url_for('dashboard'))
 
         return '<h1>Invalid username or password</h1>'
-        #return '<h1>' + form.username.data + ' ' + form.password.data + '</h1>'
 
     return render_template('login.html', form=form)
 
@@ -87,7 +86,7 @@ def signup():
 @login_required
 def dashboard():
 
-    return render_template('dashboard.html')
+    return render_template('dashboard.html', name=current_user.username)
 
 @app.route('/logout')
 @login_required
@@ -95,12 +94,12 @@ def logout():
     logout_user()
     return redirect(url_for('index'))
 
-@login_required
+
 @app.route('/quiz', methods=['GET', 'POST'])
+@login_required
 def quiz():
-    #sec = (request.args['sec'])
     p = perg((request.args['sec']))
-    return render_template('quiz_comp.html',cod = p[0], perg = p[1], alt1 = p[2], alt2 = p[3], alt3 = p[4], alt4 = p[5], res = p[6], norma = p[7], ref = p[8], qtd = p[9])
+    return render_template('quiz_comp.html',cod = p[0], perg = p[1], alt1 = p[2], alt2 = p[3], alt3 = p[4], alt4 = p[5], res = p[6], norma = p[7], ref = p[8], qtd = p[9], name=current_user.username)
 
 
 if __name__ == '__main__':
