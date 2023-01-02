@@ -30,6 +30,14 @@
         <li><a href="#">Profile</a></li>
         <li><a href="{{ url_for('logout') }}">Log Out</a></li>
       </ul>
+      <ul id="links" class="nav navbar-nav navbar-right">
+        <li><a href="{{ url_for('quiz', sec='sec1-comunes.txt') }}">Sec 1 Comunes</a></li>
+        <li><a href="{{ url_for('quiz', sec='sec2-mercancias.txt') }}">Sec 2 Mercancias</a></li>
+        <li><a href="{{ url_for('quiz', sec='sec3-viajeros.txt') }}">Sec 3 Viajeros</a></li>
+        <li><a href="{{ url_for('quiz', sec='sec4-compl-mercancias.txt') }}">Sec 4 Complem. Mercancia</a></li>
+        <li><a href="{{ url_for('quiz', sec='sec5-compl-viajeros.txt') }}">Sec 5 Complem. Viajeros</a></li>
+        <li><a href="{{ url_for('quiz', sec='sec6-mercancias.txt') }}">Sec 6 Complem. Comunes</a></li>
+      </ul>
       <form class="navbar-form navbar-right">
       </form>
     </div>

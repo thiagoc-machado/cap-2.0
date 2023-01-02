@@ -35,6 +35,10 @@ body {
 
 /* MAIN BLOCK */
 
+#links {
+  display: block;
+}
+
 #mainBlock {
   border: 2px solid rgb(183, 183, 183);
   padding: 5px;
@@ -100,6 +104,9 @@ body {
 }
 
 @media (min-width: 768px) {
+  #links {
+    display: none;
+  }
   .sidebar {
     position: fixed;
     top: 51px;
