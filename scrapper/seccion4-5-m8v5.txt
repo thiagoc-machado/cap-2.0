@@ -1,0 +1,2342 @@
+
+M8V5. Formación sobre el tacógrafo digital
+COD: 43
+¿Cómo mide la hora el tacógrafo digital?
+
+En la hora correspondiente al tiempo universal coordinado (UTC).
+En la hora local del país de residencia del transportista.
+En la hora local del país de residencia del conductor.
+En la hora local del país de matriculación del vehículo.
+RESPUESTA: A
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, III.3  
+Referencia Doctrinal: 
+COD: 107
+¿Cómo se denomina la parte del tacógrafo que ofrece una señal representativa de la velocidad del vehículo o la distancia recorrida?
+
+Limitador de velocidad.
+Velocímetro.
+Sensor de movimiento.
+Caja de cambios.
+RESPUESTA: C
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, I,y
+Referencia Doctrinal: 
+COD: 224
+¿Cuál de estos tipos de documentos impresos no pueden extraerse del tacógrafo digital?
+
+Impresión de incidentes y fallos almacenados en la tarjeta.
+Impresión de incidentes y fallos almacenados en la unidad intravehicular.
+Impresión semanal de las actividades del conductor almacenadas en la tarjeta.
+Impresión diaria de las actividades del conductor almacenadas en la tarjeta.
+RESPUESTA: C
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, III.16  
+Referencia Doctrinal: 
+COD: 225
+¿Cuál de estos tipos de documentos impresos no pueden extraerse del tacógrafo digital?
+
+Impresión diaria de las actividades del conductor almacenadas en la tarjeta.
+Impresión de excesos de velocidad.
+Impresión diaria de las actividades del conductor almacenadas en la unidad intravehicular.
+Impresión mensual de las actividades del conductor almacenadas en la unidad intravehicular.
+RESPUESTA: D
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, III.16  
+Referencia Doctrinal: 
+COD: 252
+¿Qué debe constar en la placa de instalación del tacógrafo digital?
+
+Nombre y apellidos, dirección o marca del instalador o taller autorizado.
+Constante del aparato de control, en la forma "k = ... imp/km".
+Circunferencia efectiva de los neumáticos de las ruedas, en la forma "l = ... mm".
+Todas las respuestas anteriores son correctas.
+RESPUESTA: D
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, V.2
+Referencia Doctrinal: 
+COD: 253
+¿Qué debe constar en la placa de instalación del tacógrafo digital?
+
+Matrícula del vehículo.
+Coeficiente característico del vehículo, en la forma "w = ... imp/km".
+Marca y modelo del vehículo.
+Nombre comercial del fabricante del vehículo.
+RESPUESTA: B
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, V.2
+Referencia Doctrinal: 
+COD: 254
+¿Qué debe constar en la placa de instalación del tacógrafo digital?
+
+Matrícula del vehículo.
+Masa Máxima Autorizada.
+Circunferencia efectiva de los neumáticos de las ruedas, en la forma "l = ... mm".
+Marca y modelo del vehículo.
+RESPUESTA: C
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, V.2
+Referencia Doctrinal: 
+COD: 301
+¿Qué es el sensor de movimiento?
+
+Parte del aparato de control que ofrece una señal representativa de la velocidad del vehículo o la distancia recorrida.
+Parte del aparato de control que ofrece una señal representativa del descanso de los conductores.
+Parte del aparato de control que ofrece una señal representativa de la actividad de conducción de los conductores.
+Parte del aparato de control que ofrece una señal representativa de la actividad de otros trabajos de los conductores.
+RESPUESTA: A
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, I,y
+Referencia Doctrinal: 
+COD: 506
+En el transporte internacional, al finalizar el período de trabajo diario, ¿qué deberá introducir el conductor en un tacógrafo digital no inteligente?
+
+El país en que se encuentra.
+El país y la Comunidad Autónoma o región en que se encuentra.
+Solo la Comunidad Autónoma o región en que se encuentra.
+Nada, solo está obligado a indicar el lugar de comienzo.
+RESPUESTA: A
+NORMA: Reglamento Comunitario (UE) 165/2014 34
+Referencia Doctrinal: 
+COD: 507
+En el transporte internacional, al iniciar el período de trabajo diario, ¿qué dato deberá introducir el conductor en un tacógrafo digital no inteligente?
+
+El país en que se encuentra.
+El país y la Comunidad Autónoma o región en que se encuentra.
+Solo la Comunidad Autónoma o región en que se encuentra.
+Nada. El tacógrafo lo identifica automáticamente.
+RESPUESTA: A
+NORMA: Reglamento Comunitario (UE) 165/2014 34
+Referencia Doctrinal: 
+COD: 545
+En un tacógrafo digital, ¿dónde se acopla habitualmente el sensor de movimiento para recibir la señal del vehículo?
+
+En el can-bus.
+En el acelerador.
+En el tubo de escape.
+En la caja de cambios.
+RESPUESTA: D
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, V.2 y Apéndice 10  
+Referencia Doctrinal: 
+COD: 546
+En un tacógrafo digital, cuando el vehículo esté en movimiento, ¿qué actividad seleccionará el aparato automáticamente para el conductor?
+
+Disponibilidad.
+Descanso.
+Otro trabajo.
+Conducción.
+RESPUESTA: D
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, III.4  
+Referencia Doctrinal: 
+COD: 547
+En un tacógrafo digital, cuando el vehículo esté en movimiento, ¿qué actividad seleccionará el aparato automáticamente para el segundo conductor?
+
+Otro trabajo.
+Conducción.
+Descanso.
+Disponibilidad.
+RESPUESTA: D
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, III.4  
+Referencia Doctrinal: 
+COD: 548
+En un tacógrafo digital, cuando el vehículo se detiene, ¿qué actividad seleccionará el aparato automáticamente para el conductor?
+
+Descanso.
+Otro trabajo.
+Disponibilidad.
+Conducción.
+RESPUESTA: B
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, III.4  
+Referencia Doctrinal: 
+COD: 709
+¿Qué incluye la unidad intravehicular, elemento integrante del tacógrafo digital?
+
+Un cronómetro.
+Un medidor de combustible y de tiempos de trabajo.
+Una unidad de movimiento.
+Una memoria de datos y una unidad de proceso.
+RESPUESTA: D
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, II.1
+Referencia Doctrinal: 
+COD: 710
+¿Qué incluye la unidad intravehicular, elemento integrante del tacógrafo digital?
+
+Dos dispositivos de interfaz para tarjeta inteligente (conductor y segundo conductor) y una impresora.
+Un avisador de movimiento.
+Un procesador de combustible.
+Un sensor de movimiento.
+RESPUESTA: A
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, II.1
+Referencia Doctrinal: 
+COD: 711
+¿Qué incluye la unidad intravehicular, elemento integrante del tacógrafo digital?
+
+Un conector de calibrado/transferencia.
+Un avisador luminoso.
+Accesorios para la entrada de datos por parte del usuario.
+Todas las respuestas anteriores son correctas.
+RESPUESTA: D
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, II.1
+Referencia Doctrinal: 
+COD: 820
+Cuando se habla de tacógrafo digital, se hace referencia a un aparato de control que incluye:
+
+unidad intravehicular, las ruedas y los cables.
+un sensor de movimiento, caja de cambio y ruedas.
+cables, ruedas y aparato de control.
+unidad intravehicular, cables y sensor de movimiento.
+RESPUESTA: D
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, II.1
+Referencia Doctrinal: 
+COD: 840
+De las siguientes clases de permiso de conducir, ¿cuáles son específicas para la conducción de vehículos de transporte de mercancías de más de 3.500 kg?
+
+D, D+E.
+D1, D1+E.
+B, B+E.
+C, C+E.
+RESPUESTA: D
+NORMA: RD 818/2009 Art. 4.2
+Referencia Doctrinal: 
+COD: 952
+El sensor de movimiento y la unidad intravehicular son elementos integrantes:
+
+de un limitador de velocidad.
+de un tacógrafo digital.
+del sistema de frenado.
+del sistema de refrigeración.
+RESPUESTA: B
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, II.1
+Referencia Doctrinal: 
+COD: 959
+¿Cómo mide la hora el tacógrafo digital?
+
+En hora local del país por el que se esté desarrollando el transporte en cada momento.
+En la hora local del país de matriculación del vehículo.
+En la hora correspondiente al tiempo universal coordinado (UTC).
+En la hora que elija el conductor.
+RESPUESTA: C
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, III.3  
+Referencia Doctrinal: 
+COD: 990
+En caso de extravío de la tarjeta de tacógrafo, ¿qué deberá hacer el conductor?
+
+Seguir trabajando y posteriormente informará a su jefe de tráfico.
+Dejar de trabajar inmediatamente.
+Solicitar una nueva tarjeta en un período máximo de 7 días naturales.
+Puede realizar cualquier actividad menos conducción de vehículos que lleven tacógrafo.
+RESPUESTA: C
+NORMA: OM FOM/1190/2005 Art. 8
+Referencia Doctrinal: 
+COD: 998
+En caso de robo de la tarjeta de tacógrafo, ¿qué deberá hacer el conductor?
+
+Dejar de trabajar.
+Seguir trabajando y posteriormente informará a su jefe de tráfico.
+Solicitar una nueva tarjeta en un período máximo de 7 días naturales.
+Puede realizar cualquier actividad menos conducción de vehículos que lleven tacógrafo.
+RESPUESTA: C
+NORMA: OM FOM/1190/2005 Art. 8
+Referencia Doctrinal: 
+COD: 1037
+Realizando un transporte interior en España, ¿qué dato debe introducir el conductor en el tacógrafo digital al finalizar la jornada?
+
+El país en que se encuentra.
+El país y la Comunidad Autónoma en que se encuentra.
+Solo la Comunidad Autónoma en que se encuentra.
+Nada, ya que el tacógrafo identifica siempre automáticamente la posición.
+RESPUESTA: B
+NORMA: Reglamento Comunitario 165/2014 34; OM FOM/1190/2005 Disposición adicional 1ª
+Referencia Doctrinal: 
+COD: 1038
+Haciendo transporte interior en España, ¿qué deberá indicar el conductor en el tacógrafo al iniciar la jornada?
+
+El país en que se encuentra.
+El país y la Comunidad Autónoma en que se encuentra.
+Solo la Comunidad Autónoma en que se encuentra.
+Nada, ya que el tacógrafo identifica siempre automáticamente la posición.
+RESPUESTA: B
+NORMA: Reglamento Comunitario 165/2014 34; OM FOM/1190/2005 Disposición adicional 1ª
+Referencia Doctrinal: 
+COD: 1543
+¿Cuál será la marca de homologación de un aparato de control homologado en Alemania?
+
+Una "e" minúscula y el numero 1 dentro de un rectángulo con un número en un lugar cercano.
+Una circunferencia con un 1 dentro.
+Una circunferencia con una "d" minúscula y un 1 dentro con un número en un lugar cercano.
+Un rectángulo con una "a" minúscula y un 1 dentro.
+RESPUESTA: A
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo II, I.1
+Referencia Doctrinal: 
+COD: 1777
+¿El tacógrafo digital es capaz de detectar el mal funcionamiento de alguno de sus componentes?
+
+Sí, a través de la función de control de inserción de las tarjetas.
+Solo si funciona mal la impresora.
+Solo si funciona mal la pantalla.
+Sí, a través de una función de autodiagnóstico y comprobaciones automáticas.
+RESPUESTA: D
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, III.10  
+Referencia Doctrinal: 
+COD: 1781
+¿Realiza algún tipo de aviso el tacógrafo digital?
+
+Sí, pero solo cuando hay exceso de conducción.
+Sí, en caso de producirse un incidente o fallo.
+Sí, pero solo cuando tiene una avería.
+Sí, cuando se producen incidentes, pero no fallos.
+RESPUESTA: B
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, III.17  
+Referencia Doctrinal: 
+COD: 1782
+¿De qué tipo son los avisos del tacógrafo digital?
+
+Acústicos y, en algunos casos, luminosos.
+Luminosos, aunque también podrían ser acústicos.
+No tiene ningún tipo de avisos.
+Solo pueden ser acústicos.
+RESPUESTA: B
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, III.17  
+Referencia Doctrinal: 
+COD: 1783
+Los avisos del tacógrafo digital:
+
+están acompañados de un mensaje escrito en pantalla.
+están acompañados de la correspondiente sanción.
+son optativos, dependiendo del modelo de tacógrafo.
+pueden detener el vehículo.
+RESPUESTA: A
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, III.17  
+Referencia Doctrinal: 
+COD: 1807
+¿Deben figurar los datos del fabricante en la placa descriptiva de un tacógrafo?
+
+Sí, pero solo en el tacógrafo analógico.
+Sí, pero solo en el tacógrafo digital.
+No, en ningún caso.
+Sí, en todas las placas descriptivas.
+RESPUESTA: D
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, III.24; Reglamento Comunitario (UE) 165/2014 Anexo I, III.e).2
+Referencia Doctrinal: 
+COD: 1808
+¿Debe figurar la constante del aparato de control "K" en la placa descriptiva de un tacógrafo?
+
+Sí, pero solo en los tacógrafos analógicos.
+Sí, pero solo en los tacógrafos digitales.
+Sí, en todas las placas descriptivas.
+No, en ningún caso.
+RESPUESTA: A
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, III.24; Reglamento Comunitario (UE) 165/2014 Anexo I, III.e).2
+Referencia Doctrinal: 
+COD: 1811
+En una revisión periódica del tacógrafo digital se debe comprobar:
+
+el estado de los neumáticos.
+el estado de la caja de cambios.
+la circunferencia efectiva de los neumáticos.
+el estado de los frenos.
+RESPUESTA: C
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, VI.4
+Referencia Doctrinal: 
+COD: 1812
+¿Qué se debe comprobar en los controles periódicos del aparato de control?
+
+La integridad de los precintos y los elementos de la instalación.
+El correcto funcionamiento de las tarjetas de conductor.
+Si poseen una tarjeta de empresa y funciona correctamente.
+Los cinturones de seguridad.
+RESPUESTA: A
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, VI.4
+Referencia Doctrinal: 
+COD: 1817
+¿Se pueden realizar entradas manuales de actividades en el tacógrafo digital?
+
+Solo en caso de avería.
+Solo con el vehículo en movimiento.
+Solo con el vehículo sin contacto.
+Al introducir la tarjeta de conductor.
+RESPUESTA: D
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, III.6.2  
+Referencia Doctrinal: 
+COD: 1818
+¿Detecta el tacógrafo digital el régimen de conducción?
+
+Solo cuando se consume mucho combustible.
+Sí, pero solo al iniciar la marcha el vehículo.
+No lo detecta.
+Sí, distingue si las actividades se registran en solitario o en equipo.
+RESPUESTA: D
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, III.5  
+Referencia Doctrinal: 
+COD: 1819
+En un tacógrafo digital de primera generación, introducir el lugar donde comienza el período de trabajo diario es:
+
+una entrada manual del conductor.
+necesario para que el vehículo se ponga en movimiento.
+voluntario.
+una obligación solo en transporte de viajeros.
+RESPUESTA: A
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, III.6.1  
+Referencia Doctrinal: 
+COD: 1820
+¿Registra el tacógrafo digital los controles que realizan los agentes de inspección?
+
+Sí, siempre y cuando se introduzca la tarjeta de control.
+Sí, pero solo si son del Estado de matriculación del vehículo.
+No, nunca.
+Solo si existen infracciones en el control.
+RESPUESTA: A
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, III.12.2  
+Referencia Doctrinal: 
+COD: 1881
+Es necesario que los agentes de control inserten su tarjeta en el tacógrafo digital:
+
+para realizar una descarga de los datos.
+para hacer un calibrado.
+para conducir un vehículo.
+solo en algunos modelos de tacógrafo.
+RESPUESTA: A
+NORMA: Reglamento Comunitario (UE) 165/2014 Art. 38
+Referencia Doctrinal: 
+COD: 1884
+¿Qué plazo tiene la Administración para expedir una tarjeta de tacógrafo de conductor después de recibir una solicitud de renovación?
+
+Antes de que caduque la tarjeta, en todos los casos.
+Antes de la fecha de caducidad de la tarjeta si la solicitud se presentó en el plazo obligatorio.
+No tiene ningún plazo.
+5 meses desde la fecha de solicitud.
+RESPUESTA: B
+NORMA: OM FOM/1190/2005 Art. 6
+Referencia Doctrinal: 
+COD: 1885
+Cuando se solicita la renovación de la tarjeta de tacógrafo de un conductor:
+
+es necesario personarse en la oficina expedidora para solicitarla y para recogerla.
+se puede elegir entre recogerla en la oficina expedidora o recibirla en el domicilio.
+se puede elegir recibirla por fax.
+es obligatorio que te la envíen con un mensajero.
+RESPUESTA: B
+NORMA: OM FOM/1190/2005 Art. 6
+Referencia Doctrinal: 
+COD: 2783
+¿En qué tipo de documento impreso se pueden consultar los calibrados de un tacógrafo digital?
+
+Documento de impresión de 24 horas de actividad.
+En ninguno.
+Documento de impresión de datos técnicos.
+Documento de impresión de incidentes y fallos.
+RESPUESTA: C
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, Apéndice 4  
+Referencia Doctrinal: 
+COD: 2936
+Si se intenta abrir la carcasa de la unidad intravehicular del tacógrafo digital:
+
+se registra un incidente de intento de violación de la seguridad.
+no se registra nada si solo se abre pero no se manipula.
+se registra un fallo de tarjeta.
+se registra un fallo del sensor.
+RESPUESTA: A
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, III.9.10  
+Referencia Doctrinal: 
+COD: 2937
+En un tacógrafo digital, en caso de que no funcione la impresora de la unidad intravehicular, ¿qué se registra?
+
+Un incidente de corte del suministro eléctrico.
+Un incidente de violación de la seguridad.
+Un fallo del aparato de control.
+No se registra nada.
+RESPUESTA: C
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, III.9.12  
+Referencia Doctrinal: 
+COD: 2938
+¿Qué registra la unidad intravehicular de un tacógrafo digital si no funciona correctamente la pantalla?
+
+Fallo del aparato de control.
+Incidente en la unidad del vehículo.
+Incidente en las tarjetas.
+No registra nada.
+RESPUESTA: A
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, III.9.12  
+Referencia Doctrinal: 
+COD: 2939
+¿Qué ocurre en un tacógrafo digital si, durante la transferencia de datos, por cualquier motivo estos no se descargan correctamente?
+
+Es imposible darse cuenta.
+Se registra un incidente de tarjetas en la unidad intravehicular.
+Se registra un fallo del aparato de control. 
+No se registra nada.
+RESPUESTA: C
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, III.9.12  
+Referencia Doctrinal: 
+COD: 2940
+¿Qué hora es en España peninsular cuando el tacógrafo digital muestra una actividad a las 10:00 horas si estamos en horario de invierno?
+
+Las  0 horas.
+Las 9 horas.
+Las 20 horas.
+Las 11 horas.
+RESPUESTA: D
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, III.3; OM PCM/186/2022 Primero  
+Referencia Doctrinal: https://armada.defensa.gob.es/ArmadaPortal/page/Portal/ArmadaEspannola/cienciaobservatorio/prefLang-es/06Hora--01QueHoraEs
+COD: 2941
+Si el tacógrafo digital muestra el comienzo de una actividad a las 10 horas, ¿a qué hora local de España peninsular se ha iniciado dicha actividad si nos encontramos en horario de verano?
+
+A las 17 horas.
+A las 12 horas.
+A las 23 horas.
+A las 10 horas.
+RESPUESTA: B
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, III.3; OM PCM/186/2022 Primero  
+Referencia Doctrinal: https://armada.defensa.gob.es/ArmadaPortal/page/Portal/ArmadaEspannola/cienciaobservatorio/prefLang-es/06Hora--01QueHoraEs
+COD: 2942
+¿Qué muestra la pantalla del tacógrafo digital al insertar una tarjeta de conductor?
+
+No muestra nada.
+El nombre del titular de la tarjeta durante unos instantes.
+La fecha de caducidad de la tarjeta.
+Los datos de la empresa a la que pertenece el conductor.
+RESPUESTA: B
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, III.15.1  
+Referencia Doctrinal: 
+COD: 2943
+¿Qué muestra por defecto la pantalla del tacógrafo digital?
+
+Las actividades que realizan tanto el conductor como el segundo conductor en ese momento.
+El número de serie del sensor.
+Los datos del fabricante de la unidad intravehicular.
+La marca del vehículo donde está instalada.
+RESPUESTA: A
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, III.15.1  
+Referencia Doctrinal: 
+COD: 2965
+¿Cuántos incidentes de cada tipo es capaz de almacenar la tarjeta de tacógrafo del conductor?
+
+6.
+50.
+1.000.
+Todos.
+RESPUESTA: A
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, IV.5.2.7  
+Referencia Doctrinal: 
+COD: 2966
+Cuando un agente realiza un control a un tacógrafo digital, ¿qué registra la tarjeta de conductor?
+
+El cuerpo inspector que lo realiza.
+El domicilio y código postal del agente.
+El nombre y marca del aparato con el que lo realiza.
+El número de tarjeta del controlador y el país que la expidió.
+RESPUESTA: D
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, IV.5.2.9  
+Referencia Doctrinal: 
+COD: 2967
+¿Cuántos controles realizados por las autoridades en el tacógrafo digital deben quedar almacenados en la memoria de la tarjeta de conductor?
+
+Ninguno.
+Solo el último.
+Los últimos 500.
+Los últimos 50.
+RESPUESTA: B
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, IV.5.2.9  
+Referencia Doctrinal: 
+COD: 2969
+¿Qué se deberá hacer en caso de mal funcionamiento de la tarjeta de tacógrafo de un conductor?
+
+Solicitar una nueva en un plazo de 7 días naturales.
+Solicitar una nueva en un plazo de 31 días naturales.
+Solicitar una nueva en un plazo de 1 año.
+Conducir sin tarjeta hasta que caduque y se solicite otra.
+RESPUESTA: A
+NORMA: OM FOM/1190/2005 Art. 8
+Referencia Doctrinal: 
+COD: 2971
+¿Qué debe hacer el conductor cuando recupera una tarjeta de tacógrafo que le había sido robada, si ya tiene una de sustitución?
+
+Puede utilizar las dos indistintamente.
+Entregarla en cualquier organismo público.
+Devolverla al órgano emisor.
+Enviarla a Tráfico.
+RESPUESTA: C
+NORMA: OM FOM/1190/2005 Art. 8
+Referencia Doctrinal: 
+COD: 2972
+¿Qué plazo de validez tendrá una tarjeta de conductor que sustituye a una robada, perdida o que funciona mal?
+
+5 años.
+El mismo que tuviera la tarjeta a la que sustituye.
+10 años.
+2 años.
+RESPUESTA: B
+NORMA: OM FOM/1190/2005 Art. 8
+Referencia Doctrinal: 
+COD: 2973
+En caso de que un conductor cambie su domicilio a uno distinto del que figura en la tarjeta de tacógrafo, ¿qué debe hacer?
+
+No es necesario hacer nada hasta que corresponda efectuar la renovación de la tarjeta.
+Comunicarlo a la empresa.
+No puede utilizar el tacógrafo.
+Solicitar en la Administración de Transportes correspondiente a su residencia que se modifiquen los datos de la tarjeta mediante la expedición de una nueva.
+RESPUESTA: D
+NORMA: OM FOM/1190/2005 Art. 7
+Referencia Doctrinal: 
+COD: 3372
+¿Qué clase de permisos autorizan para la conducción de autobuses y autocares?
+
+Solamente el permiso de clase D1.
+Solamente el permiso de clase D.
+Cualquier permiso de clase E.
+Los de las clases D1, D1+E, D y D+E.
+RESPUESTA: D
+NORMA: RD 818/2009 Art. 4.2
+Referencia Doctrinal: 
+COD: 3576
+¿Cuántos tipos de documentos impresos, como mínimo, deberá ser capaz de imprimir el tacógrafo digital?
+
+Diez.
+Seis.
+Todos los que se necesiten.
+Los que soliciten los agentes de control.
+RESPUESTA: B
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, III.16  
+Referencia Doctrinal: 
+COD: 3646
+¿En qué caso puede ser retirada la tarjeta de conductor en el transcurso de una inspección?
+
+Cuando esté deteriorada.
+Cuando esté caducada.
+Si el permiso de conducir está caducado.
+Cuando se detecte un dispositivo de manipulación, para utilizarla como prueba.
+RESPUESTA: D
+NORMA: Reglamento Comunitario (UE) 165/2014 Art. 38.3
+Referencia Doctrinal: 
+COD: 4089
+¿Puede el tacógrafo digital registrar la velocidad y la distancia recorrida por el vehículo?
+
+No.
+Solo la velocidad.
+Solo la distancia recorrida.
+Sí.
+RESPUESTA: D
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, III.12  
+Referencia Doctrinal: 
+COD: 4090
+En caso de exceder la velocidad durante más de un minuto con un vehiculo equipado con tacógrafo digital:
+
+aparecerá un aviso luminoso en el tacógrafo.
+aparecerá únicamente un aviso acústico en el tacógrafo.
+el vehículo frenará automáticamente.
+se imprimirá automáticamente un documento en el tacógrafo recogiendo esta incidencia.
+RESPUESTA: A
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, III.17  
+Referencia Doctrinal: 
+COD: 4091
+Conduciendo un vehículo equipado con tacógrafo digital, ¿aparece algún tipo de aviso drelativo a los tiempos de conducción y descanso?
+
+No, puesto que el tacógrafo no interpreta la legislación de tiempos de conducción.
+Sí, pero solo si no se respeta el descanso semanal.
+Sí, pero solo en caso de excesos de conducción semanal.
+Sí, 15 minutos antes de que se exceda el tiempo máximo de conducción ininterrumpida.
+RESPUESTA: D
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, III.17  
+Referencia Doctrinal: 
+COD: 4116
+¿Qué dato debe aparecer en el inicio de cualquier tipo de documento impreso extraído del tacógrafo digital?
+
+La fecha y la hora (UTC) de la impresión.
+La fecha y la hora de instalación del tacógrafo.
+La fecha en que se realizan las actividades.
+La fecha y hora de impresión en hora local.
+RESPUESTA: A
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, Apéndice 4  
+Referencia Doctrinal: 
+COD: 4117
+¿Qué figura en la parte superior de cualquier documento impreso extraído del tacógrafo digital, inmediatamente después de la fecha?
+
+El pictograma del tacógrafo que utiliza.
+El pictograma que indica un incidente.
+El pictograma que indica el tipo de documento impreso.
+El pictograma que indica un fallo.
+RESPUESTA: C
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, Apéndice 4  
+Referencia Doctrinal: 
+COD: 4118
+¿Debe aparecer en los documentos impresos de tacógrafo digital la identificación del vehículo en el que se realiza?
+
+Sí, solo la matrícula.
+No, en ninguno.
+Sí, solo el número de bastidor.
+Sí, la matrícula y el número de bastidor.
+RESPUESTA: D
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, Apéndice 4  
+Referencia Doctrinal: 
+COD: 4119
+En todos los documentos impresos obligatorios extraídos del tacógrafo digital:
+
+aparecerán identificados los titulares de las tarjetas insertadas en el momento de la impresión.
+aparecerá identificado solo el titular de la tarjeta insertada en la ranura 1.
+aparecerán pictogramas indicando el consumo de combustible.
+aparecerá identificado solo el titular de la tarjeta insertada en la ranura 2.
+RESPUESTA: A
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, Apéndice 4  
+Referencia Doctrinal: 
+COD: 4175
+¿Es necesario hacer un  primer calibrado después de la instalación del tacógrafo digital?
+
+Sí, aunque no es necesario poner la matrícula si no se conoce.
+No es necesario.
+Sí, para poner el nombre de los conductores.
+Sí, para introducir el nombre de la empresa.
+RESPUESTA: A
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, V.1  
+Referencia Doctrinal: 
+COD: 4177
+¿Qué elementos de un tacógrafo digital deben llevar precinto?
+
+Ninguno, puesto que toda la información es digital y no se puede perder.
+Solo el frontal del tacógrafo.
+Solo la conexión de la parte posterior.
+Cualquier conexión que, si se desconectara, ocasionaría pérdidas de datos imposibles de descubrir.
+RESPUESTA: D
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, V.3  
+Referencia Doctrinal: 
+COD: 4178
+¿Debe llevar algún precinto la placa de instalación del tacógrafo digital?
+
+No, puesto que no es necesario poner placa de instalación en un tacógrafo digital.
+Es necesario poner una placa de instalación, pero no se precisa ningún precinto.
+Sí, pero solo si es metálica y no está troquelada.
+Sí, excepto que la placa no pueda retirarse sin destruir sus datos.
+RESPUESTA: D
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, V.3  
+Referencia Doctrinal: 
+COD: 4179
+¿Qué parte del tacógrafo va instalada normalmente en la caja de cambios del vehículo?
+
+La impresora.
+El sensor de movimiento.
+El conector de descarga.
+El lector de tarjetas.
+RESPUESTA: B
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, V.2 y Apéndice 10  
+Referencia Doctrinal: 
+COD: 4180
+¿Quién envía los datos de movimiento del vehículo a la unidad intravehicular del tacógrafo?
+
+El sensor de movimiento.
+El cuentakilómetros.
+El motor del vehículo.
+No se envían al tacógrafo.
+RESPUESTA: A
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, I,y
+Referencia Doctrinal: 
+COD: 4181
+¿Qué es la unidad intravehicular de un tacógrafo?
+
+La que registra los datos de consumo de combustible.
+La parte del tacógrafo que recibe la información de los giros de las ruedas.
+La parte del tacógrafo donde se registran y almacenan los datos.
+Un aparto que instala la empresa para tener localizado el vehículo.
+RESPUESTA: C
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, II.1
+Referencia Doctrinal: 
+COD: 4183
+Una de las partes de la unidad intravehicular en un tacógrafo digital es:
+
+el estilete para marcar los datos.
+el disco-diagrama u hoja de registro.
+la pantalla para visualizar los datos registrados en su memoria.
+la llave para cerrar la carátula.
+RESPUESTA: C
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, II.1
+Referencia Doctrinal: 
+COD: 4184
+¿Qué se entiende por impresora cuando se habla de un tacógrafo?
+
+Una parte de la unidad intravehicular en el tacógrafo digital.
+Una parte del tacógrafo analógico.
+Una parte del vehículo.
+Un aparato que tienen las empresas para descargar datos.
+RESPUESTA: A
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, II.1
+Referencia Doctrinal: 
+COD: 4185
+En un tacógrafo digital, ¿para qué sirve el conector que hay en el frontal de la unidad intravehicular?
+
+Para introducir el nombre del conductor con un ordenador portátil.
+Para introducir el nombre de la empresa con un ordenador portátil.
+En el tacógrafo digital no existe ningún conector.
+Para hacer descargas e introducir parámetros de calibración.
+RESPUESTA: D
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, II.1
+Referencia Doctrinal: 
+COD: 4186
+En un tacógrafo digital, para que la unidad intravehicular y el sensor de movimiento intercambien información:
+
+es necesario que el sensor sea de la misma marca que el tacógrafo.
+es necesario que ambos tengan el mismo año de fabricación.
+es necesario que el sensor esté acoplado a la unidad intravehicular por un taller autorizado.
+no es necesario que estén acoplados continuamente.
+RESPUESTA: C
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, V.1  
+Referencia Doctrinal: 
+COD: 4187
+¿Qué ocurriría en un tacógrafo digital si el sensor que envía los datos a la unidad intravehicular no estuviera acoplado por un taller autorizado?
+
+Que no funcionaría el tacógrafo, llegando incluso a apagarse.
+Que se registraría un incidente en el tacógrafo.
+Que no llegarían las actividades a la unidad intravehicular.
+No ocurriría nada.
+RESPUESTA: B
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, III.9  
+Referencia Doctrinal: 
+COD: 4188
+¿Qué registra la unidad intravehicular de un tacógrafo digital en caso de intento de violación de la seguridad?
+
+Un fallo.
+No registra nada.
+Un incidente.
+Un bloque de actividades.
+RESPUESTA: C
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, III.9  
+Referencia Doctrinal: 
+COD: 4197
+¿Reconoce el tacógrafo digital el país donde se expidió la tarjeta de conductor?
+
+No.
+Sí, pero solo las del país de matriculación del vehículo.
+Sí, reconoce el Estado miembro que ha expedido cada tarjeta.
+No lo reconoce para las tarjetas de conductor, pero sí para las de control.
+RESPUESTA: C
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, III.12.3  
+Referencia Doctrinal: 
+COD: 4198
+¿Cómo opera el tacógrafo digital al insertar una tarjeta inválida?
+
+La reconoce como no válida.
+La reconoce como no válida, pero solo si es de conductor.
+La reconoce como no válida, pero solo si le falta el chip.
+La reconoce como no válida, pero solo si es porque esté caducada.
+RESPUESTA: A
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, III.1
+Referencia Doctrinal: 
+COD: 4202
+¿Se puede insertar una tarjeta de conductor en un tacógrafo digital con el vehículo en movimiento?
+
+No, nunca.
+Sí,  pero el tacógrafo registra un incidente.
+Sí, pero solo hasta que alcanza los 20 km/h.
+Sí, a cualquier velocidad y no se registra ningún incidente.
+RESPUESTA: B
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, III.9.5  
+Referencia Doctrinal: 
+COD: 4203
+¿Qué incidente registra el tacógrafo digital al insertar una tarjeta de conductor con el vehículo en movimiento?
+
+No registra ningún incidente.
+Inserción de tarjeta durante la conducción.
+Inserción de tarjeta no válida.
+Registra un fallo de la tarjeta.
+RESPUESTA: B
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, III.9.5  
+Referencia Doctrinal: 
+COD: 4204
+En cada ciclo de inserción y extracción de una tarjeta de conductor, ¿qué queda registrado en el tacógrafo digital?
+
+Identificación del conductor, número de tarjeta y Estado miembro que la expide.
+Los datos de la empresa, CIF y domicilio.
+Los datos de la vía por la que se circula.
+La temperatura del vehículo.
+RESPUESTA: A
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, III.12.3  
+Referencia Doctrinal: 
+COD: 4205
+¿Se registra la fecha y la hora de inserción y extracción de la tarjeta de conductor en la memoria del tacógrafo digital?
+
+No, nunca.
+Sí, pero solo si se inserta en movimiento.
+Sí, siempre.
+Sí, pero solo si está caducada.
+RESPUESTA: C
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, III.12.3  
+Referencia Doctrinal: 
+COD: 4206
+Los kilómetros que marca el cuentakilómetros del vehículo se registran en la memoria del tacógrafo digital:
+
+solo al insertar la tarjeta.
+solo al extraer la tarjeta.
+solo el último día de la semana.
+al insertar y extraer la tarjeta.
+RESPUESTA: D
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, III.12.3  
+Referencia Doctrinal: 
+COD: 4207
+¿Es posible saber en qué ranura del tacógrafo digital ha estado insertada una tarjeta de conductor?
+
+Sí, pero solo si es la ranura del conductor.
+Sí, pero solo si es la ranura del segundo conductor.
+No, nunca es posible.
+Sí, puesto que el tacógrafo digital registra en qué ranura está insertada.
+RESPUESTA: D
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, III.12.3  
+Referencia Doctrinal: 
+COD: 4208
+¿Se puede saber si un conductor utilizó antes otro vehículo consultando la memoria del tacógrafo digital del vehículo actual?
+
+No, nunca.
+Sí, puesto que, al insertar la tarjeta de conductor, el tacógrafo anota en su memoria los datos del vehículo en el que ha estado insertada anteriormente.
+Sí, pero solo si el vehículo anterior es de la misma empresa.
+Sí, pero solo si el vehículo anterior está matriculado en el mismo país.
+RESPUESTA: B
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, III.12.3  
+Referencia Doctrinal: 
+COD: 4210
+¿Podemos conocer los datos del cuentakilómetros en una determinada fecha consultando la memoria del tacógrafo digital, aunque no haya una tarjeta de conductor insertada?
+
+Sí, puesto que todos los días a medianoche los registra en su memoria.
+Sí, pero solo si se trata del primer y último día de la semana.
+No, nunca.
+Sí, pero solo si se trata del último día de la semana.
+RESPUESTA: A
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, III.12.6  
+Referencia Doctrinal: 
+COD: 4211
+¿Se puede conocer con posterioridad la velocidad instantánea de un vehículo que lleva tacógrafo digital?
+
+No, solo se puede saber en el momento.
+Sí, de las últimas 24 horas que el vehículo estuviera en movimiento.
+Sí, pero solo se puede saber la del último minuto.
+Sí, pero solo en algunos modelos de tacógrafo.
+RESPUESTA: B
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, III.12.7  
+Referencia Doctrinal: 
+COD: 4213
+¿Qué distancia recorrida debe poder medir, como mínimo, el tacógrafo digital?
+
+1.000.000 km.
+200.000 km.
+9.999.999,9 km.
+100 km.
+RESPUESTA: C
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, III.2.1  
+Referencia Doctrinal: 
+COD: 4215
+En un tacógrafo digital, la medición de la velocidad se realizará entre:
+
+0 y 90 km/h.
+0 y 100 km/h.
+0 y 220 km/h.
+0 y 1.000 km/h.
+RESPUESTA: C
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, III.2.2  
+Referencia Doctrinal: 
+COD: 4216
+¿En qué hora aparecen reflejadas las actividades en los documentos impresos que se extraen del tacógrafo digital?
+
+En hora UTC.
+En la hora local del país de matriculación del vehículo.
+En la hora local del conductor que las haya realizado.
+En la hora que pusiera el fabricante del tacógrafo.
+RESPUESTA: A
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, III.3  
+Referencia Doctrinal: 
+COD: 4217
+La  medición de la hora no se verá afectada en el tacógrafo digital, aunque se le corte la corriente, hasta que transcurra, por lo menos:
+
+2 años.
+1 año.
+15 años.
+25 años.
+RESPUESTA: B
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, III.3  
+Referencia Doctrinal: 
+COD: 4218
+¿Se puede visualizar la hora local de un determinado país en la pantalla del tacógrafo digital?
+
+Sí, pero solo la del país de matriculación del vehículo.
+Sí, pero solo la del país de expedición de la tarjeta de conductor insertada.
+Sí, aunque es meramente informativa, puesto que no es la que utiliza el tacógrafo para su funcionamiento.
+No, solo se puede visualizar la hora UTC.
+RESPUESTA: C
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, III.3  
+Referencia Doctrinal: 
+COD: 4219
+¿Puede el conductor cambiar la hora local que aparece en la pantalla del tacógrafo digital?
+
+Sí, en fracciones de media hora.
+Sí, en fracciones de 1 minuto.
+Sí, pero de 3 en 3 horas.
+No, en ningún caso.
+RESPUESTA: A
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, III.3  
+Referencia Doctrinal: 
+COD: 4220
+¿Se puede ajustar la hora UTC en un tacógrafo digital en caso de que presente un desfase?
+
+No, solo se puede cambiar en fábrica.
+Sí, pero siempre hay que acudir a un taller autorizado.
+Sí, pero es necesario acudir a un taller de electricidad.
+Sí, se puede cambiar hasta 1 minuto en intervalos no inferiores a 7 días.
+RESPUESTA: D
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, III.21  
+Referencia Doctrinal: 
+COD: 4221
+En el caso de que el tacógrafo digital presente un desajuste de 10 minutos en la hora UTC, ¿cómo se puede corregir?
+
+Es recomendable acudir a un taller autorizado, puesto que el conductor solo puede cambiar 1 minuto a la semana.
+Es necesario enviar el tacógrafo a fábrica.
+Es necesario acudir al primer taller mecánico que aparezca.
+No se puede corregir, es necesario comprar un nuevo tacógrafo.
+RESPUESTA: A
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, III.21  
+Referencia Doctrinal: 
+COD: 4222
+Si el tacógrafo digital presenta un desajuste horario en la hora UTC de más de 20 minutos:
+
+es necesario corregirlo cambiando un minuto cada semana.
+no se puede solucionar y es necesario cambiar el tacógrafo.
+es obligatorio pasar un control periódico.
+es necesario enviarlo a fábrica.
+RESPUESTA: C
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, VI.4
+Referencia Doctrinal: 
+COD: 4223
+¿Registra el tacógrafo digital los controles que hacen las autoridades cuando introducen su tarjeta de control?
+
+Sí, siempre.
+No, nunca.
+Sí, pero solo si son del país de matriculación del vehículo.
+Sí, pero solo si son del país del conductor.
+RESPUESTA: A
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, III.12.12  
+Referencia Doctrinal: 
+COD: 4224
+¿Cuántos datos de las actividades de control almacena la memoria del tacógrafo digital?
+
+Todos los datos de los controles que se realicen.
+Solo un control, el último.
+Solo el primer control que se realice.
+Los datos de los últimos 20 controles.
+RESPUESTA: D
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, III.12.12  
+Referencia Doctrinal: 
+COD: 4225
+El tacógrafo digital calcula el tiempo de conducción acumulado y nos advierte de que corresponde hacer una pausa. ¿Qué sucede si cambiamos de vehículo?
+
+El tacógrafo del segundo vehículo sigue acumulando el tiempo de conducción al que ya se había hecho con el primero.
+El tacógrafo del segundo vehículo no considera el tiempo anterior, puesto que tiene el marcador a cero.
+Se sigue acumulando el tiempo de conducción, pero solo si el segundo vehículo es de la misma empresa.
+Se sigue acumulando el tiempo de conducción, pero solo si el tacógrafo del segundo vehículo es de la misma marca que el anterior.
+RESPUESTA: A
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, III.13  
+Referencia Doctrinal: 
+COD: 4226
+¿Pueden imprimirse los datos registrados en la tarjeta de conductor a través del tacógrafo digital?
+
+Sí, pero solo si el conductor es de la empresa propietaria del vehículo.
+No, es imposible.
+Sí, siempre que la tarjeta esté insertada en el tacógrafo.
+Sí, pero solo en algunos modelos de tacógrafo.
+RESPUESTA: C
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, III.16  
+Referencia Doctrinal: 
+COD: 4228
+Al insertar una tarjeta en el tacógrafo digital, este intenta leerla. ¿Qué sucede si se produce algún error de lectura?
+
+La extrae automáticamente.
+Registra un intento de violación de la seguridad.
+Se apaga automáticamente para evitar averías.
+Después de tres intentos de lectura la declara defectuosa y no válida.
+RESPUESTA: D
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, III.13  
+Referencia Doctrinal: 
+COD: 4229
+Al imprimir las actividades registradas en la memoria del tacógrafo digital:
+
+en el documento impreso aparecen todas las actividades realizadas por cada conductor en ese vehículo.
+no aparecen actividades puesto que no se pueden imprimir.
+aparecen solo las actividades del conductor que conduce.
+aparecen solo las actividades, pero sin asignar a ningún conductor aunque haya insertado su tarjeta.
+RESPUESTA: A
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, Apéndice 4  
+Referencia Doctrinal: 
+COD: 4266
+En un tacógrafo digital, ¿de qué período se pueden imprimir actividades?
+
+De las últimas 10 horas.
+De las últimas 24 horas.
+Solo de la última hora.
+Siempre de un dia natural (de 0 a 24 horas).
+RESPUESTA: D
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, III.16  y Apéndice 4.2
+Referencia Doctrinal: 
+COD: 4267
+En un tacógrafo digital, si se solicita la impresión de las actividades registradas en la memoria de la tarjeta de conductor:
+
+se imprimen las actividades de las últimas 10 horas.
+solo se imprimen las actividades de conducción.
+se  imprimen todas las actividades realizadas por el titular de esa tarjeta en el día civil seleccionado.
+solo se imprimen las actividades de otros trabajos.
+RESPUESTA: C
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, Apéndice 4  
+Referencia Doctrinal: 
+COD: 4268
+En un tacógrafo digital, ¿se pueden imprimir los incidentes y fallos registrados en la tarjeta de conductor?
+
+Sí, pero solo los fallos.
+No, de ningún modo.
+Sí, cuando está insertada en el tacógrafo la tarjeta de conductor.
+Sí, pero solo los incidentes.
+RESPUESTA: C
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, III.16  
+Referencia Doctrinal: 
+COD: 4269
+¿Se puede consultar la información registrada en el tacógrafo por medio de una impresión?
+
+Sí.
+No.
+Solo en determinada marca de tacógrafos.
+Solo en un taller.
+RESPUESTA: A
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, III.16  
+Referencia Doctrinal: 
+COD: 4274
+¿Qué registra en su memoria la tarjeta de tacógrafo del conductor?
+
+La fecha y la hora de inserción y extracción en un tacógrafo.
+La marca del vehículo.
+Los datos de velocidad.
+La temperatura del motor del vehículo.
+RESPUESTA: A
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, IV.5.2  
+Referencia Doctrinal: 
+COD: 4275
+¿Registra la tarjeta de conductor en su memoria la ranura del tacógrafo en la que está insertada?
+
+Sí, pero solo si es la ranura 1.
+Sí, siempre.
+Sí, pero solo si es la ranura 2.
+No, nunca.
+RESPUESTA: B
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, IV.5.2  
+Referencia Doctrinal: 
+COD: 4276
+¿Qué registra la tarjeta de conductor en su memoria a través del tacógrafo digital?
+
+Los datos del consumo de combustible de cada conductor.
+La velocidad del vehículo en la última hora.
+El régimen de conducción (en equipo o solitario).
+Las actividades de otros conductores que le acompañen.
+RESPUESTA: C
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, IV.5.2  
+Referencia Doctrinal: 
+COD: 4277
+En los tacógrafos digitales de primera generación, el lugar donde comienza o finaliza su jornada el conductor se registra en la tarjeta del conductor:
+
+automáticamente, sin necesidad de que el conductor haga nada.
+automáticamente, pero sólo cuando el conductor comienza a conducir.
+cuando el conductor lo indica manualmente a través del tacógrafo digital.
+cuando lo envían telemáticamente desde un taller.
+RESPUESTA: C
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, IV.5.2  
+Referencia Doctrinal: 
+COD: 4278
+¿Qué datos de un incidente registra el tacógrafo digital en la tarjeta de conductor?
+
+Solo el nombre del incidente.
+Solo un pictograma.
+Nada.
+La fecha y la hora, el código del incidente y la matrícula del vehículo.
+RESPUESTA: D
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, IV.5.2  
+Referencia Doctrinal: 
+COD: 4279
+En un tacógrafo digital, cuando se cambia de vehículo y el segundo tiene un retraso en la hora UTC con respecto al primero:
+
+se registra un incidente de solapamiento temporal y se solapan las actividades de ese período.
+no se registra ningún incidente, solo se solapan las actividades.
+el tacógrafo se apaga.
+el segundo tacógrafo expulsa la tarjeta de conductor.
+RESPUESTA: A
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, III.9.3  
+Referencia Doctrinal: 
+COD: 4280
+Cuando las autoridades efectúan un control del tacógrafo digital, ¿qué registra la tarjeta de conductor?
+
+El punto kilométrico donde se realiza el control.
+El tipo de aparato con el que se realiza el control.
+La fecha y la hora en la que se realiza el control.
+El cuerpo inspector que realiza el control.
+RESPUESTA: C
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, IV.5.2  
+Referencia Doctrinal: 
+COD: 4281
+El tipo de control que realizan los agentes en un tacógrafo digital, ya implique impresión o descarga de datos, se registra en:
+
+la tarjeta de conductor.
+la tarjeta de taller.
+la tarjeta de empresa.
+el disco-diagrama u hoja de registro.
+RESPUESTA: A
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, IV.5.2  
+Referencia Doctrinal: 
+COD: 5311
+Un conductor que haya obtenido el certificado de aptitud profesional acreditativo de su cualificación inicial quedará habilitado para la conducción de vehículos para los que se exija estar en posesión de permisos de la clase C o C+E:
+
+a partir de los 23 años si lo ha obtenido por la modalidad acelerada y cuenta con el permiso de conducir correspondiente.
+a partir de los 21 años si lo ha obtenido por la modalidad acelerada y cuenta con el permiso de conducir correspondiente.
+a partir de los 24 años si lo ha obtenido por la modalidad acelerada y cuenta con el permiso de conducir correspondiente.
+a partir de los 21 años si lo ha obtenido por la modalidad acelerada, aún cuando no cuente con el correspondiente permiso de conducción.
+RESPUESTA: B
+NORMA: RD 818/2009 Art. 4.2
+Referencia Doctrinal: 
+COD: 5428
+El permiso de conducción de la clase C1 autoriza para conducir automóviles distintos de los que autorizan los permisos de las clases D1 o D, cuya masa máxima autorizada:
+
+exceda de 3.500 kg y no sobrepase los 7.500 kg, diseñados y construidos para el transporte de no más de ocho pasajeros además del conductor.
+exceda de 2.500 kg y no sobrepase los 7.500 kg, independientemente del número de pasajeros transportados.
+sea de hasta 12.000 kg.
+sea de hasta 30.000 kg.
+RESPUESTA: A
+NORMA: RD 818/2009 Art. 4.2
+Referencia Doctrinal: 
+COD: 5430
+El permiso de conducción de la clase C autoriza para conducir automóviles distintos de los que autorizan los permisos de las clases D1 o D, cuya masa máxima autorizada:
+
+exceda de 1.000 kg.
+exceda de 3.500 kg.
+exceda de 1.500 kg.
+exceda de 2.000 kg.
+RESPUESTA: B
+NORMA: RD 818/2009 Art. 4.2
+Referencia Doctrinal: 
+COD: 5482
+El permiso de conducción de la clase D1 autoriza para conducir automóviles diseñados y construidos para el transporte de:
+
+mercancías, con más de 3.500 kg de masa máxima autorizada.
+no más de 16 pasajeros, además del conductor, y cuya longitud máxima no exceda de 8 metros.
+no más de 20 pasajeros, además del conductor.
+no más de 45 pasajeros, además del conductor, independientemente de la longitud del vehículo.
+RESPUESTA: B
+NORMA: RD 818/2009 Art. 4.2
+Referencia Doctrinal: 
+COD: 5483
+Con el permiso de la clase D1 se permite llevar enganchado un remolque cuya masa máxima autorizada:
+
+no exceda de 750 kg.
+exceda de 750 kg.
+no exceda de 950 kg.
+exceda de 950 kg.
+RESPUESTA: A
+NORMA: RD 818/2009 Art. 4.2
+Referencia Doctrinal: 
+COD: 5484
+El permiso de conducción de la clase D autoriza para conducir automóviles diseñados y construidos para el transporte de:
+
+no más de 9 pasajeros.
+más de 8 pasajeros, además del conductor.
+más de 7 pasajeros, incluido el conductor.
+mercancías de más de 3.500 kg de Masa Máxima Autorizada.
+RESPUESTA: B
+NORMA: RD 818/2009 Art. 4.2
+Referencia Doctrinal: 
+COD: 5486
+El permiso de conducir de la clase D permite llevar enganchado un remolque cuya masa máxima autorizada:
+
+exceda de 750 kg.
+no exceda de 750 kg.
+no exceda de 950 kg.
+exceda de 950 kg.
+RESPUESTA: B
+NORMA: RD 818/2009 Art. 4.2
+Referencia Doctrinal: 
+COD: 5489
+La edad mínima para obtener un permiso de conducción de clase D1 y D1+E será de:
+
+dieciocho años cumplidos.
+veintiún años cumplidos.
+dieciocho años cumplidos para el permiso D1 y veintiún años cumplidos para el permiso D1+E.
+dieciocho años cumplidos para el permiso D1+E y veintiún años cumplidos para el permiso D1.
+RESPUESTA: A
+NORMA: RD 818/2009 Art. 4.2
+Referencia Doctrinal: 
+COD: 5491
+Para los titulares del certificado de aptitud profesional (CAP) que lo hayan obtenido realizando la modalidad de cualificación inicial ordinaria, ¿cuál será la edad mínima para conducir, en territorio nacional y sin pasajeros, vehículos que requieren un p
+
+veinticuatro años cumplidos para el permiso D+E y veintiún años cumplidos para el permiso D.
+veintiún años cumplidos.
+dieciocho años cumplidos.
+veinticuatro años cumplidos para el permiso D y veintiún años cumplidos para el permiso D+E.
+RESPUESTA: C
+NORMA: RD 818/2009 Art. 4.2
+Referencia Doctrinal: 
+COD: 6123
+Según las clases de permisos de conducir, ¿cuál autoriza a la conducción de un camión cuya MMA exceda de 3.500 kg?
+
+El permiso de clase D.
+El permiso de clase BTP.
+El permiso de clase B.
+El permiso de clase C.
+RESPUESTA: D
+NORMA: RD 818/2009 Art. 4.2
+Referencia Doctrinal: 
+COD: 6124
+¿Qué permiso autoriza a la conducción de un autocar de no más de dieciséis pasajeros, además del conductor, y cuya longitud máxima no exceda de ocho metros?
+
+El permiso de clase D1.
+El permiso de clase C.
+El permiso de clase C1.
+El permiso de clase B.
+RESPUESTA: A
+NORMA: RD 818/2009 Art. 4.2
+Referencia Doctrinal: 
+COD: 6332
+La hora oficial en España peninsular supone, respecto de la hora UTC:
+
+una hora menos en invierno.
+una hora más en invierno.
+dos horas más en invierno.
+dos horas menos en invierno.
+RESPUESTA: B
+NORMA: OM PCM/186/2022 Primero
+Referencia Doctrinal: https://armada.defensa.gob.es/ArmadaPortal/page/Portal/ArmadaEspannola/cienciaobservatorio/prefLang-es/06Hora--01QueHoraEs
+COD: 6335
+¿Puede la tarjeta de conductor almacenar datos sobre fallos?
+
+Sí, pero solo los referidos a ella misma.
+Sí, pero solo los del tacógrafo.
+Sí, tanto los fallos de ella misma como del tacógrafo.
+No.
+RESPUESTA: C
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, IV.5.2  
+Referencia Doctrinal: 
+COD: 6341
+Con el vehículo en movimiento, ¿qué actividad marca automáticamente el tacógrafo digital para el segundo conductor?
+
+Disponibilidad.
+Otro trabajo.
+Conducción.
+Pausa.
+RESPUESTA: A
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, III.4  
+Referencia Doctrinal: 
+COD: 6436
+¿Habilita el permiso de conducción D1 para conducir un automóvil de transporte de personas con remolque?
+
+Sí, con remolque de más de 750 kg de MMA.
+Sí, con remolque de hasta 750 kg de MMA.
+Sí, con remolque de hasta 3.500 kg de MMA.
+No.
+RESPUESTA: B
+NORMA: RD 818/2009 Art. 4.2
+Referencia Doctrinal: 
+COD: 7016
+¿Qué debe aparecer en la placa que coloca el taller en el vehículo después de la revisión del tacógrafo digital?
+
+La circunferencia efectiva de los neumáticos.
+La velocidad de corte del limitador.
+Los kilómetros a los que debe realizarse la siguiente revisión.
+Los kilómetros a los que se ha realizado la revisión.
+RESPUESTA: A
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, V.2  
+Referencia Doctrinal: 
+COD: 7027
+¿Dónde está instalado habitualmente el sensor de movimiento del tacógrafo digital?
+
+En la unidad intravehicular del tacógrafo (VU).
+En la tarjeta del conductor.
+En las ruedas motrices del vehículo.
+En la caja de cambios del vehículo.
+RESPUESTA: D
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, V.2 y Apéndice 10  
+Referencia Doctrinal: 
+COD: 7028
+¿Qué elemento no forma parte del tacógrafo digital?
+
+Sensor de movimiento.
+Estabilizador de impulsos.
+Cables.
+Unidad intravehicular.
+RESPUESTA: B
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, II.1
+Referencia Doctrinal: 
+COD: 7030
+La unidad intravehicular del tacógrafo digital no incluye entre sus componentes:
+
+un sensor de movimiento.
+una pantalla.
+un reloj.
+un avisador luminoso.
+RESPUESTA: A
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, II.1
+Referencia Doctrinal: 
+COD: 7034
+Cuando el vehículo se detenga, ¿qué actividad seleccionará automáticamente el tacógrafo digital para el conductor?
+
+Conducción.
+Otro trabajo.
+Descanso.
+Ninguna.
+RESPUESTA: B
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, III.4  
+Referencia Doctrinal: 
+COD: 7035
+¿Qué datos muestra la pantalla del tacógrafo digital?
+
+La matrícula del vehículo.
+El número de serie del tacógrafo.
+El nombre del titular de la tarjeta durante unos instantes, al insertarla.
+El número de la tarjeta insertada.
+RESPUESTA: C
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, III.15.1  
+Referencia Doctrinal: 
+COD: 7036
+Si un conductor inserta una tarjeta de tacógrafo no válida, ¿cómo se comporta el aparato?
+
+La expulsa automáticamente.
+La retiene hasta que un centro autorizado la extraiga.
+La considera defectuosa.
+Avisa del error y se desconecta automáticamente.
+RESPUESTA: C
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, III.1
+Referencia Doctrinal: 
+COD: 7037
+Cuando un conductor inserta una tarjeta en un tacógrafo digital, el aparato almacena en su memoria:
+
+en qué ranura se ha insertado la tarjeta (CONDUCTOR, SEGUNDO CONDUCTOR).
+el vehículo utilizado por el conductor.
+la identificación del conductor.
+Todas las respuestas son correctas.
+RESPUESTA: D
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, IV.5.2  
+Referencia Doctrinal: 
+COD: 7071
+Un tacógrafo digital imprime datos que se encuentran almacenados:
+
+en su memoria o en la de la tarjeta que tenga insertada.
+solo en su memoria.
+solo en la tarjeta que tenga insertada.
+en su memoria o en la tarjeta del primer conductor, exclusivamente.
+RESPUESTA: A
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, III.16  
+Referencia Doctrinal: 
+COD: 7073
+El tacógrafo digital avisa al conductor:
+
+30 minutos antes de conducir 10 horas en la jornada de trabajo.
+15 minutos antes de conducir 4 horas y 30 minutos seguidas.
+60 minutos antes de conducir 10 horas en la jornada de trabajo.
+30 minutos antes de conducir 4 horas y 30 minutos seguidas.
+RESPUESTA: B
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, III.17  
+Referencia Doctrinal: 
+COD: 7074
+¿Puede imprimir el tacógrafo los datos sobre excesos de velocidad del vehículo?
+
+Sí.
+Solo si se trata de un vehículo de transporte de viajeros.
+Únicamente los datos del día en curso.
+No.
+RESPUESTA: A
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, III.16  
+Referencia Doctrinal: 
+COD: 7075
+El tacógrafo digital debe poder medir la velocidad del vehículo hasta un máximo de:
+
+180 km/h.
+200 km/h.
+220 km/h.
+240 km/h.
+RESPUESTA: C
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, III.2.2  
+Referencia Doctrinal: 
+COD: 7084
+¿Qué hora utiliza el tacógrafo digital  para medir el tiempo?
+
+Hora local del lugar donde se encuentra el vehículo.
+Hora oficial del estado de matriculación del vehículo.
+Hora oficial del estado de residencia de la empresa.
+Hora correspondiente al tiempo universal coordinado (UTC).
+RESPUESTA: D
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, III.3  
+Referencia Doctrinal: 
+COD: 7085
+Si el conductor introduce una tarjeta en el tacógrafo digital y se produce un error de lectura, ¿cómo actuará el aparato?
+
+Expulsará la tarjeta y no volverá a admitirla.
+Después de tres intentos de lectura, declarará la tarjeta no válida.
+Indicará en la pantalla el error y cancelará la tarjeta.
+Bloqueará la tarjeta hasta que sea retirada por un centro autorizado.
+RESPUESTA: B
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, III.13  
+Referencia Doctrinal: 
+COD: 7086
+La hora oficial en España peninsular supone, respecto de la hora UTC:
+
+una hora menos en verano.
+una hora más en verano.
+dos horas más en verano.
+dos horas menos en verano.
+RESPUESTA: C
+NORMA: OM PCM/186/2022 Primero
+Referencia Doctrinal: https://armada.defensa.gob.es/ArmadaPortal/page/Portal/ArmadaEspannola/cienciaobservatorio/prefLang-es/06Hora--01QueHoraEs
+COD: 7162
+Para conducir un camión cuya MMA sea de 6.000 kg, ¿qué permiso de conducción se necesita?
+
+Los permisos C1 o D1 indistintamente.
+El permiso de clase B.
+El permiso de clase BTP.
+El permiso de clase C1.
+RESPUESTA: D
+NORMA: RD 818/2009 Art. 4.2
+Referencia Doctrinal: 
+COD: 7163
+Para poder conducir un conjunto de vehículos formado por un camión de 8.000 kg de MMA y un remolque de 900 kg de MMA, ¿qué clase de permiso es necesario?
+
+El de la clase C+E.
+El de la clase C1.
+El de la clase C1+E.
+El de la clase B+E.
+RESPUESTA: A
+NORMA: RD 818/2009 Art. 4.2
+Referencia Doctrinal: 
+COD: 7164
+¿Qué clase de permiso se necesita para conducir un camión con una MMA de 13.000 kg que lleva acoplado un remolque de 500 kg de MMA?
+
+El de la clase C.
+El de la clase C1+E.
+El de la clase C1.
+El de la clase B.
+RESPUESTA: A
+NORMA: RD 818/2009 Art. 4.2
+Referencia Doctrinal: 
+COD: 7165
+El conductor de un conjunto de vehículos formado por un camión de 16.000 kilogramos de MMA y un remolque cuya MMA es de 900 kilogramos tiene que ser titular del permiso:
+
+clase C.
+clase C1+E.
+clase C+E.
+clase C1.
+RESPUESTA: C
+NORMA: RD 818/2009 Art. 4.2
+Referencia Doctrinal: 
+COD: 7248
+¿Cuál es la función del sensor de movimiento?
+
+Registrar la actividad del conductor, la velocidad y distancia recorrida por el vehículo.
+Facilitar a la unidad intravehicular, exclusivamente, los datos de las distancias recorridas por el vehículo.
+Registrar y facilitar a la unidad intravehicular los datos de la velocidad y la distancia recorrida por el vehículo.
+Registrar todos los datos del vehículo, tanto de consumo como aprovechamiento de fuerzas.
+RESPUESTA: C
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, I,y
+Referencia Doctrinal: 
+COD: 7249
+En un tacógrafo digital, ¿cómo se llama el elemento encargado de registrar, almacenar y enviar datos a la pantalla y a la impresora?
+
+Unidad intravehicular (VU).
+Sensor de movimiento.
+Unidad de control (UC).
+Ordenador de datos.
+RESPUESTA: A
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, II.1
+Referencia Doctrinal: 
+COD: 7251
+¿Cada cuánto tiempo se registra en la memoria de un tacógrafo digital la velocidad instantánea del vehículo y la fecha y hora correspondientes?
+
+Cada 60 segundos que el vehículo haya estado en movimiento.
+Cada 30 segundos que el vehículo haya estado en movimiento (las últimas 24 horas).
+Cada segundo que el vehículo haya estado en movimiento (las últimas 24 horas).
+Cada 10 segundos que el vehículo haya estado en movimiento.
+RESPUESTA: C
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, III.12.7  
+Referencia Doctrinal: 
+COD: 7252
+Al leer una tarjeta de conductor, ¿el aparato de control puede calcular los tiempos de conducción continua, de descanso acumulado y de conducción acumulada de dicho conductor durante la semana anterior?
+
+Sí.
+No.
+No, solo hace lecturas de los tiempos de conducción.
+No, ya que solo almacena datos de los tres días anteriores.
+RESPUESTA: A
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, III.13  
+Referencia Doctrinal: 
+COD: 7253
+¿El aparato de control puede imprimir la información relativa a fallos e incidentes almacenados en la tarjeta del tacógrafo?
+
+No.
+Sí.
+Solo puede imprimir la información almacenada en la VU.
+Solo si nos referimos a una tarjeta de control.
+RESPUESTA: B
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, III.16  
+Referencia Doctrinal: 
+COD: 7254
+De los siguientes datos relativos a las actividades de control, ¿cuál puede guardar la tarjeta de tacógrafo del conductor?
+
+Fecha y hora del control.
+Período transferido, en caso de transferencia.
+Número de la tarjeta de control y Estado miembro que haya expedido la tarjeta.
+Entre otros datos, los de las tres respuestas anteriores.
+RESPUESTA: D
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, IV.5.2  
+Referencia Doctrinal: 
+COD: 7260
+En los documentos impresos a partir del tacógrafo, ¿es posible incluir datos adicionales escritos a mano?
+
+No.
+Sí, pero solo la fecha de lectura.
+Sí.
+Sí, pero solo la matrícula del vehículo.
+RESPUESTA: C
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, III.16  
+Referencia Doctrinal: 
+COD: 7530
+El permiso de conducción de la clase D1 autoriza para conducir automóviles diseñados y construidos para el transporte de:
+
+no más de dieciséis pasajeros, además del conductor, y cuya longitud máxima no exceda de ocho metros.
+más de ocho pasajeros, además del conductor.
+pasajeros y mercancías de cualquier Masa Máxima Autorizada.
+no más de dieciséis pasajeros, además del conductor, y cuya longitud máxima exceda de ocho metros.
+RESPUESTA: A
+NORMA: RD 818/2009 Art. 4.2
+Referencia Doctrinal: 
+COD: 7531
+De los permisos de conducción que se citan, ¿cuáles autorizan a la conducción de un autobús que arrastra un remolque de hasta 750 kg de masa máxima autorizada?
+
+Los permisos de conducción de clase D1 y D, exclusivamente.
+Los permisos de conducción de las clases D1, D1+E, D y D+E.
+Los permisos de conducción de la clase D1+E y D+E, exclusivamente.
+Cualquier permiso de conducción en vigor.
+RESPUESTA: B
+NORMA: RD 818/2009 Art. 4.2
+Referencia Doctrinal: 
+COD: 7535
+Para los titulares del certificado de aptitud profesional (CAP) que lo hayan obtenido realizando la modalidad de cualificación inicial ordinaria, ¿cuál será la edad mínima para conducir, en territorio nacional y sin limitaciones, vehículos que requieren u
+
+Veinte años cumplidos.
+Veintiún años cumplidos.
+Veinticuatro años cumplidos.
+Diecinueve años cumplidos.
+RESPUESTA: A
+NORMA: RD 818/2009 Art. 4.2
+Referencia Doctrinal: 
+COD: 7897
+¿Cómo registra el tacógrafo digital las actividades desarrolladas durante un determinado minuto si en el transcurso del mismo el conductor realiza tres actividades con la misma duración y el minuto anterior y posterior no se han registrado como conducción
+
+Registra siempre conducción si una de las actividades es conducción.
+Registra las tres.
+Registra la actividad que se produzca al principio.
+Registra la que se haya producido en último lugar.
+RESPUESTA: D
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, III.4  
+Referencia Doctrinal: 
+COD: 7972
+¿En qué momento se debe introducir el numero de matrícula del vehículo en el tacógrafo digital?
+
+En 2 meses desde la activación.
+Siempre en el momento del primer calibrado.
+Antes de dedicar el vehículo a usos dentro del ámbito de aplicación del Reglamento (CE) 561/2006.
+No hay un plazo máximo.
+RESPUESTA: C
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, V.1  
+Referencia Doctrinal: 
+COD: 7973
+¿Qué dato no es necesario introducir, si no se conoce, en el primer calibrado del tacógrafo digital?
+
+El número de bastidor.
+El coeficiente característico “w”.
+La matrícula.
+La circunferencia efectiva de las ruedas motrices.
+RESPUESTA: C
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, III.20 y V.1  
+Referencia Doctrinal: 
+COD: 7976
+La resolución mínima con la que registra el tacógrafo digital las actividades es de:
+
+un minuto.
+una hora.
+un segundo.
+una semana.
+RESPUESTA: A
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, III.4  
+Referencia Doctrinal: 
+COD: 7977
+¿Cómo registra el tacógrafo digital las actividades efectuadas si en un mismo minuto el conductor realiza dos actividades con distinta duración y el minuto anterior y posterior no se registra como conducción?
+
+Registra siempre conducción si una de las actividades es conducción.
+Registra la actividad de más duración continuada.
+Registra siempre otro trabajo.
+En un minuto no puede haber varias actividades.
+RESPUESTA: B
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, III.4  
+Referencia Doctrinal: 
+COD: 7981
+¿Cómo registra el tacógrafo digital las actividades efectuadas si en un mismo minuto el conductor realiza dos actividades con la misma duración y el minuto anterior y posterior no se registra como conducción?
+
+Registra siempre conducción si es una de las actividades realizadas.
+Registra la actividad que se haya producido en primer lugar.
+Registra siempre otro trabajo.
+Registra la actividad que se haya producido en último lugar.
+RESPUESTA: D
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, III.4  
+Referencia Doctrinal: 
+COD: 7982
+¿Cómo registra el tacógrafo digital las actividades desarrolladas en un minuto cualquiera si el minuto anterior y posterior se registran como conducción?
+
+Registra siempre conducción.
+Registra la actividad de mayor duración durante ese minuto.
+Registra siempre otro trabajo.
+Registra la actividad que se haya producido en último lugar durante ese minuto.
+RESPUESTA: A
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, III.4  
+Referencia Doctrinal: 
+COD: 7983
+¿Cómo registra el tacógrafo digital las actividades desarrolladas durante un determinado minuto si en el transcurso del mismo el conductor realiza tres actividades con distinta duración y el minuto anterior y posterior no se han registrado como conducción
+
+Registra siempre conducción si es una de las actividades realizadas.
+Registra las tres.
+Registra la actividad de mayor duración continuada.
+En un minuto no puede haber varias actividades.
+RESPUESTA: C
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, III.4  
+Referencia Doctrinal: 
+COD: 9089
+En el tacógrafo digital, ¿qué se entiende por "incidente"?
+
+Cualquier anormalidad en los registros.
+La falta de registros inferior a un minuto.
+Una operación anormal que puede deberse a un intento de fraude.
+Cualquier mal funcionamiento del aparato.
+RESPUESTA: C
+NORMA: Reglamento Comunitario (UE) 165/2014 Art. 2.2 o
+Referencia Doctrinal: 
+COD: 9090
+En el tacógrafo digital, ¿qué se entiende por "fallo"?
+
+Una operación anormal que puede deberse a mal funcionamiento del aparato.
+La falta de calibración.
+Una operación anormal por intento de fraude.
+El uso de una tarjeta caducada o deteriorada.
+RESPUESTA: A
+NORMA: Reglamento Comunitario (UE) 165/2014 Art. 2.2 p
+Referencia Doctrinal: 
+COD: 9093
+¿El tacógrafo digital puede emitir señales de advertencia al conductor?
+
+Cuando detecte un incidente.
+Cuando detecte un fallo.
+Al exceder el tiempo de conducción continua.
+Todas las respuestas son correctas.
+RESPUESTA: D
+NORMA: Reglamento Comunitario (UE) 165/2014 Art. 6.3
+Referencia Doctrinal: 
+COD: 9094
+Cuando el tacógrafo digital detecte un incidente:
+
+dejará de registrar automáticamente.
+expulsará la tarjeta del conductor.
+avisará al conductor con una señal visual.
+imprimirá automáticamente un informe.
+RESPUESTA: C
+NORMA: Reglamento Comunitario (UE) 165/2014 Art. 6.3
+Referencia Doctrinal: 
+COD: 9095
+Cuando el tacógrafo digital detecte un fallo:
+
+imprimirá automáticamente un informe.
+avisará al conductor con una señal visual o acústica.
+dejará de registrar automáticamente y se desconectará.
+expulsará la tarjeta del conductor.
+RESPUESTA: B
+NORMA: Reglamento Comunitario (UE) 165/2014 Art. 6.3
+Referencia Doctrinal: 
+COD: 63086
+¿Qué permiso habilita para conducir un conjunto de vehículos compuesto por un autocar de más de ocho metros y un remolque cuya MMA exceda de 750 kg?
+
+El permiso de clase D1+E.
+El permiso de clase D.
+El permiso de clase D1.
+El permiso de clase D+E.
+RESPUESTA: D
+NORMA: RD 818/2009 Art. 4.2
+Referencia Doctrinal: 
+COD: 66000
+Los organismos expedidores de tarjetas de tacógrafo deben:
+
+conservar un registro de las tarjetas de conductor robadas.
+expedir una nueva tarjeta, en caso de robo, en un plazo de 48 horas desde que le sea solicitada.
+comunicar a la Policía todas las tarjetas respecto de las que tengan conocimiento de que han sido robadas. 
+Todas las respuestas son correctas.
+RESPUESTA: A
+NORMA: Reglamento Comunitario (UE) 165/2014 29
+Referencia Doctrinal: 
+COD: 66001
+Los organismos expedidores de tarjetas de tacógrafo deben conservar un registro de:
+
+las tarjetas de taller robadas.
+las tarjetas de empresa robadas.
+las tarjetas de conductor robadas.
+Todas las respuestas son correctas.
+RESPUESTA: C
+NORMA: Reglamento Comunitario (UE) 165/2014 29
+Referencia Doctrinal: 
+COD: 66002
+Los organismos expedidores de tarjetas de tacógrafo deben conservar un registro de:
+
+las tarjetas de conductor extraviadas.
+las tarjetas de conductor defectuosas.
+las tarjetas de conductor robadas.
+Todas las respuestas son correctas.
+RESPUESTA: D
+NORMA: Reglamento Comunitario (UE) 165/2014 29
+Referencia Doctrinal: 
+COD: 66003
+¿Los organismos expedidores de tarjetas de tacógrafo deben conservar un registro de todas las tarjetas robadas?
+
+Sí.
+No.
+Solo de las de conductor.
+Solo de las de conductor y de empresa.
+RESPUESTA: C
+NORMA: Reglamento Comunitario (UE) 165/2014 29
+Referencia Doctrinal: 
+COD: 66004
+Durante cuánto tiempo los organismos expedidores de tarjetas de tacógrafo deben conservar un registro de las tarjetas de conductor robadas?
+
+Durante cinco años.
+Hasta que se produzca la expedición de la nueva tarjeta.
+Hasta que se produzca la recuperación de la tarjeta robada.
+Durante un plazo que cubra todo el período de validez de la tarjeta robada.
+RESPUESTA: D
+NORMA: Reglamento Comunitario (UE) 165/2014 29
+Referencia Doctrinal: 
+COD: 66005
+Los Estados miembros de la Unión Europea, para mejorar el cumplimiento de la normativa sobre tiempos de conducción y descanso de los conductores, deben controlar cada año: 
+
+el 3 % de las jornadas de trabajo de los conductores de vehículos sujetos a esta normativa.
+el 5 % de las jornadas de trabajo de los conductores de vehículos sujetos a esta normativa.
+el 10 % de las jornadas de trabajo de los conductores de vehículos sujetos a esta normativa.
+la mitad de las jornadas de trabajo de los conductores de vehículos sujetos a esta normativa
+RESPUESTA: A
+NORMA: Directiva 2006/22/CE 2
+Referencia Doctrinal: 
+COD: 66006
+De las jornadas de trabajo que deben controlar los Estados miembros de la Unión Europea para mejorar el cumplimiento de la normativa sobre tiempos de conducción y descanso de los conductores, se controlarán en carretera, al menos:
+
+el 10 %.
+el 20 %.
+el 30 %.
+el 50 %.
+RESPUESTA: C
+NORMA: Directiva 2006/22/CE 2
+Referencia Doctrinal: 
+COD: 66007
+De las jornadas de trabajo que deben controlar los Estados miembros de la Unión Europea para mejorar el cumplimiento de la normativa sobre tiempos de conducción y descanso de los conductores, se controlarán en los locales de las empresas, al menos:
+
+el 10 %.
+el 20 %.
+el 30 %.
+el 50 %.
+RESPUESTA: D
+NORMA: Directiva 2006/22/CE 2
+Referencia Doctrinal: 
+COD: 66008
+Los Estados miembros de la Unión Europea, para mejorar el cumplimiento de la normativa sobre tiempos de conducción y descanso de los conductores, ¿cuántos controles de carretera concertados con otros Estados deben efectuar cada año?
+
+Al menos, uno.
+Al menos, seis.
+Al menos, uno mensual.
+Al menos, uno cada trimestre.
+RESPUESTA: B
+NORMA: Directiva 2006/22/CE 5
+Referencia Doctrinal: 
+COD: 66009
+Los Estados miembros de la Unión Europea, para mejorar el cumplimiento de la normativa sobre tiempos de conducción y descanso de los conductores, deben:
+
+controlar todos los años un determinado número de jornadas de trabajo.
+efectuar controles de carretera concertados con otros Estados.
+mantener un sistema de clasificación de riesgos de las empresas basado en el número y gravedad de las infracciones cometidas en esta materia.
+Todas las respuestas son correctas.
+RESPUESTA: D
+NORMA: Directiva 2006/22/CE 2; Directiva 2006/22/CE 5; Directiva 2006/22/CE 9
+Referencia Doctrinal: 
+COD: 66010
+En un tacógrafo digital, la condición "Fuera de ámbito" indica:
+
+que el conductor lleva conduciendo sin descanso más tiempo del permitido.
+que el vehículo circula por un territorio en el que no es obligatorio el uso de tacógrafo.
+que el vehículo se ha desviado de la ruta que tenía marcada en el GPS.
+que el tacógrafo ha perdido la conexión con el satélite.
+RESPUESTA: B
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, I.aa)
+Referencia Doctrinal: 
+COD: 66011
+¿Qué indicación muestra la pantalla del tacógrafo digital cuando se ha introducido la condición "Fuera de ámbito"?
+
+La expresión "Out".
+La expresión "Sin cobertura".
+La expresión "Sin servicio".
+Nada.
+RESPUESTA: A
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, III.15 y Apéndice 3.1
+Referencia Doctrinal: 
+COD: 66012
+La condición "Fuera de ámbito":
+
+la selecciona automáticamente el tacógrafo, siempre.
+la selecciona automáticamente el tacógrafo si es inteligente.
+se introduce por el conductor.
+se introduce por el conductor en su comienzo, pero no es necesario que el conductor marque manualmente su final.
+RESPUESTA: C
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, III.6
+Referencia Doctrinal: 
+COD: 66013
+La condición "Fuera de ámbito" abierta en un tacógrafo:
+
+impide que registre un incidente por conducción sin tarjeta adecuada.
+impide que registre un incidente por error de datos de movimiento.
+impide que registre un incidente por exceso de velocidad.
+impide que registre un incidente por solapamiento temporal.
+RESPUESTA: A
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, III.6
+Referencia Doctrinal: 
+COD: 66014
+La condición "Fuera de ámbito" abierta en un tacógrafo:
+
+impide que registre un fallo del aparato.
+impide que registre un fallo de la tarjeta.
+impide que suministre advertencias sobre tiempo de conducción continua.
+Todas las respuestas son correctas.
+RESPUESTA: C
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, III.6
+Referencia Doctrinal: 
+COD: 66015
+¿Qué situación registrará un tacógrafo digital para el conductor del vehículo en el primer minuto siguiente a su detención?
+
+Trabajo distinto de conducción, salvo que el conductor seleccione Disponibilidad o Descanso antes de que se detenga.
+Trabajo distinto de conducción, salvo que el conductor seleccione Disponibilidad o Descanso antes de que transcurran 60 segundos.
+Trabajo distinto de conducción, salvo que el conductor seleccione Disponibilidad o Descanso antes de que transcurran 120 segundos.
+Trabajo distinto de conducción en todo caso.
+RESPUESTA: C
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, III.4  
+Referencia Doctrinal: 
+COD: 66016
+Los documentos impresos por un tacógrafo digital:
+
+deben trasladarse antes de un mes a otro tipo de soporte porque se deterioran con facilidad.
+deben resultar legibles durante, al menos, tres mes.
+deben resultar legibles durante, al menos, un año.
+deben resultar legibles durante, al menos, dos años.
+RESPUESTA: D
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, III.16
+Referencia Doctrinal: 
+COD: 66017
+En caso de extravío de la tarjeta de tacógrafo:
+
+el conductor debe solicitar su sustitución y esperar sin conducir hasta tener otra tarjeta.
+el conductor debe solicitar su sustitución y puede conducir sin tarjeta hasta siete días.
+el conductor debe solicitar su sustitución y puede conducir sin tarjeta hasta quince días.
+el conductor debe solicitar su sustitución y limitarse a conducir vehículos con tacógrafo analógico.
+RESPUESTA: C
+NORMA: Reglamento Comunitario (UE) 165/2014 29
+Referencia Doctrinal: 
+COD: 66018
+En caso de mal funcionamiento del tacógrafo digital:
+
+los talleres autorizados deben ser capaces siempre de extraer los datos del aparato para facilitárselos al organismo de control.
+los talleres autorizados deben ser capaces siempre de extraer los datos del aparato para facilitárselos a la empresa de transportes.
+si los talleres autorizados no pueden extraer los datos del aparato, expedirán un certificado de intransferibilidad de datos para el organismo de control.
+si los talleres autorizados no pueden extraer los datos del aparato, expedirán un certificado de intransferibilidad de datos para la empresa de transporte.
+RESPUESTA: D
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, VI.6
+Referencia Doctrinal: 
+COD: 66019
+Si un tacógrafo digital no funciona correctamente y el taller autorizado no es capaz de extraer los datos registrados en él, debe:
+
+facilitar a la empresa de transporte un certificado de intransferibilidad de datos.
+ponerlo en conocimiento del organismo de control.
+solicitar la ayuda del fabricante del tacógrafo.
+Todas las respuestas son correctas.
+RESPUESTA: A
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, VI.6
+Referencia Doctrinal: 
+COD: 66020
+¿Cómo se denomina el documento que debe facilitar un taller autorizado si, al reparar un tacógrafo, no es capaz de extraer los datos registrados en él?
+
+Certificado de transferibilidad de datos.
+Certificado de intransferibilidad de datos.
+Certificado de reparación negativo.
+Certificado de volcado de datos.
+RESPUESTA: B
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, VI.6
+Referencia Doctrinal: 
+COD: 66021
+Los tacógrafos inteligentes:
+
+son tacógrafos analógicos que incorporan un chip de memoria.
+tienen un dispositivo de conexión con sistemas de navegación por satélite.
+permiten chequear el estado de la mecánica del vehículo.
+permiten conocer el estado de la carga del vehículo.
+RESPUESTA: B
+NORMA: Reglamento Comunitario (UE) 165/2014 8
+Referencia Doctrinal: 
+COD: 66022
+Los tacógrafos inteligentes también se denominan:
+
+tacógrafos analógicos de segunda generación.
+tacógrafos de primera generación.
+tacógrafos de segunda generación.
+tacógrafos digitales de tercera generación.
+RESPUESTA: C
+NORMA: Reglamento Comunitario (UE) 2016/799 2
+Referencia Doctrinal: 
+COD: 66023
+Los tacógrafos inteligentes:
+
+no han sido desarrollados todavía.
+no son obligatorios.
+son obligatorios en todos los vehículos.
+son obligatorios en los vehículos nuevos.
+RESPUESTA: D
+NORMA: Reglamento Comunitario (UE) 2016/799 6
+Referencia Doctrinal: 
+COD: 66024
+¿Desde qué fecha son obligatorios los tacógrafos inteligentes para los vehículos nuevos?
+
+Desde 2015.
+Desde 2017.
+Desde 2019.
+No son obligatorios todavía.
+RESPUESTA: C
+NORMA: Reglamento Comunitario (UE) 2016/799 6
+Referencia Doctrinal: 
+COD: 66025
+El tacógrafo inteligente registra la posición del vehículo:
+
+automáticamente al inicio del período de trabajo diario.
+manualmente al inicio del período de trabajo diario.
+manualmente al final del período de trabajo diario.
+Las respuestas B y C son correctas.
+RESPUESTA: A
+NORMA: Reglamento Comunitario (UE) 165/2014 8
+Referencia Doctrinal: 
+COD: 66026
+El tacógrafo inteligente registra la posición del vehículo automáticamente:
+
+al inicio del período de trabajo diario.
+al final del período de trabajo diario.
+cada tres horas de conducción acumulada.
+Todas las respuestas son correctas.
+RESPUESTA: D
+NORMA: Reglamento Comunitario (UE) 165/2014 8
+Referencia Doctrinal: 
+COD: 66027
+El tacógrafo inteligente deberá registrar la posición del vehículo automáticamente:
+
+cuando el vehículo cruce la frontera de un Estado de la Unión Europea.
+cuando el vehículo circule a más velocidad de la permitida.
+cuando el conductor haya superado el tiempo máximo de conducción ininterrumpida.
+Todas las respuestas son correctas.
+RESPUESTA: A
+NORMA: Reglamento Comunitario (UE) 165/2014 8
+Referencia Doctrinal: 
+COD: 66028
+El tacógrafo inteligente deberá registrar la posición del vehículo automáticamente:
+
+cuando el vehículo circule a más velocidad de la permitida.
+cuando el conductor haya superado el tiempo máximo de conducción ininterrumpida.
+cuando el vehículo realice operaciones de carga y descarga.
+Todas las respuestas son correctas.
+RESPUESTA: C
+NORMA: Reglamento Comunitario (UE) 165/2014 8
+Referencia Doctrinal: 
+COD: 66029
+Para cumplir con la funcionalidad prevista en la norma, el tacógrafo digital:
+
+debe almacenar permanentemente la posición del vehículo en todo momento.
+no es necesario que almacene permanentemente la posición del vehículo en todo momento.
+podrá almacenar permanentemente la posición del vehículo en todo momento, si la empresa lo configura así para tener un mejor control de las actividades del conductor.
+debe almacenar permanentemente la posición del vehículo siempre que circule por un Estado distinto al de matriculación.
+RESPUESTA: B
+NORMA: Reglamento Comunitario (UE) 165/2014 8
+Referencia Doctrinal: 
+COD: 66030
+Para registrar la posición del vehículo, el tacógrafo inteligente:
+
+debe utilizar servicios de posicionamiento gratuitos.
+debe utilizar servicios de posicionamiento de pago que resulten fiables.
+puede utilizar servicios de posicionamiento gratuitos o de pago.
+puede utilizar servicios de posicionamiento gratuitos o de pago, siempre que en este último caso su coste mensual no sea superior a 50 euros.
+RESPUESTA: A
+NORMA: Reglamento Comunitario (UE) 165/2014 8
+Referencia Doctrinal: 
+COD: 66031
+Para registrar la posición del vehículo, el tacógrafo inteligente:
+
+debe ser compatible con el sistema de posicionamiento Galileo.
+debe ser compatible con el sistema de posicionamiento EGNOS.
+debe ser compatible con cualquier sistema de posicionamiento gratuito que opere en el ámbito de la Unión Europea.
+Las respuestas A y B son correctas.
+RESPUESTA: D
+NORMA: Reglamento Comunitario (UE) 2016/799 Anexo IC, Apéndice 12.2
+Referencia Doctrinal: 
+COD: 66032
+Los tacógrafos inteligentes deberán poder comunicarse a distancia con las autoridades encargadas del control en carretera:
+
+cuando los vehículos estén en movimiento.
+solo cuando los vehículos circulen por encima de la velocidad permitida.
+solo cuando los vehículos circulen superando la Masa Máxima Autorizada.
+solo cuando los vehículos estén parados.
+RESPUESTA: A
+NORMA: Reglamento Comunitario (UE) 165/2014 9
+Referencia Doctrinal: 
+COD: 66033
+Los tacógrafos inteligentes deberán comunicarse con las autoridades encargadas del control en carretera:
+
+de modo permanente mientras el vehículo esté circulando.
+cada 15 minutos de conducción continua.
+cada cuatro horas y media de conducción continua.
+solo cuando lo solicite el aparato de las autoridades de control.
+RESPUESTA: D
+NORMA: Reglamento Comunitario (UE) 165/2014 9
+Referencia Doctrinal: 
+COD: 66034
+La función de comunicación con las autoridades de control cuando el vehículo está en movimiento, que deberán incorporar los tacógrafos inteligentes, tiene como finalidad:
+
+aumentar la recaudación por sanciones a los infractores de las normas de conducción y descanso.
+hacer más controles en carretera.
+hacer más selectivos los controles en carretera.
+Todas las respuestas son correctas.
+RESPUESTA: C
+NORMA: Reglamento Comunitario (UE) 165/2014 9
+Referencia Doctrinal: 
+COD: 66035
+¿Qué utilización pueden hacer las autoridades de control de los datos que obtengan mediante comunicación a distancia con los tacógrafos inteligentes?
+
+No pueden comunicarlos a ningún otro organismo o empresa.
+Pueden comunicarlos al organismo encargado del control del tráfico si detectan excesos de velocidad.
+Pueden comunicarlos a un taller en caso de que sea necesario para comprobar el funcionamiento del tacógrafo. 
+Las respuestas B y C son correctas.
+RESPUESTA: C
+NORMA: Reglamento Comunitario (UE) 165/2014 9
+Referencia Doctrinal: 
+COD: 66036
+La función de comunicación con las autoridades de control cuando el vehículo está en movimiento, que deberán incorporar los tacógrafos inteligentes, proporcionará información a las autoridades sobre:
+
+intentos de violación de la seguridad.
+interrupciones del suministro eléctrico.
+fallos del sensor.
+Todas las respuestas son correctas.
+RESPUESTA: D
+NORMA: Reglamento Comunitario (UE) 165/2014 9
+Referencia Doctrinal: 
+COD: 66037
+La función de comunicación con las autoridades de control cuando el vehículo está en movimiento, que deberán incorporar los tacógrafos inteligentes, proporcionará información a las autoridades sobre:
+
+errores en los datos de movimiento.
+peso con el que circula el vehículo.
+actividad del conductor durante la última semana.
+Las respuestas A y C son correctas.
+RESPUESTA: A
+NORMA: Reglamento Comunitario (UE) 165/2014 9
+Referencia Doctrinal: 
+COD: 66038
+La función de comunicación con las autoridades de control cuando el vehículo está en movimiento, que deberán incorporar los tacógrafos inteligentes, proporcionará información a las autoridades sobre:
+
+peso con el que circula el vehículo.
+actividad del conductor durante la última semana.
+actividad del conductor durante las últimas dos semanas.
+conflictos de movimiento del vehículo.
+RESPUESTA: D
+NORMA: Reglamento Comunitario (UE) 165/2014 9
+Referencia Doctrinal: 
+COD: 66039
+La función de comunicación con las autoridades de control cuando el vehículo está en movimiento, que deberán incorporar los tacógrafos inteligentes, proporcionará información a las autoridades sobre:
+
+conducción sin tarjeta válida.
+inserción de tarjeta durante la conducción.
+ajuste de la hora.
+Todas las respuestas son correctas.
+RESPUESTA: D
+NORMA: Reglamento Comunitario (UE) 165/2014 9
+Referencia Doctrinal: 
+COD: 66040
+La función de comunicación con las autoridades de control cuando el vehículo está en movimiento, que deberán incorporar los tacógrafos inteligentes, proporcionará información a las autoridades sobre:
+
+calibración del tacógrafo.
+matrícula del vehículo.
+velocidad registrada.
+Todas las respuestas son correctas.
+RESPUESTA: D
+NORMA: Reglamento Comunitario (UE) 165/2014 9
+Referencia Doctrinal: 
+COD: 66041
+La función de comunicación con las autoridades de control cuando el vehículo está en movimiento, que deberán incorporar los tacógrafos inteligentes, proporcionará información a las autoridades sobre:
+
+actividad del conductor durante la última semana.
+superación del tiempo máximo de conducción.
+actividad del conductor durante las últimas dos semanas.
+cualquier asunto relacionado con el uso del tacógrafo y la normativa de tiempos de conducción y descanso. 
+RESPUESTA: B
+NORMA: Reglamento Comunitario (UE) 165/2014 9
+Referencia Doctrinal: 
+COD: 66042
+¿Qué utilización pueden hacer las autoridades de control de los datos que obtengan mediante comunicación a distancia con los tacógrafos inteligentes?
+
+No pueden comunicarlos a ningún otro organismo o empresa.
+Pueden comunicarlos a autoridades judiciales en el marco de un proceso penal en curso.
+Pueden comunicarlos a un taller, en caso de que sea necesario para comprobar el funcionamiento del tacógrafo. 
+Las respuestas B y C son correctas.
+RESPUESTA: C
+NORMA: Reglamento Comunitario (UE) 165/2014 9
+Referencia Doctrinal: 
+COD: 66043
+Los datos que las autoridades de control obtengan mediante comunicación a distancia con los tacógrafos inteligentes:
+
+deberán borrarlos en un plazo de 24 horas, salvo que reflejen una manipulación o utilización indebida del tacógrafo.
+deberán borrarlos en un plazo de tres horas, salvo que reflejen una manipulación o utilización indebida del tacógrafo.
+deberán almacenarlos durante 28 días.
+deberán almacenarlos de modo permanente.
+RESPUESTA: B
+NORMA: Reglamento Comunitario (UE) 165/2014 9
+Referencia Doctrinal: 
+COD: 66044
+Si en una comunicación a distancia con un vehículo en movimiento equipado con tacógrafo inteligente las autoridades de control detectan una infracción:
+
+la comunicación dará lugar a la imposición automática de la sanción correspondiente a la empresa.
+la comunicación dará lugar a la imposición automática de la sanción correspondiente al conductor.
+la comunicación no dará lugar a la imposición automática de sanciones.
+Las respuestas A y B son correctas.
+RESPUESTA: C
+NORMA: Reglamento Comunitario (UE) 165/2014 9
+Referencia Doctrinal: 
+COD: 66045
+¿Tienen alguna obligación específica las empresas cuyos vehículos están equipados con tacógrafos con posibilidad de comunicación a distancia con las autoridades de control?
+
+No, la instalación de un tacógrafo inteligente no debe suponer mayores obligaciones para la empresa.
+Sí, advertir a los conductores de la posibilidad de esta comunicación.
+Sí, estar suscritas a un sistema de comunicación por radio de onda corta.
+Las respuestas B y C son correctas.
+RESPUESTA: B
+NORMA: Reglamento Comunitario (UE) 165/2014 9
+Referencia Doctrinal: 
+COD: 66046
+Los tacógrafos inteligentes:
+
+podrán ir equipados con interfaces que permitan que sus datos se utilicen por dispositivos externos.
+podrán ir equipados con interfaces que permitan que sus datos se utilicen por dispositivos externos, pero solo de las autoridades de control.
+podrán ir equipados con interfaces que permitan que sus datos se utilicen por dispositivos externos, pero solo de la empresa titular de los vehículos.
+deberán estar construidos de modo que ningún dispositivo externo pueda tener acceso a ellos a distancia para impedir así su manipulación.
+RESPUESTA: A
+NORMA: Reglamento Comunitario (UE) 165/2014 10
+Referencia Doctrinal: 
+COD: 66047
+¿Qué requisitos deben cumplirse en la comunicación de datos del tacógrafo inteligente a dispositivos externos mediante interfaces instaladas en el tacógrafo?
+
+Que la interfaz no afecte a la integridad de los datos.
+Que no se pueda transmitir ningún dato sin la previa confirmación por parte de la empresa.
+Que no se pueda transmitir ningún dato sin la previa confirmación por parte del conductor.
+Todas las respuestas son correctas.
+RESPUESTA: A
+NORMA: Reglamento Comunitario (UE) 165/2014 10
+Referencia Doctrinal: 
+COD: 66048
+¿Qué requisitos deben cumplirse en la comunicación de datos del tacógrafo inteligente a dispositivos externos mediante interfaces instaladas en el tacógrafo?
+
+Que no se pueda transmitir ningún dato sin la previa confirmación por parte de la empresa.
+Que no se puedan transmitir datos personales sin el consentimiento verificable del conductor.
+Que solo se puedan transmitir datos a dispositivos de la empresa titular de los vehículos.
+Que solo se puedan transmitir datos a dispositivos de las autoridades de control.
+RESPUESTA: B
+NORMA: Reglamento Comunitario (UE) 165/2014 10
+Referencia Doctrinal: 
+COD: 66049
+Para poder cumplir con sus funciones específicas, el tacógrafo inteligente debe ir equipado con:
+
+un receptor EGNOS.
+un receptor Galileo.
+un receptor GPS.
+un receptor GNSS.
+RESPUESTA: D
+NORMA: Reglamento Comunitario (UE) 2016/799 Anexo IC, Apéndice 12.2
+Referencia Doctrinal: 
+COD: 66050
+Para poder cumplir con sus funciones específicas, el tacógrafo inteligente irá equipado con:
+
+un receptor GNSS externo.
+un receptor GNSS interno.
+un receptor EGNOS.
+Las respuestas A y B son correctas.
+RESPUESTA: D
+NORMA: Reglamento Comunitario (UE) 2016/799 Anexo IC, Apéndice 12.2
+Referencia Doctrinal: 
+COD: 66051
+La  función del receptor GNSS de un tacógrafo inteligente es:
+
+recibir y procesar la señal de los sistemas de posicionamiento por satélite.
+transmitir información a las autoridades de control con el vehículo en movimiento.
+transmitir información a dispositivos externos.
+Todas las respuestas son correctas.
+RESPUESTA: A
+NORMA: Reglamento Comunitario (UE) 2016/799 Anexo IC, Apéndice 12.2
+Referencia Doctrinal: 
+COD: 66052
+¿Qué elementos incluye el dispositivo GNSS de un tacógrafo inteligente?
+
+Un receptor GNSS.
+Una antena GNSS.
+Un detector de manipulaciones.
+Todas las respuestas son correctas.
+RESPUESTA: D
+NORMA: Reglamento Comunitario (UE) 2016/799 Anexo IC, Apéndice 12.4
+Referencia Doctrinal: 
+COD: 66053
+En la placa de instalación de un tacógrafo inteligente debe constar:
+
+la marca del dispositivo GNSS externo si es el caso.
+el fabricante del dispositivo GNSS externo si es el caso.
+el número de serie del dispositivo GNSS externo si es el caso.
+Todas las respuestas son correctas.
+RESPUESTA: C
+NORMA: Reglamento Comunitario (UE) 2016/799 Anexo IC, V.2
+Referencia Doctrinal: 
+COD: 66054
+El equipo instalado en los vehículos con tacógrafo inteligente para llevar a cabo controles selectivos en carretera se denomina:
+
+equipo de control selectivo.
+equipo GNSS.
+dispositivo de teledetección temprana.
+interfaz de control.
+RESPUESTA: C
+NORMA: Reglamento Comunitario (UE) 2016/799 2
+Referencia Doctrinal: 
+COD: 66055
+Los tacógrafos inteligentes:
+
+necesitan una tarjeta de conductor específica, distinta de la utilizada en otros tacógrafos digitales.
+pueden ser utilizados con la misma tarjeta de conductor válida en otros tacógrafos, una vez adaptada la misma.
+pueden ser utilizados con la misma tarjeta de conductor válida en otros tacógrafos, sin necesidad de efectuar ninguna adaptación de la misma.
+no necesitan tarjeta de conductor de ningún tipo.
+RESPUESTA: C
+NORMA: Reglamento Comunitario (UE) 2016/799 Anexo IC, Introducción
+Referencia Doctrinal: 
+COD: 66056
+Las tarjetas propias de los tacógrafos inteligentes:
+
+pueden ser utilizadas en otros tacógrafos, una vez adaptadas.
+pueden ser utilizadas en otros tacógrafos sin necesidad de efectuar ninguna adaptación en ellas.
+no pueden ser utilizadas en tacógrafos digitales de primera generación.
+No existen tarjetas propias de tacógrafos digitales.
+RESPUESTA: B
+NORMA: Reglamento Comunitario (UE) 2016/799 Anexo IC, Introducción
+Referencia Doctrinal: 
+COD: 66057
+Los tacógrafos inteligentes:
+
+necesitan para funcionar tarjetas específicas, distintas de las utilizadas en otros tacógrafos digitales.
+pueden ser utilizados con la misma tarjeta de conductor válida en otros tacógrafos.
+solo pueden ser calibrados con una tarjeta de taller específica.
+Las respuestas B y C son correctas.
+RESPUESTA: D
+NORMA: Reglamento Comunitario (UE) 2016/799 Anexo IC, Introducción
+Referencia Doctrinal: 
+COD: 66058
+Forman parte del sistema de tacógrafo inteligente:
+
+el aparato de control instalado en el vehículo.
+las tarjetas de tacógrafo.
+el lector de comunicación a distancia.
+Todas las respuestas son correctas.
+RESPUESTA: D
+NORMA: Reglamento Comunitario (UE) 2016/799 Anexo IC, I
+Referencia Doctrinal: 

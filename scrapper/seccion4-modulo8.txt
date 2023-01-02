@@ -1,0 +1,62 @@
+
+Módulo 8. Formación sobre el tacógrafo digital
+COD: 1549
+¿Deben figurar los mismos datos en la placa de instalación de los tacógrafos analógicos y digitales?
+
+Sí, siempre.
+No, cambian todos los datos.
+No, en la del digital aparecen más datos que en la del analógico.
+No, en la del analógico aparecen más datos que en la del digital.
+RESPUESTA: C
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, V.2;  Reglamento Comunitario   (UE) 165/2014  Anexo I, V.3
+Referencia Doctrinal: 
+COD: 1883
+¿Cuál es el plazo que tiene un conductor para solicitar la renovación de su tarjeta de tacógrafo?
+
+Como máximo, hasta 15 días hábiles antes de la fecha de caducidad.
+No hay ningún plazo.
+Como máximo, 9 meses antes de la fecha de caducidad.
+Durante el último año antes de caducar.
+RESPUESTA: A
+NORMA: OM FOM/1190/2005 Art. 6
+Referencia Doctrinal: 
+COD: 2970
+Si una tarjeta de tacógrafo de conductor funciona mal, es necesario:
+
+devolverla al organismo emisor cuando se solicita su cambio.
+destruirla cuando se recibe otra nueva.
+enviarla al Ministerio de Transportes cuando se solicita su cambio.
+enviarla a la Jefatura de Trafico cuando se solicita su cambio.
+RESPUESTA: A
+NORMA: OM FOM/1190/2005 Art. 8
+Referencia Doctrinal: 
+COD: 4212
+La velocidad instantánea se registra en la memoria del tacógrafo digital:
+
+segundo a segundo, las últimas 24 horas de movimiento del vehículo, indicando la fecha y hora a la que corresponde.
+estimando una media de las velocidades de la última hora en la que hubiera movimiento.
+estimando una media de cada hora.
+minuto a minuto, las últimas 12 horas de movimiento del vehículo, indicando la fecha y hora a la que corresponde.
+RESPUESTA: A
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, III.12.7  
+Referencia Doctrinal: 
+COD: 4270
+¿Se pueden imprimir mediante un tacógrafo digital los excesos de velocidad del vehículo?
+
+Sí, pero solo si corresponden al conductor que va en el vehículo en ese momento.
+Sí, todos los registrados.
+No.
+Sí, pero solo en un modelo de tacógrafo determinado.
+RESPUESTA: B
+NORMA: Reglamento Comunitario (CEE) 3821/85 Anexo IB, III.16  
+Referencia Doctrinal: 
+COD: 5487
+¿Qué vehículos autoriza a conducir el permiso de la clase D+E?
+
+Vehículos de mercancías de más de 12.000 kg de MMA.
+Vehículos de pasajeros de más de 7 asientos y sin remolque.
+Automóviles destinados para el transporte de mercancías, autorizados para más de 7 pasajeros, con remolque de mas de 750 kg de MMA.
+Automóviles para el transporte de más de ocho pasajeros, además del conductor, y un remolque cuya MMA exceda de 750 kg.
+RESPUESTA: D
+NORMA: RD 818/2009 Art. 4.2
+Referencia Doctrinal: 

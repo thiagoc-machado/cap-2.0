@@ -1,0 +1,617 @@
+
+Módulo 6. Formación sobre sujeción de cargas
+COD: 64894
+¿Qué trata, entre otros temas, la norma EN 12195?
+
+Las características de las cintas de amarre.
+Los requisitos de las cadenas de sujección.
+El cálculo de las fuerzas de amarre.
+Todas las respuestas son correctas.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: Noma EN-12195
+COD: 64895
+¿Qué son la normas EN?
+
+Son normas de calidad para sectores específicos que aprueba la OCDE.
+Son normas europeas que elebora la Comisión en colaboración con el Parlamento Europeo.
+Son normas europeas que proponen expertos de los Estados Miembros.
+Son normas internacionales avaladas por expertos de la ONU:
+RESPUESTA: C
+NORMA: Sin referencia
+Referencia Doctrinal: Noma EN-12195
+COD: 64896
+Según la normativa vigente, ¿qué vehículos de transporte de mercancías son objeto de inspecciones técnicas en carretera?
+
+Todos los que realicen transporte público.
+Todos los que realicen transporte público y privado complementario.
+Los comerciales de MMA superior a 2,5 tn.
+Los comerciales de MMA superior a 3,5 tn.
+RESPUESTA: D
+NORMA: RD 563/2017 Art. 2
+Referencia Doctrinal: 
+COD: 64897
+A  efectos de ITV en carretera, ¿qué se entiende por vehículo comercial?
+
+Todos los que son utilizados por una empresa para su fines.
+Todos los que realicen transporte público.
+Todos los que realicen transporte público y privado complementario.
+Exclusivamente los dedicados a la venta o distribución ambulante.
+RESPUESTA: C
+NORMA: RD 563/2017 Art. 3
+Referencia Doctrinal: 
+COD: 64898
+¿Qué se comprueba en una ITV en carretera de la sujeción de la carga?
+
+El cambio de posición de las cargas contra las paredes del vehículo en arranque cuesta arriba.
+El cambio de posición de las cargas en situaciones de emergencia.
+El mantenimiento de las cargas en la superficie de carga en situaciones de funcionamiento del vehículo.
+Todas las respuestas son correctas.
+RESPUESTA: D
+NORMA: RD 563/2017 Art. 11
+Referencia Doctrinal: 
+COD: 64899
+¿Qué ocurre si se detecta una deficiencia grave en la sujeción de la carga en una ITV en carretera?
+
+Que el vehículo no puede volver a circular hasta que no se subsane.
+Que el vehículo puede desplazarse hasta el lugar más cercano en el que pueda subsanarse.
+Que el vehículo puede llegar al lugar de descarga con acompañamiento de la guardia civil.
+Que el vehículo puede llegar al lugar de descarga con la debida señalización y acompañamiento.
+RESPUESTA: A
+NORMA: RD 563/2017 Art. 12
+Referencia Doctrinal: 
+COD: 64900
+En una ITV en carretera, ¿cuándo una deficiencia detectada en relación con la sujeción de carga se considera peligrosa?
+
+Cuando la carga no está sujeta suficientemente.
+Cuando se pone en peligro directo la seguridad del tráfico por riesgo de caída de la carga.
+Cuando cabe la posibilidad de desplazamiento significativo de la carga.
+Todas las respuestas son correctas.
+RESPUESTA: B
+NORMA: RD 563/2017 Anexo III
+Referencia Doctrinal: 
+COD: 64901
+En una ITV en carretera, ¿cuándo una deficiencia detectada en relación con la sujeción de carga se considera grave?
+
+Cuando la carga no ha sido suficientemente sujeta.
+Cuando cabe la posibiliad de un desplazamiento significativo de la carga.
+Cuando cabe la posibiliad de un vuelco significativo de parte de la carga.
+Todas las respuestas son correctas.
+RESPUESTA: D
+NORMA: RD 563/2017 Anexo III
+Referencia Doctrinal: 
+COD: 64902
+En una ITV en carretera, ¿cuándo una deficiencia detectada en relación con la sujeción de carga se considera leve?
+
+Cuando la carga está sujeta correctamente, aunque pueden formularse recomendaciones en materia de seguridad.
+Cuando la carga no ha sido suficientemente sujeta.
+Cuando cabe la posibiliad de un desplazamiento significativo de la carga.
+Cuando cabe la posibiliad de un vuelco significativo de parte de la carga.
+RESPUESTA: A
+NORMA: RD 563/2017 Anexo III
+Referencia Doctrinal: 
+COD: 64903
+Si en una ITV en carretera se observan varias deficiencias, ¿qué ocurre?
+
+Siempre el vehículo quedará inmovilizado.
+Siempre se considerará la existencia de una deficiencia peligrosa.
+Siempre se considera que existe la deficiencia superior.
+Siempre se procederá al transbordo de la mercancía..
+RESPUESTA: C
+NORMA: RD 563/2017 Anexo III
+Referencia Doctrinal: 
+COD: 64904
+¿A qué vehículos se aplica la norma EN 12195?
+
+A los vehículos articulados exclusivamente.
+A los vehículos de MMA superior a 3,5 tn.
+A los camiones con caja abierta exclusivamente.
+A todos los vehículos comerciales que transportan mercancías.
+RESPUESTA: B
+NORMA: Sin referencia
+Referencia Doctrinal: Noma EN-12195
+COD: 64905
+¿Cuáles son los principales métodos de fijación a los que se refiere la norma EN 12195?
+
+Bloqueo y amarre.
+Cercado y encadenado.
+Obstrucción y sujeción.
+Fijación y afianzamiento.
+RESPUESTA: A
+NORMA: Sin referencia
+Referencia Doctrinal: Noma EN-12195
+COD: 64906
+Para el cálculo de la fijación de la carga, ¿qué distinción hace la EN 12195?
+
+Cargas estables y cargas inestables.
+Cargas sólidas y cargas a granel.
+Cargas estables y cargas propensas a inclinarse.
+Cargas equilibradas y cargas desequilibradas.
+RESPUESTA: C
+NORMA: Sin referencia
+Referencia Doctrinal: Noma EN-12195
+COD: 64907
+¿Qué característica tienen los amarres de carga fabricados conforme a la normativa EN12195-2 ?
+
+Todos son de color naranja.
+En los bordes y en la parte central llevan el símbolo CE.
+En los bordes llevan inscrita la referencia del fabricante junto con la indicación EN12195.
+Llevan incorporada una etiqueta identificativa con los datos de fabricación.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: Noma EN-12195
+COD: 64908
+¿De qué color es la etiqueta de los amarres de carga fabricados conforme a la normativa EN12195-2 ?
+
+Azul.
+Verde.
+Amarilla.
+Naranja.
+RESPUESTA: A
+NORMA: Sin referencia
+Referencia Doctrinal: Noma EN-12195
+COD: 64909
+¿Qué datos se encuentran en la etiqueta de los amarres de carga fabricados conforme a la normativa EN12195-2? 
+
+Capacidad de amarre.
+Fecha de caducidad.
+Clase de amarre.
+Tipos de sujección de uso.
+RESPUESTA: A
+NORMA: Sin referencia
+Referencia Doctrinal: Noma EN-12195
+COD: 64910
+¿Qué es el arriostrado, según la norma EN 12195?
+
+Un método de cálculo de aceleración de la carga.
+Un método de bloqueo basado en una estructura de madera.
+Un sistema de amarre.
+Un tipo de aseguramiento del toldo.
+RESPUESTA: B
+NORMA: Sin referencia
+Referencia Doctrinal: Noma EN-12195
+COD: 64911
+¿En qué consiste la inmovilización de la carga, según la norma EN 12195?
+
+En evitar un desplazamiento superior de la carga a los valores establecidos.
+En equilibrar las fuerzas inducidas por la carga.
+En mantener el equiibrio de las fuerzas de lacarga sobre el vehículo.
+Ninguna de las respuestas anteriores es correcta.
+RESPUESTA: B
+NORMA: Sin referencia
+Referencia Doctrinal: Noma EN-12195
+COD: 64912
+¿Cuál es la base de los métodos de cálculo para la fijación de la carga en la norma EN 12195?
+
+Los métodos de amarre asimétrico.
+Los métodos de amarre simétrico.
+Los sistemas de bloqueo simétrico.
+Los sistemas de bloqueo asimétrico.
+RESPUESTA: B
+NORMA: Sin referencia
+Referencia Doctrinal: Noma EN-12195
+COD: 64913
+¿Cuáles son los métodos básicos de amarre, según la norma EN 12195?
+
+Amarre por rozamiento y amarre directo.
+Amarre por bloqueo y amarre indirecto.
+Amarre flexible y amarre rígido.
+Amarre por bloqueo y amarre por fijación.
+RESPUESTA: A
+NORMA: Sin referencia
+Referencia Doctrinal: Noma EN-12195
+COD: 64914
+¿Qué caracteriza el amarre directo, según la norma EN 12195?
+
+Los elementos de amarre accionan directamente sobre la mercancía.
+La carga transportada no está envasada.
+La carga se sujeta directamente al vehículo de transporte.
+Se utiliza para compensar, principalmente, las fuerzas logitudinales sobre la carga.
+RESPUESTA: C
+NORMA: Sin referencia
+Referencia Doctrinal: Noma EN-12195
+COD: 64915
+¿Cuál de los siguientes es un tipo de amarre directo, según la norma EN 12195?
+
+Amarre en diagonal.
+Amarre inclinado.
+Amarre con efecto muelle.
+Todas las respuestas son correctas.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: Noma EN-12195
+COD: 64916
+¿Cuál de los siguientes es un tipo de amarre directo, según la norma EN 12195?
+
+Amarre en bucle.
+Amarre directo contra la inclinación.
+Amarre inclinado en dirección transversal.
+Todas las respuestas son correctas.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: Noma EN-12195
+COD: 64917
+¿Cuándo debe sustituirse un cable de acero utlizado para sujetar la carga?
+
+Cuando se aprecie la formación visible de nudos.
+Cuando haya superado su fecha de caducidad.
+En la fecha que establezca la etiqueta EN.
+Cuando se aprecie un 2 % de disminución de su diámetro en un punto cualquiera.
+RESPUESTA: A
+NORMA: Sin referencia
+Referencia Doctrinal: NTP 155: Cables de acero. INSNT
+COD: 64918
+¿Qué fuerza puede hacer que las mercancías se deslicen o vuelquen durante el transportes?
+
+La centrífuga.
+La extripeta.
+La inercia.
+La dinámica.
+RESPUESTA: C
+NORMA: Sin referencia
+Referencia Doctrinal: Guía vasca de estiba para el transporte de mercancías por carretera. Instituto para la Seguridad en las Cargas – ISEC
+COD: 64919
+¿Qué fuerzas hay que tener en cuenta en la estiba de la carga?
+
+Fuerzas de inercia.
+Fuerza de rozamiento.
+Fuerza de sujeción.
+Todas las respuestas son correctas.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: NTP 1038: Dispositivos de sujeción de equipos de trabajo y
+cargas diversas sobre vehículos de transporte: seguridad.  INSNT
+COD: 64920
+¿Qué movimiento de la carga puede provocar la fuerza de inercia?
+
+Hacia delante.
+Hacia atrás.
+Laterales.
+Todas las respuestas son correctas.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: NTP 1038: Dispositivos de sujeción de equipos de trabajo y
+cargas diversas sobre vehículos de transporte: seguridad.  INSNT
+COD: 64921
+¿Qué debe tenerse en cuenta para saber el peso de la carga en el momento de una frenada?
+
+La deceleración.
+La aceleración.
+La fuerza centrífuga.
+La fuerza dinámica.
+RESPUESTA: B
+NORMA: Sin referencia
+Referencia Doctrinal: NTP 1038: Dispositivos de sujeción de equipos de trabajo y
+cargas diversas sobre vehículos de transporte: seguridad.  INSNT
+COD: 64922
+En relación con la estiba de la carga de un vehículo, ¿qué es la fuerza de sujeción?
+
+La suma de las fuerzas que ejercen los amarres sobre la carga en un momento dado.
+Es la fuerza que hay que aplicar para mantener la carga en posición de reposo y estable.
+Es la diferencia entre la fuerza de inercia y la fuerza de bloqueo.
+Es la suma de la fuerza de amarre y la fuerza de rozamiento.
+RESPUESTA: B
+NORMA: Sin referencia
+Referencia Doctrinal: NTP 1038: Dispositivos de sujeción de equipos de trabajo y
+cargas diversas sobre vehículos de transporte: seguridad.  INSNT
+COD: 64923
+¿En qué consiste la inmovilización de la carga mediante bloqueo?
+
+Hacer que la carga repose sobre estructuras fijas en el portacargas.
+Sujetar la carga por sus cuatro extremos mediante dos conjuntos de dispositivos de amarre. 
+Apretar la carga contra el suelo con amarres, aumentando el rozamiento.
+Utilizar cables o cadenas para la inmobilización de la carga.
+RESPUESTA: A
+NORMA: Sin referencia
+Referencia Doctrinal: Noma EN-12195
+COD: 64924
+¿A qué fuerza relacionada con la carga pueden afectar las vibraciones verticales del vehículo durante su movimiento?
+
+A la centrípeta.
+A la dinámica.
+A la inercia.
+A la de rozamiento.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: Guía europea de mejores prácticas sobre sujeción de cargas para el transporte por carretera. Dirección General de Movilidad y Transportes. COMISIÓN EUROPEA
+COD: 64925
+¿Qué debe ser capaz de soportar el equipo de sujeción de la carga en un transporte por carretera?
+
+50 % del peso de la carga en la dirección de avance.
+60 % del peso de la carga en la dirección de avance.
+80 % del peso de la carga en la dirección de avance.
+Al menos, el 100 % del peso de la carga en la dirección de avance.
+RESPUESTA: C
+NORMA: Sin referencia
+Referencia Doctrinal: Guía europea de mejores prácticas sobre sujeción de cargas para el transporte por carretera. Dirección General de Movilidad y Transportes. COMISIÓN EUROPEA
+COD: 64926
+¿Qué debe ser capaz de soportar el equipo de sujeción de la carga en un transporte por carretera?
+
+30 % del peso de la carga hacia los lados.
+50 % del peso de la carga hacia los lados.
+Al menos el 80 % del peso de la carga hacia los lados.
+Al menos, el 100 % del peso de la carga hacia los lados.
+RESPUESTA: B
+NORMA: Sin referencia
+Referencia Doctrinal: Guía europea de mejores prácticas sobre sujeción de cargas para el transporte por carretera. Dirección General de Movilidad y Transportes. COMISIÓN EUROPEA
+COD: 64927
+¿Qué debe ser capaz de soportar el equipo de sujeción de la carga en un transporte por carretera?
+
+50 % del peso de la carga hacia los lados y hacia atrás.
+40 % del peso de la carga hacia los lados y hacia atrás.
+20 % del peso de la carga hacia los lados y hacia atrás.
+30 % del peso de la carga hacia los lados y hacia atrás.
+RESPUESTA: A
+NORMA: Sin referencia
+Referencia Doctrinal: Guía europea de mejores prácticas sobre sujeción de cargas para el transporte por carretera. Dirección General de Movilidad y Transportes. COMISIÓN EUROPEA
+COD: 64928
+¿Qué debe ser capaz de soportar el equipo de sujeción de la carga en un transporte por carretera?
+
+20 % del peso de la carga hacia los lados si hay riesgo de que la carga se gire.
+40% del peso de la carga hacia los lados si hay riesgo de que la carga se gire.
+60 % del peso de la carga hacia los lados si hay riesgo de que la carga se gire.
+Ninguna de las respuestas anteriores es correcta.
+RESPUESTA: C
+NORMA: Sin referencia
+Referencia Doctrinal: Guía europea de mejores prácticas sobre sujeción de cargas para el transporte por carretera. Dirección General de Movilidad y Transportes. COMISIÓN EUROPEA
+COD: 64929
+¿Con qué letras se identifica la capacidad de amarre en las etiquetas de los elementos conformes con la norma EN 129195?
+
+CP.
+LC.
+AC.
+CS.
+RESPUESTA: B
+NORMA: Sin referencia
+Referencia Doctrinal: Noma EN-12195
+COD: 64930
+¿Cómo deben estar dispuestos los puntos de sujeción en los vehículos de transporte por carretera?
+
+Individualmente, a tramos cortos, en toda la caja.
+Por parejas, opuestos, en las paredes laterales.
+En grupos de cuatro, en paredes laterales y suelo de la caja.
+Formando triángulos, en las paredes laterales.
+RESPUESTA: B
+NORMA: Sin referencia
+Referencia Doctrinal: Código de buenas prácticas para la estiba segura de la carga en el transporte por carretera. IRU
+COD: 64931
+¿Qué debe hacerse si la carga no ocupa todo el espacio entre las paredes de la caja y no puede bloquearse con algún tipo de dispositivo?
+
+Nada, el movimiento que se genere no puede comportar un peligro.
+Inclinar la carga para apoyarla en una de la paredes.
+Utilizar material de relleno para generar fuerzas de compresión.
+Fijar la carga a la pared superior.
+RESPUESTA: C
+NORMA: Sin referencia
+Referencia Doctrinal: Código de buenas prácticas para la estiba segura de la carga en el transporte por carretera. IRU
+COD: 64932
+¿Qué característica tiene el amarre en bucle?
+
+La carga se fija a un lado de la carrocería.
+La carga se fija a la pared inferior de la caja.
+Se deben utilizar elementos específicos para este tipo de amarre.
+Deben combinarse elementos de amarre de diversos materiales.
+RESPUESTA: A
+NORMA: Sin referencia
+Referencia Doctrinal: Código de buenas prácticas para la estiba segura de la carga en el transporte por carretera. IRU
+COD: 64933
+¿Qué tipo de fijación proporciona el amarre en bucle?
+
+Longitudinal.
+Vertical.
+Diagonal.
+Lateral.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: Código de buenas prácticas para la estiba segura de la carga en el transporte por carretera. IRU
+COD: 64934
+¿Qué característica tiene el amarre con efecto muelle?
+
+Los dispositivos de amarre envuelven la carga.
+Los dispositivos de amarre cubren un ángulo de la parte superior de la carga. 
+La carga se fija a un lado de la carrocería.
+La carga se fija a las paredes inferior y superior de la caja.
+RESPUESTA: B
+NORMA: Sin referencia
+Referencia Doctrinal: Noma EN-12195
+COD: 64935
+¿De qué depende la resistencia de una cadena para la fijación de la carga?
+
+Del número de eslabones.
+De la dimensión de los eslabones.
+Del espesor de los eslabones.
+De los diámetros de la elipse de los eslabones.
+RESPUESTA: C
+NORMA: Sin referencia
+Referencia Doctrinal: Código de buenas prácticas para la estiba segura de la carga en el transporte por carretera. IRU
+COD: 64936
+La inmovilización de la carga por cierre se utiliza para …
+
+cargas de gran volúmen y poco peso.
+contendores o cajas móviles.
+cargas indivisibles.
+cargas con embalajes cilíndricos.
+RESPUESTA: B
+NORMA: Sin referencia
+Referencia Doctrinal: Código de buenas prácticas para la estiba segura de la carga en el transporte por carretera. IRU
+COD: 64937
+¿Es relevante el material de fabricación de una cincha para el tipo de carga?
+
+Sí, siempre debe tenerse en cuenta.
+Solo para cargas de gran peso y poco volúmen.
+Solo para cargas de poco peso y gran volumen.
+En la gran mayoría de casos no.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: Guía europea de mejores prácticas sobre sujeción de cargas para el transporte por carretera. Dirección General de Movilidad y Transportes. COMISIÓN EUROPEA
+COD: 64938
+¿Qué funcionalidad debe tener un dispositivo de tensión de las cadenas de sujecion de la carga?
+
+Cálculo de la tensión del soporte.
+Bloqueo del retroceso.
+Soporte para eslabones de agarre supletorios.
+Varias direcciones de tensión.
+RESPUESTA: B
+NORMA: Sin referencia
+Referencia Doctrinal: Noma EN-12195
+COD: 64939
+Por regla general, ¿cuándo se considera desgastada una cadena?
+
+A partir de que su longitud supere en más del 3 % su longitud teórica
+A partir de que su longitud supere en más del 5 % su longitud teórica
+A partir de que su longitud supere en más del 8 % su longitud teórica
+A partir de que su longitud supere en más del 10 % su longitud teórica
+RESPUESTA: A
+NORMA: Sin referencia
+Referencia Doctrinal: Guía europea de mejores prácticas sobre sujeción de cargas para el transporte por carretera. Dirección General de Movilidad y Transportes. COMISIÓN EUROPEA
+COD: 64940
+¿Qué deben permitir los sistema de amarre de la carga seleccionados?
+
+Un grado de visibilidad suficiente.
+El reparto uniforme de la carga.
+Prevenir golpes de la carga contra el chasis.
+Todas las respuestas son correctas.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: Manual de seguridad de los útiles de elevación de cargas. FREMAP
+COD: 64941
+¿Qué es el alma de un cable de acero?
+
+El número de alambres que lo componen.
+El número de cordones que lo componen.
+El eje central del cable sobre el que se enrollan los cordones.
+El material del que están hecho los alambres.
+RESPUESTA: C
+NORMA: Sin referencia
+Referencia Doctrinal: Manual de seguridad de los útiles de elevación de cargas. FREMAP
+COD: 64942
+Las cadenas utilizadas para la sujeción de la carga, ¿deben tener algún tipo de marca?
+
+No, no existe ninguna marca definida en la normativa.
+Solo las cadenas de longitud superior a 30 m.
+Sí, deben llevar una chapa metálica con diversa información.
+No, solo deben marcarse las cadenas utilizadas para elevación de cargas.
+RESPUESTA: C
+NORMA: Sin referencia
+Referencia Doctrinal: Noma EN-12195
+COD: 64943
+¿Es conveniente utilizar accesorios de amarre de distinto tipo en la sujeción de una misma carga?
+
+No, no es conveniente.
+Sí, pueden combinarse cintas con cables de acero.
+El uso de accesorios de distinto tipo incrementa la efectividad de la sujeción.
+Sí, es conveniente en carga de mucho volumen y poco peso.
+RESPUESTA: A
+NORMA: Sin referencia
+Referencia Doctrinal: NTP 1038: Dispositivos de sujeción de equipos de trabajo y
+cargas diversas sobre vehículos de transporte: seguridad.  INSNT
+COD: 64944
+¿Qué ángulo es conveniente que tengan las cuñas de bloqueo para evitar el movimiento lateral de la carga?
+
+76º.
+37º.
+30º.
+15º.
+RESPUESTA: B
+NORMA: Sin referencia
+Referencia Doctrinal: Guía europea de mejores prácticas sobre sujeción de cargas para el transporte por carretera. Dirección General de Movilidad y Transportes. COMISIÓN EUROPEA
+COD: 64945
+¿Qué ángulo es conveniente que tengan las cuñas de bloqueo para evitar el movimiento de la carga hacia delante?
+
+76º.
+37º.
+30º.
+15º.
+RESPUESTA: C
+NORMA: Sin referencia
+Referencia Doctrinal: Guía europea de mejores prácticas sobre sujeción de cargas para el transporte por carretera. Dirección General de Movilidad y Transportes. COMISIÓN EUROPEA
+COD: 64946
+¿Para qué tipo de cargas es aconsejable el uso de cadenas como elemento de sujeción?
+
+Para cargas de gran volúmen.
+Para cargas de perfil cortante.
+Para cargas muy inestables.
+Para cargas indivisibles.
+RESPUESTA: B
+NORMA: Sin referencia
+Referencia Doctrinal: Guía vasca de estiba para el transporte de mercancías por carretera. Instituto para la Seguridad en las Cargas – ISEC
+COD: 64947
+¿Qué acción realizan los amarres en la sujeción de la carga?
+
+Fundamentalmente evitar vuelcos y deslizamientos.
+Bloquear los movimientos longitudinales de la carga.
+Crear una fuerza en dirección contraria a la de las fuerzas de inercia.
+Ninguna respuesta es correcta.
+RESPUESTA: C
+NORMA: Sin referencia
+Referencia Doctrinal: Guía europea de mejores prácticas sobre sujeción de cargas para el transporte por carretera. Dirección General de Movilidad y Transportes. COMISIÓN EUROPEA
+COD: 64948
+¿Qué efecto tiene el inicio de movimiento de la carga sujeta con amarres directos?
+
+Una carga con amarres directos no debe moverse.
+La pérdida de tensión en los amarres.
+La disminución de la fuerza de sujeción.
+El aumento de la fuerza de sujeción.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: Guía europea de mejores prácticas sobre sujeción de cargas para el transporte por carretera. Dirección General de Movilidad y Transportes. COMISIÓN EUROPEA
+COD: 64949
+¿Qué permite la técnica de amarre en diagonal para la sujeción de la cargas?
+
+Utilizar cables de acero en lugar de cadenas.
+Reducir de 8 a 4 los dispositivos de amarre necesarios para asegurar la carga. 
+Asegurar mejor las cargas de mucha altura y poco peso.
+Mejorar la sujeción de cargas cilíndricas.
+RESPUESTA: B
+NORMA: Sin referencia
+Referencia Doctrinal: Noma EN-12195
+COD: 64950
+¿Cómo es recomendable realizar el amarre en bucle para la sujeción de la carga?
+
+Dos amarres delante de la carga y otros dos cerca del extremo posterior.
+Un amarre que realice al menos cuatro giros alrededor de la carga.
+Un amarre a la izquierda y otro a la derecha de la carga.
+Únicamente con cables de acero.
+RESPUESTA: A
+NORMA: Sin referencia
+Referencia Doctrinal: Guía europea de mejores prácticas sobre sujeción de cargas para el transporte por carretera. Dirección General de Movilidad y Transportes. COMISIÓN EUROPEA
+COD: 64951
+¿Cuál es la principal utilidad de la técnica de amarre en bucle?
+
+Limitar los desplazamientos hacia delante de la carga.
+Limitar los desplazamientos verticales de la carga.
+Limitar los desplazamientos hacia atrás de la carga.
+Limitar los desplazamientos laterales de la carga.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: Guía europea de mejores prácticas sobre sujeción de cargas para el transporte por carretera. Dirección General de Movilidad y Transportes. COMISIÓN EUROPEA
+COD: 64952
+¿Cuál es la principal utilidad de la técnica de amarre con efecto muelle?
+
+Evitar los desplamientos laterales de la carga.
+Evitar los desplazamientos verticales de la carga.
+Evitar los desplazamientos hacia delante de la carga.
+Evitar los desplazamientos en diagonal de la carga.
+RESPUESTA: C
+NORMA: Sin referencia
+Referencia Doctrinal: Guía europea de mejores prácticas sobre sujeción de cargas para el transporte por carretera. Dirección General de Movilidad y Transportes. COMISIÓN EUROPEA
+COD: 64953
+¿Qué acción realiza el amarre por rozamiento en relación con la sujeción de la carga?
+
+Limita el movimiento de la carga por rozamiento de los amarres.
+Incrementa la fuerza de rozamiento de la superficie de contacto de la carga con el vehículo.
+Evita deslizamientos verticales principalmente.
+Inmovilliza la carga solo para movimientos longitudinales.
+RESPUESTA: C
+NORMA: Sin referencia
+Referencia Doctrinal: Noma EN-12195
+COD: 64954
+¿Cuál es el mínimo de cierres por contenedor transportado?
+
+1 cierre de plano.
+2 cierres de estructura.
+3 cierres de bloqueo.
+4 cierres de giro.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: Código de buenas prácticas para la estiba segura de la carga en el transporte por carretera. IRU

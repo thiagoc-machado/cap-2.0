@@ -1,0 +1,1082 @@
+
+Módulo 9. Formación sobre transporte de mercancías bajo temperatura dirigida
+COD: 64786
+¿Cómo se llama el acuerdo internacional, al cual está adherido España, que reglamenta las condiciones de transporte de las distintas mercancías perecederas y los requisitos que deben reunir los vehículos utilizados?
+
+ACP.
+ADP.
+ATP.
+AFP.
+RESPUESTA: C
+NORMA: Acuerdo ATP Título
+Referencia Doctrinal: 
+COD: 64787
+El acuerdo ATP no establece como categoría de vehículo de temperatura controlada el vehículo:
+
+isotermo.
+frigorífico.
+calorífico.
+cisterna.
+RESPUESTA: D
+NORMA: Acuerdo ATP Anejo I
+Referencia Doctrinal: 
+COD: 64788
+El acuerdo internacional denominado ATP:
+
+se refiere al transporte de personas con movilidad reducida.
+se refiere al transporte de mercancías perecederas.
+se refiere al transporte combinado carretera-ferrocarril.
+es un acuerdo aduanero para mercancías en tránsito.
+RESPUESTA: B
+NORMA: Acuerdo ATP Título
+Referencia Doctrinal: 
+COD: 64789
+Según el acuerdo ATP, ¿a qué vehículo identifican las letras IN?
+
+Isotermo normal.
+Isotermo reforzado.
+Refrigerado normal de la clase A.
+Refrigerado reforzado de la clase A.
+RESPUESTA: A
+NORMA: Acuerdo ATP Anejo I, Apéndice 4
+Referencia Doctrinal: 
+COD: 64790
+Según el acuerdo ATP, ¿cuántas clases de vehículos frigoríficos hay?
+
+Dos clases.
+Cuatro clases.
+Seis clases.
+Nueve clases.
+RESPUESTA: C
+NORMA: Acuerdo ATP Anejo I
+Referencia Doctrinal: 
+COD: 64791
+Según el acuerdo ATP, ¿cuántas clases de vehículos refrigerantes, según la capacidad de enfriamiento, se distinguen?
+
+Una clase.
+Dos clases.
+Tres clases.
+Cuatro clases.
+RESPUESTA: D
+NORMA: Acuerdo ATP Anejo I
+Referencia Doctrinal: 
+COD: 64792
+Según el acuerdo ATP, debajo de las letras de identificación de los vehículos de temperatura controlada se indica:
+
+la fecha de expiración (mes y año) de la validez del certificado que deben poseer estos vehículos.
+la fecha de expiración (día, mes y año) de la validez del certificado que deben poseer estos vehículos.
+el año de expiración de la validez del certificado que deben poseer estos vehículos.
+el año y día de expiración de la validez del certificado que deben poseer estos vehículos.
+RESPUESTA: A
+NORMA: Acuerdo ATP Anejo I, Apéndice 4
+Referencia Doctrinal: 
+COD: 64793
+Según el acuerdo ATP, los vehículos de temperatura controlada deben ir identificados con:
+
+unos números.
+unas letras.
+unos números y unas letras.
+unos números y unos colores.
+RESPUESTA: B
+NORMA: Acuerdo ATP Anejo I, Apéndice 4
+Referencia Doctrinal: 
+COD: 64794
+Según el acuerdo ATP, un vehículo identificado con las letras FRF es:
+
+un vehículo frigorífico normal de la clase A.
+un vehículo refrigerante reforzado de la clase F.
+un vehículo frigorífico reforzado de la clase F.
+un vehículo frigorífico normal de la clase F.
+RESPUESTA: C
+NORMA: Acuerdo ATP Anejo I, Apéndice 4
+Referencia Doctrinal: 
+COD: 64795
+Según el ATP, ¿a qué temperatura máxima deben transportarse los productos congelados?
+
+Desde -20 ºC a -10 ºC, según el producto.
+Desde -10 ºC a -5 ºC, según el producto.
+Desde -15 ºC a -20 ºC, según el producto.
+Desde -20 ºC a -30 ºC, según el producto.
+RESPUESTA: A
+NORMA: Acuerdo ATP Anejo II
+Referencia Doctrinal: 
+COD: 64796
+¿Cuál de los siguiente distintivos es el que está formado por un cuadrado con fondo de color blanco y las siglas correspondientes al tipo de vehículo autorizado en color azul oscuro?
+
+Placa de vehículo lento.
+Distintivo de nacionalidad española.
+Distintivo de transporte de mercancías perecederas.
+Placa de servicio público.
+RESPUESTA: C
+NORMA: Acuerdo ATP Anejo I, Apéndice 4
+Referencia Doctrinal: 
+COD: 64797
+El acuerdo ATP se aplica:
+
+a todos los medios de transporte, siempre que la mercancía viaje en los vehículos utilizados para el transporte terrestre.
+a los transportes aéreos, siempre que la mercancía viaje en los vehículos utilizados para el transporte terrestre.
+a los transportes marítimos con trayectos inferiores a 150 kilómetros, siempre que la mercancía viaje en los vehículos utilizados para el transporte terrestre.
+a los transportes marítimos con trayectos inferiores a 1.500 kilómetros, siempre que la mercancía viaje en los vehículos utilizados para el transporte terrestre.
+RESPUESTA: C
+NORMA: Acuerdo ATP Art. 3
+Referencia Doctrinal: 
+COD: 64798
+Según el acuerdo ATP, ¿qué es un vehículo identificado con las letras IR?
+
+Isotermo normal.
+Isotermo reforzado.
+Refrigerado normal.
+Refrigerado reforzado.
+RESPUESTA: B
+NORMA: Acuerdo ATP Anejo I, Apéndice 4
+Referencia Doctrinal: 
+COD: 64799
+Según el acuerdo ATP, ¿qué es un vehículo identificado con las letras CRA?
+
+Un vehículo calorífico reforzado de la clase A.
+Esta clase de vehículo no existe.
+Un vehículo isotermo reforzado de la clase A.
+Un vehículo refrigerante reforzado de la clase A.
+RESPUESTA: A
+NORMA: Acuerdo ATP Anejo I, Apéndice 4
+Referencia Doctrinal: 
+COD: 64800
+Según el acuerdo ATP, ¿qué es un vehículo identificado con las letras FRC?
+
+Un vehículo refrigerante reforzado de la clase C.
+Un vehículo frigorífico normal de la clase C.
+Un vehículo isotermo reforzado C.
+Un vehículo frigorífico reforzado de la clase C.
+RESPUESTA: D
+NORMA: Acuerdo ATP Anejo I, Apéndice 4
+Referencia Doctrinal: 
+COD: 64801
+Según el acuerdo ATP, ¿qué es un vehículo identificado con las letras FRA?
+
+Un vehículo calorífico reforzado de la clase A.
+Un vehículo refrigerante reforzado de la clase A.
+Un vehículo frigorífico reforzado de la clase A.
+Un vehículo refrigerante reforzado de la clase A.
+RESPUESTA: C
+NORMA: Acuerdo ATP Anejo I, Apéndice 4
+Referencia Doctrinal: 
+COD: 64802
+Según el acuerdo ATP, ¿qué es un vehículo identificado con las letras RND?
+
+Un vehículo refrigerante reforzado de la clase D.
+Un vehículo refrigerante normal de la clase D.
+Un vehículo isotermo normal de la clase D.
+Un vehículo calorífico normal  de la clase D.
+RESPUESTA: B
+NORMA: Acuerdo ATP Anejo I, Apéndice 4
+Referencia Doctrinal: 
+COD: 64803
+Según el acuerdo ATP, ¿qué es un vehículo identificado con las letras RRA?
+
+Un vehículo refrigerante reforzado de la clase A.
+Un vehículo isotermo reforzado de la clase A.
+Un vehículo frigorífico reforzado de la clase A.
+Un vehículo calorífico reforzado de la clase A.
+RESPUESTA: A
+NORMA: Acuerdo ATP Anejo I, Apéndice 4
+Referencia Doctrinal: 
+COD: 64804
+Según el acuerdo ATP, si el vehículo está dotado de un dispositivo térmico no autónomo móvil o con una parte móvil, la marca o marcas de identificación se complementarán con la letra:
+
+A.
+M.
+Z.
+X.
+RESPUESTA: D
+NORMA: Acuerdo ATP Anejo I, Apéndice 4
+Referencia Doctrinal: 
+COD: 64805
+Según el acuerdo ATP, las marcas de clasificación y de la fecha de expiración deberán, al menos, estar fijadas externamente:
+
+en el centro de la parte trasera del vehículo.
+en la esquina superior izquierda de la parte trasera del vehículo.
+en las esquinas superiores de ambos lados, cerca de la parte delantera.
+Es indiferente el lugar en el que se fijen.
+RESPUESTA: C
+NORMA: Acuerdo ATP Anejo I, Apéndice 4
+Referencia Doctrinal: 
+COD: 64806
+En un vehículo para el transporte a temperatura dirigida, ¿qué es el coeficiente K?
+
+El coeficiente global de transmisión térmica.
+El coeficiente de potencia en caballos de vapor que produzcan frío en el vehículo.
+El coeficiente de producción de frío.
+El coeficiente que mide la potencia de producción de frío.
+RESPUESTA: A
+NORMA: Acuerdo ATP Anejo I, Apéndice 2
+Referencia Doctrinal: 
+COD: 64807
+La placa de certificación de conformidad para los vehículos autorizados para el transporte de mercancías perecederas tendrá, al menos, las siguientes dimensiones:
+
+100 mm x 80 mm.
+160 mm x 100 mm.
+200 mm x 150 mm.
+250 mm x 160 mm.
+RESPUESTA: B
+NORMA: Acuerdo ATP Anejo I, Apéndice 3
+Referencia Doctrinal: 
+COD: 64808
+El acuerdo ATP se aplicará:
+
+a toda operación de transporte por cuenta ajena o propia por carretera.
+solo a las operaciones de transporte por cuenta propia por carretera.
+a toda clase de transportes de cualquier clase de mercancía.
+solo a las operaciones de transporte por cuenta ajena por carretera.
+RESPUESTA: A
+NORMA: Acuerdo ATP Art. 3
+Referencia Doctrinal: 
+COD: 64809
+Según el acuerdo ATP, los vehículos caloríficos de clase A deben permitir elevar la temperatura en el interior de la caja y mantenerla después a una temperatura no inferior a +12 °C con una temperatura media exterior de:
+
+0 °C.
+-5 °C.
+-10 °C.
+-20 °C.
+RESPUESTA: C
+NORMA: Acuerdo ATP Anejo I
+Referencia Doctrinal: 
+COD: 64810
+Según el acuerdo ATP, los vehículos caloríficos de la clase B deben permitir elevar la temperatura en el interior de la caja y mantenerla después a una temperatura no inferior a +12 °C con una temperatura media exterior de:
+
+0 °C.
+-5 °C.
+-10 °C.
+-20 ºC
+RESPUESTA: D
+NORMA: Acuerdo ATP Anejo I
+Referencia Doctrinal: 
+COD: 64811
+Una cisterna construida con paredes aislantes que permiten limitar los intercambios de calor entre el interior y el exterior es una cisterna:
+
+calorífica.
+isoterma.
+frigorífica.
+refrigerante.
+RESPUESTA: B
+NORMA: Acuerdo ATP Anejo I
+Referencia Doctrinal: 
+COD: 64812
+¿Cómo se denomina una cisterna isoterma que, con ayuda de una fuente de frío distinto de un equipo mecánico o de absorción, permite bajar la temperatura en el interior de la cisterna y mantenerla?
+
+Refrigerante.
+Frigorífica.
+Isoterma.
+Calorífica.
+RESPUESTA: A
+NORMA: Acuerdo ATP Anejo I
+Referencia Doctrinal: 
+COD: 64813
+¿Cómo se denomina una cisterna isoterma provista de un dispositivo de producción de frío individual que permite bajar la temperatura en el interior de la cisterna y mantenerla?
+
+Isoterma.
+Refrigerante.
+Frigorífica.
+Calorífica.
+RESPUESTA: C
+NORMA: Acuerdo ATP Anejo I
+Referencia Doctrinal: 
+COD: 64814
+¿De qué clases pueden ser las unidades de transporte de temperatura controlada?
+
+Regulables y no regulables.
+Aislantes y permeables.
+Congeladoras y caloríficas.
+Caloríficas, isotermas, refrigerantes, frigoríficas y frigoríficas y caloríficas.
+RESPUESTA: D
+NORMA: Acuerdo ATP Anejo I
+Referencia Doctrinal: 
+COD: 64815
+El transporte de alimentos perecederos a temperatura regulada, ¿por qué acuerdo se rige fundamentalmente?
+
+Acuerdo sobre transportes internacionales de mercancías perecederas y sobre vehículos especiales utilizados en esos transportes (ATP).
+Acuerdo sobre transportes de mercancías alimenticias y sobre vehículos especiales utilizados en esos transportes (ATAP).
+Tratado internacional de transporte de consumo (TITC).
+Acuerdo sobre transportes de mercancías agroganaderas de consumo (ATMA).
+RESPUESTA: A
+NORMA: Acuerdo ATP Título
+Referencia Doctrinal: 
+COD: 64816
+El acuerdo internacional que reglamenta las condiciones de transporte de las distintas mercancías perecederas y los requisitos de los vehículos utilizados se denomina:
+
+ALP.
+NBA.
+ATD.
+ATP.
+RESPUESTA: D
+NORMA: Acuerdo ATP Título
+Referencia Doctrinal: 
+COD: 64817
+Según la capacidad de enfriamiento, ¿cuántas clases existen de vehículos refrigerantes?
+
+Tres.
+Cuatro.
+Cinco.
+Dos.
+RESPUESTA: B
+NORMA: Acuerdo ATP Anejo I
+Referencia Doctrinal: 
+COD: 64818
+Un vehículo frigorífico de clase C debe conseguir bajar la temperatura y después mantenerla entre:
+
+0 °C y -10 °C.
++12 °C y -10 °C.
++7 °C y -20 °C.
++12 °C y -20 °C.
+RESPUESTA: D
+NORMA: Acuerdo ATP Anejo I
+Referencia Doctrinal: 
+COD: 64819
+¿Cuántas clases de vehículos caloríficos se distinguen?
+
+Tres.
+Dos.
+Cuatro.
+Una.
+RESPUESTA: B
+NORMA: Acuerdo ATP Anejo I
+Referencia Doctrinal: 
+COD: 64820
+Un vehículo refrigerante normal de la clase A, ¿qué marca de identificación lleva?
+
+RRA.
+RRC.
+FNB.
+RNA.
+RESPUESTA: D
+NORMA: Acuerdo ATP Anejo I, Apéndice 4
+Referencia Doctrinal: 
+COD: 64821
+¿Cuál es la marca de identificación de un vehículo calorífico reforzado de la clase A?
+
+CRA.
+CNA.
+CRB.
+CFA.
+RESPUESTA: A
+NORMA: Acuerdo ATP Anejo I, Apéndice 4
+Referencia Doctrinal: 
+COD: 64822
+En los vehículos de temperatura controlada, ¿dónde se colocarán las marcas de clasificación y la fecha de expiración?
+
+Una en la parte delantera y otra en la parte trasera del vehículo.
+Al lado de la matrícula del vehículo.
+No es obligatorio llevarlas.
+En las esquinas superiores de ambos lados del vehículo, cerca de la parte delantera.
+RESPUESTA: D
+NORMA: Acuerdo ATP Anejo I, Apéndice 4
+Referencia Doctrinal: 
+COD: 64823
+¿A qué temperatura máxima debe hacerse el transporte refrigerado de carne de aves y conejos?
+
+4 ºC.
+5 ºC.
+6 ºC.
+7 ºC.
+RESPUESTA: A
+NORMA: Acuerdo ATP Anejo III
+Referencia Doctrinal: 
+COD: 64824
+El acuerdo ATP se aplica directamente:
+
+a cualquier transporte de mercancías perecederas incluidas en el acuerdo.
+a los transportes internacionales de mercancías perecederas, incluidas en el acuerdo, efectuados entre países firmantes del mismo.
+a los transportes nacionales, con un recorrido superior a 300 kilómetros, de mercancías perecederas incluidas en el acuerdo.
+solo a los transportes que tengan una duración superior a 6 horas.
+RESPUESTA: B
+NORMA: Acuerdo ATP Introducción
+Referencia Doctrinal: 
+COD: 64825
+Según el acuerdo ATP, ¿qué es un vehículo identificado con las letras FNA?
+
+Un vehículo frigorífico normal de la clase E.
+Un vehículo refrigerante reforzado de la clase A.
+Un vehículo frigorífico normal de la clase A.
+Un vehículo refrigerado normal de la clase A.
+RESPUESTA: C
+NORMA: Acuerdo ATP Anejo I, Apéndice 4
+Referencia Doctrinal: 
+COD: 64826
+Según el acuerdo ATP, ¿qué es un vehículo identificado con las letras FRF?
+
+Esta clase de vehículo no existe.
+Un vehículo frigorífico reforzado de la clase F.
+Un vehículo frigorífico reforzado de la clase N.
+Un vehículo isotermo normal de la clase F.
+RESPUESTA: B
+NORMA: Acuerdo ATP Anejo I, Apéndice 4
+Referencia Doctrinal: 
+COD: 64827
+Según el acuerdo ATP, con una temperatura exterior media de +30 °C, los vehículos refrigerantes de clase A deben permitir bajar la temperatura en el interior de la caja y mantenerla después, como máximo, a:
+
+0 °C.
+-5 °C.
+-20 °C.
++7 °C.
+RESPUESTA: D
+NORMA: Acuerdo ATP Anejo I
+Referencia Doctrinal: 
+COD: 64828
+Según el acuerdo ATP, con una temperatura exterior media de +30 °C, los vehículos frigoríficos de clase B deben permitir bajar la temperatura en el interior de la caja y mantenerla después entre:
+
+0 °C y -10 °C.
++12 °C y -10 °C.
++7 °C y -20 °C.
++5 °C y -25 °C.
+RESPUESTA: B
+NORMA: Acuerdo ATP Anejo I
+Referencia Doctrinal: 
+COD: 64829
+¿Cuál es la marca de identificación de un vehículo frigorífico normal de la clase D?
+
+FNC.
+FND.
+FRE.
+FNF.
+RESPUESTA: B
+NORMA: Acuerdo ATP Anejo I, Apéndice 4
+Referencia Doctrinal: 
+COD: 64830
+¿Se aplica el ATP a transportes que tengan una parte de su trayecto por mar?
+
+No, en ningún caso.
+Solo si se trata de mercancías ultracongeladas.
+Solo cuando el trayecto marítimo sea inferior a 150 kilómetros.
+Sí, cuando se trate de mercancías destinadas al consumo humano.
+RESPUESTA: C
+NORMA: Acuerdo ATP Art. 3
+Referencia Doctrinal: 
+COD: 64831
+¿Se aplica el ATP a transportes terrestres  efectuados en contenedores clasificados como marítimos con características térmicas, sin transbordo de mercancías?
+
+No, en ningún caso.
+No, si van precedidos o seguidos de un transporte marítimo superior a 150 kilómetros.
+Sí, cuando se trate de mercancías destinadas al consumo humano.
+Sí, siempre que el trayecto terrestre sea superior a 150 km.
+RESPUESTA: B
+NORMA: Acuerdo ATP Art. 5
+Referencia Doctrinal: 
+COD: 64832
+Según el ATP, ¿qué caracteriza una unidad de transporte isoterma?
+
+Que no puede superar una capacidad de carga determinada.
+Que sus elementos tienen propiedades aislantes.
+Que mantiene la temperatura con elementos no mecánicos.
+Que no puede utilizarse en transporte internacional.
+RESPUESTA: B
+NORMA: Acuerdo ATP Anejo I
+Referencia Doctrinal: 
+COD: 64833
+¿Qué función tiene el denominado coeficiente "K"?
+
+Según su valor, la unidad de transporte puede ser frigorífica o refrigerante.
+Según su valor, la unidad de transporte puede ser normal o reforzada.
+Permite establecer el nivel óptimo de gas en el circuito de refrigeración.
+No superarlo indica que la cadena del frío se mantiene.
+RESPUESTA: B
+NORMA: Acuerdo ATP Anejo I
+Referencia Doctrinal: 
+COD: 64834
+Según el ATP, ¿qué caracteriza una unidad de transporte frigorífica?
+
+El espesor de sus paredes es superior a 40 mm.
+Tienen un dispositivo que permite bajar la temperatura en el interior de la caja.
+Su coeficiente "K" es de 0,40 W/m2 K.
+Todas las respuestas son correctas
+RESPUESTA: C
+NORMA: Acuerdo ATP Anejo I
+Referencia Doctrinal: 
+COD: 64835
+Según el ATP, ¿qué caracteriza una unidad de transporte frigorífica y calorífica?
+
+Tienen un dispositivo de frío y de calor.
+El espesor de sus paredes es superior a 40 mm.
+Su coeficiente "K" es de 0,40 W/m2 K.
+Todas las respuestas son correctas.
+RESPUESTA: A
+NORMA: Acuerdo ATP Anejo I
+Referencia Doctrinal: 
+COD: 64836
+Según el ATP, las unidades para el transporte de mercancías perecederas, ¿cuándo son sometidas a controles de cumplimiento de normativa?
+
+Antes de la puesta en servicio.
+Cada año.
+Cada dos años.
+Cada tres años.
+RESPUESTA: A
+NORMA: Acuerdo ATP Anejo I
+Referencia Doctrinal: 
+COD: 64837
+El certificado de conformidad ATP…
+
+debe llevarse en el vehículo durante el transporte.
+debe presentarlo el transportista antes de la carga o descarga.
+debe conservarlo la empresa en sus dependencias.
+tiene una validez de 2 años.
+RESPUESTA: A
+NORMA: Acuerdo ATP Anejo I
+Referencia Doctrinal: 
+COD: 64838
+Según el ATP, ¿a qué temperatura máxima deben transportarse los pescados congelados?
+
+ -18 ºC.
+ -14 ºC.
+ -10 ºC.
+ -8 ºC.
+RESPUESTA: A
+NORMA: Acuerdo ATP Anejo II
+Referencia Doctrinal: 
+COD: 64839
+Según el ATP, ¿a qué temperatura máxima debe transportarse la leche cruda?
+
+8 ºC.
+7 ºC.
+6 ºC.
+A la que especifiquen los documentos del transporte.
+RESPUESTA: C
+NORMA: Acuerdo ATP Anejo II
+Referencia Doctrinal: 
+COD: 64840
+Según el ATP, ¿a qué temperatura máxima deben transportarse las carnes rojas?
+
+7 ºC.
+8 ºC.
+10 ºC.
+A la que especifiquen los documentos del transporte.
+RESPUESTA: A
+NORMA: Acuerdo ATP Anejo II
+Referencia Doctrinal: 
+COD: 64841
+Según el ATP, ¿a qué temperatura máxima deben transportarse los zumos de frutas concentrados?
+
+7 ºC.
+8 ºC.
+10 ºC.
+A la que especifiquen los documentos del transporte.
+RESPUESTA: D
+NORMA: Acuerdo ATP Anejo II
+Referencia Doctrinal: 
+COD: 64842
+Según el ATP, ¿cuándo debe contar la unidad de transporte con un aparato de control y registro de temperatura ambiente de la caja?
+
+En todos los transportes de productos destinados a consumo humano.
+En todos los transportes de productos refrigerados destinados a consumo humano.
+En todos los transportes de productos ultracongelados destinados a consumo humano.
+En todos los transportes de productos cuya temperatura debe ser controlada durante el transporte.
+RESPUESTA: C
+NORMA: Acuerdo ATP Anejo II
+Referencia Doctrinal: 
+COD: 64843
+Según la normativa de la Unión Europea, ¿qué incluye el concepto de alimento destinado a consumo humano?
+
+La goma de mascar.
+Las bebidas.
+El agua.
+Todas las respuestas son correctas.
+RESPUESTA: D
+NORMA: Reglamento Comunitario 178/2002 Art. 2
+Referencia Doctrinal: 
+COD: 64844
+Según la normativa de la Unión Europea, ¿en qué debe basarse la legislación alimentaria con el fin de proteger la salud y la vida de las personas?
+
+En el control de riesgos.
+En el análisis del riesgo.
+En la prevención de contaminaciones.
+En los procesos seguros.
+RESPUESTA: B
+NORMA: Reglamento Comunitario 178/2002 Art. 6
+Referencia Doctrinal: 
+COD: 64845
+Según la normativa alimentaria de la Unión Europea, ¿qué elementos componen el análisis del riesgo? 
+
+Determinación, gestión y comunicación.
+Estudio, clasificación y actuación.
+Detección, estudio y gestión.
+Determinación, clasificación y gestión.
+RESPUESTA: A
+NORMA: Reglamento Comunitario 178/2002 Art. 3
+Referencia Doctrinal: 
+COD: 64846
+Según la normativa de la Unión Europea, ¿cuál es un requisito de seguridad alimentaria?
+
+Todos los alimentos deben ser analizados antes de su comercialización.
+No deben comercializarse los alimentos que no sean seguros.
+Debe mantenerse una red de alertas sanitarias.
+Todos los procesos alimentarios deben estar controlados.
+RESPUESTA: B
+NORMA: Reglamento Comunitario 178/2002 Art. 14
+Referencia Doctrinal: 
+COD: 64847
+Según la normativa de la Unión Europea, ¿cuándo se considera que un alimento no es seguro?
+
+Cuando sea nocivo para la salud.
+Cuando tenga posibles efectos tóxicos acumulativos.
+Cuando esté deteriorado o descompuesto.
+Todas las respuestas son correctas.
+RESPUESTA: D
+NORMA: Reglamento Comunitario 178/2002 Art. 14
+Referencia Doctrinal: 
+COD: 64848
+Según la normativa de la Unión Europea, ¿cuál sería una medida de higiene alimentaria?
+
+El mantenimiento de la cadena de frio.
+La ejecución de muestreos y análisis.
+El cumplimiento de criterios microbiológicos de los alimentos.
+Todas las respuestas son correctas.
+RESPUESTA: D
+NORMA: Reglamento Comunitario 852/2004 Art. 1
+Referencia Doctrinal: 
+COD: 64849
+Según la normativa de la Unión Europea, ¿qué medidas en materia de higiene deben tomar las empresas alimentarias?
+
+Control de la contaminación procedente del aire.
+Medidas biocidas y fitosanitarias.
+Formación del personal que participe en los diferentes procesos.
+Todas las respuestas son correctas.
+RESPUESTA: A
+NORMA: Reglamento Comunitario 852/2004 Anexo I
+Referencia Doctrinal: 
+COD: 64850
+¿El control de las zoonosis es una medida en materia de higiene alimentaria?
+
+Sí, es una de las que recoge la normativa.
+Sí, pero solo en el ámbito de las exportaciones.
+No, aunque puede establecerse de forma temporal por la autoridad competente.
+No, en ningún caso.
+RESPUESTA: A
+NORMA: Reglamento Comunitario 852/2004 Anexo I
+Referencia Doctrinal: 
+COD: 64851
+Una empresa alimentaria que se dedica a la producción de productos primarios de origen animal, ¿qué medidas de higiene alimentaria debe tomar?
+
+Garantizar el buen estado de salud de todo su personal.
+Limpiar y desinfectar las instalaciones utilizadas para almacenar el alimento para los animales.
+Contar con un departamento veterinario.
+Formar a todo su personal en riesgos fitosanitarios.
+RESPUESTA: B
+NORMA: Reglamento Comunitario 852/2004 Anexo I
+Referencia Doctrinal: 
+COD: 64852
+Una empresa alimentaria que se dedica a la producción de productos primarios vegetales, ¿qué medidas de higiene alimentaria debe tomar?
+
+Utilizar correctamente los productos fitosanitarios.
+Contar con un departamento de riesgos biológicos.
+Garantizar el buen estado de salud de todo su personal.
+Formar a todo su personal en riesgos fitosanitarios.
+RESPUESTA: A
+NORMA: Reglamento Comunitario 852/2004 Anexo I
+Referencia Doctrinal: 
+COD: 64853
+Según la normativa de la Unión Europea, ¿qué características deben tener los envases para productos alimenticios reutilizables?
+
+No se permite la reutilización de los envases.
+Deben ser resistentes y no degradables.
+Deben ser fáciles de limpiar y desinfectar.
+Deben ser de vidrio de seguridad.
+RESPUESTA: C
+NORMA: Reglamento Comunitario 852/2004 Anexo II
+Referencia Doctrinal: 
+COD: 64854
+Según la normativa de la Unión Europea, ¿qué características deben tener las operaciones de envasado de productos alimenticios?
+
+Debe evitarse la contaminación de los productos.
+No deben superar los tiempos establecidos en la normativa específica.
+Deben realizarse en envases no reutilizados.
+Todas las respuestas son correctas.
+RESPUESTA: A
+NORMA: Reglamento Comunitario 852/2004 Anexo II
+Referencia Doctrinal: 
+COD: 64855
+Según la normativa de la Unión Europea, ¿qué personas no pueden participar en operaciones de manipulación de productos alimenticios?
+
+Quienes tengan infecciones cutáneas.
+Las que padezcan diarrea.
+Las que tengan heridas infectadas.
+Todas las respuestas son correctas.
+RESPUESTA: D
+NORMA: Reglamento Comunitario 852/2004 Anexo II
+Referencia Doctrinal: 
+COD: 64856
+Los receptáculos de vehículos o contenedores utilizados para transportar los productos alimenticios deben…
+
+estar construidos con los materiales autorizados por la normativa.
+mantenerse limpios y en buen estado. 
+someterse a un análisis de riesgo biológico cada seis meses.
+contar con una reserva suficiente de biocidas.
+RESPUESTA: B
+NORMA: Reglamento Comunitario 852/2004 Anexo II
+Referencia Doctrinal: 
+COD: 64857
+Los productos alimenticios a granel en estado líquido, granulado o en polvo deberán transportarse …
+
+siempre con temperatura regulada.
+siempre con atmósfera "al vacío".
+en contenedores o cisternas reservados para su transporte.
+por personal con la formación específica adecuada.
+RESPUESTA: C
+NORMA: Reglamento Comunitario 852/2004 Anexo II
+Referencia Doctrinal: 
+COD: 64858
+¿Cómo se identifican los contenedores para transporte de productos alimenticios en estado líquido, granulado o en polvo ?
+
+Con un rombo de color verde.
+Con la indicación «exclusivamente para productos alimenticios».
+Con un rectángulo de color azul en la parte delantera y trasera del vehículo.
+No hay ninguna norma al respecto.
+RESPUESTA: B
+NORMA: Reglamento Comunitario 852/2004 Anexo II
+Referencia Doctrinal: 
+COD: 64859
+¿Cuál es una infracción administrativa en materia de seguridad alimentaria en España?
+
+Reutilizar envases en la comercialización de productos alimentarios.
+Puesta en el mercado de alimentos etiquetados de una manera insuficiente o defectuosa.
+No documentar los procesos de análisis del riesgo efectuados por la empresa.
+Todas las respuestas son correctas.
+RESPUESTA: B
+NORMA: Ley 17/2011 Art. 50
+Referencia Doctrinal: 
+COD: 64860
+¿Cuál puede llegar a ser la sanción económica por infracción administrativa en materia de seguridad alimentaria en España?
+
+1.000.000 €.
+750.000 €.
+600.000 €.
+5.000.00
+RESPUESTA: C
+NORMA: Ley 17/2011 Art. 52
+Referencia Doctrinal: 
+COD: 64861
+Además de la sanción económica, ¿qué otra sanción puede llegar a ser impuesta por infracción administrativa en materia de seguridad alimentaria en España?
+
+Cierre definitivo de las instalaciones.
+Clausura de las instalaciones hasta 10 años.
+Clausura de las instalaciones hasta cinco años.
+Clausura de las instalaciones hasta dos años.
+RESPUESTA: C
+NORMA: Ley 17/2011 Art. 52
+Referencia Doctrinal: 
+COD: 64862
+En relación con la higiene alimentaria, ¿cómo deben ser las superficies de trabajo con productos alimentarios?
+
+Resistentes a la corrosión.
+Con las señalizaciones correspondientes.
+Ligeramente rugosas.
+De materiales permeables.
+RESPUESTA: A
+NORMA: Sin referencia
+Referencia Doctrinal: 
+COD: 64863
+En relación con la higiene alimentaria, ¿de qué tipo de materiales deben ser las superficies de trabajo con productos alimentarios?
+
+Impermeables.
+No oxidables.
+No corrosivos.
+Todas son correctas.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: Guía de buenas prácticas de higiene en las industrias de aguas de bebida envasadas. AENABE
+COD: 64864
+En relación con la higiene alimentaria, el uso de productos químicos que entren en contacto con las superficies de trabajo con productos alimentarios…
+
+está prohibido.
+debe ser documentado.
+debe ser autorizado expresamente por la inspección de consumo.
+solo se permite en el caso de superficies metálicas.
+RESPUESTA: B
+NORMA: Sin referencia
+Referencia Doctrinal: Guía de buenas prácticas de higiene en las industrias de aguas de bebida envasadas. AENABE
+COD: 64865
+En relación con la higiene alimentaria, ¿qué medidas deben tomar los trabajadores que participen en el procesamiento de alimentos?
+
+Mantener las uñas limpias y cortadas.
+No ingerir alcohol durante la jornada laboral.
+Descansar lo suficiente entre jornadas laborales.
+Documentar sus actividades laborales.
+RESPUESTA: A
+NORMA: Sin referencia
+Referencia Doctrinal: Guía de buenas prácticas de higiene en las industrias de aguas de bebida envasadas. AENABE
+COD: 64866
+En relación con la higiene alimentaria, ¿qué medidas debe tomar la empresa en relación con los trabajadores que participen en el procesamiento de alimentos?
+
+Prohibir el uso de uñas o pestañas postizas.
+Prohibir los artículos personales en las áreas de producción.
+Prohibir comer fuera de las áreas asignadas.
+Todas las respuestas son correctas.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: Guía de buenas prácticas de higiene en las industrias de aguas de bebida envasadas. AENABE
+COD: 64867
+En relación con la higiene alimentaria, ¿qué debe tenerse en cuenta en las operaciones con alimentos?
+
+En todas las etapas de producción, deben protegerse los alimentos de todo riesgo de contaminación.
+El almacenamiento de productos terminados debe ser inferior a una semana.
+Está prohibida la utilización de paneles de madera.
+Todas las respuestas son correctas.
+RESPUESTA: A
+NORMA: Sin referencia
+Referencia Doctrinal: Guía de buenas prácticas de higiene en las industrias de aguas de bebida envasadas. AENABE
+COD: 64868
+En relación con la higiene alimentaria, ¿qué debe tenerse en cuenta si se utilizan palés en las operaciones con alimentos?
+
+El número de usos debe limitarse a un número máximo.
+Deben evitarse astillas, clavos o tornillos que dañen el producto.
+No deben utilizarse con envases de vidrio.
+No deben utilizarse con envases plásticos.
+RESPUESTA: B
+NORMA: Sin referencia
+Referencia Doctrinal: Guía de buenas prácticas de higiene en las industrias de aguas de bebida envasadas. AENABE
+COD: 64869
+Durante su almacenamiento, los alimentos …
+
+deben mantener la misma ubicación.
+deben ser reubicados periódicamente.
+deben ser periódicamente inspeccionados.
+no deben ser objeto de inspección hasta su salida del almacén.
+RESPUESTA: C
+NORMA: Sin referencia
+Referencia Doctrinal: Guía de buenas prácticas de higiene en las industrias de aguas de bebida envasadas. AENABE
+COD: 64870
+En relación con la higiene alimentaria, ¿pueden almacenarse los materiales y productos relacionados con los alimentos sobre el suelo?
+
+No, en ningún caso.
+Solo sobre suelos de materiales no porosos.
+Solo sobre suelos que permitan un fácil desinfección.
+Sí, pero  sin que exista un contacto directo.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: Guía de buenas prácticas de higiene en las industrias de aguas de bebida envasadas. AENABE
+COD: 64871
+Una buena práctica de higiene alimentaria es …
+
+llevar un registro de la expedición de los diferentes lotes de alimentos.
+no transportar las materias primas junto con otros materiales que puedan ser fuente de contaminación
+colocar y proteger los alimentos en el vehículo de forma que se reduzca al mínimo el riesgo de contaminación.
+Todas las respuestas son correctas.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: Guía de buenas prácticas de higiene en las industrias de aguas de bebida envasadas. AENABE
+COD: 64872
+¿Qué supone, según la normativa europea alimentaria, la trazabilidad en las etapas de distribución de los alimentos? 
+
+Identificar a cualquier persona que haya suministrado un alimento.
+Registrar las rutas de distribución.
+Documentar los transportes realizados.
+Elaborar planes de distribución capilar.
+RESPUESTA: A
+NORMA: Reglamento Comunitario 178/2002 Art. 18
+Referencia Doctrinal: 
+COD: 64873
+¿Qué supone, según la normativa europea alimentaria, la trazabilidad en las etapas de producción de los alimentos? 
+
+Identificar todos los trabajadores de la empresa.
+Identificar cualquier sustancia destinada a ser incorporada en un alimento.
+Llevar un registro de la maquinaria y herramientas utilizadas.
+Elaborar planes de contingencia.
+RESPUESTA: B
+NORMA: Reglamento Comunitario 178/2002 Art. 18
+Referencia Doctrinal: 
+COD: 64874
+¿Qué requiere el sistema de trazabilidad de una empresa alimentaria?
+
+Procedimientos documentados.
+Un gestor externo de control.
+Planes específicos según la norma UNE correspondiente.
+Sistema estadístico homologado por la autoridad competente.
+RESPUESTA: A
+NORMA: Sin referencia
+Referencia Doctrinal: Guía para la aplicación del sistema de trazabilidad en la empresa agroalimentaria. MINISTERIO DE SANIDAD
+COD: 64875
+¿Qué funciones cumple el sistema de trazabilidad en una empresa de alimentación?
+
+Proporcionar información dentro de la empresa para facilitar el control de procesos.
+Servir de apoyo si surgen problemas, facilitando la localización e inmovilización de los alimentos.
+Ayudar a lograr un nivel elevado de protección de la vida y la salud de las personas.
+Todas las respuestas son correctas.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: Guía para la aplicación del sistema de trazabilidad en la empresa agroalimentaria. MINISTERIO DE SANIDAD
+COD: 64876
+¿Qué debe tener en cuenta el sistema de trazabilidad que se adopte dentro de una empresa?
+
+Un medio único para identificar el producto.
+La identificación de todas las personas de la empresa.
+La designación de un gestor externo.
+Todas las respuestas son correctas.
+RESPUESTA: A
+NORMA: Sin referencia
+Referencia Doctrinal: Guía para la aplicación del sistema de trazabilidad en la empresa agroalimentaria. MINISTERIO DE SANIDAD
+COD: 64877
+¿Qué debe tener en cuenta el sistema de trazabilidad que se adopte dentro de una empresa?
+
+La identificación de todas las personas de la empresa.
+Los vehículos utilizados en la distribución.
+Las partes constituyentes del producto.
+La designación de un gestor externo.
+RESPUESTA: C
+NORMA: Sin referencia
+Referencia Doctrinal: Guía para la aplicación del sistema de trazabilidad en la empresa agroalimentaria. MINISTERIO DE SANIDAD
+COD: 64878
+El sistema de trazabilidad de una empresa, ¿qué datos del producto debe tener en cuenta?
+
+Las materias primas utilizadas.
+Su procedencia y destino.
+Los controles de que ha sido objeto.
+Todas las respuestas son correctas.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: Guía para la aplicación del sistema de trazabilidad en la empresa agroalimentaria. MINISTERIO DE SANIDAD
+COD: 64879
+¿Qué debe cubrir un sistema eficiente de trazabilidad de una empresa alimentaria?
+
+Trazabilidad hacia atrás.
+Trazabilidad hacia delante.
+Trazabilidad interna.
+Todas las respuestas son correctas.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: Guía de buenas prácticas de higiene en las industrias de aguas de bebida envasadas. AENABE
+COD: 64880
+¿Cuál sería un objetivo del sistema de trazabilidad de una empresa alimentaria?
+
+Mejora de la gestión logística de los almacenes.
+Seguimiento de la formación del personal de producción.
+Identificación de todos los productos potencialmente afectados por un problema.
+Todas las respuestas son correctas.
+RESPUESTA: C
+NORMA: Sin referencia
+Referencia Doctrinal: Guía de buenas prácticas de higiene en las industrias de aguas de bebida envasadas. AENABE
+COD: 64881
+¿Qué es un sistema APPCC?
+
+Un sistema de control de producción integrado.
+Una forma específica de gestión logística de almacenes.
+Un sistema para gestionar la seguridad de los alimentos.
+Un sistema de alerta en relación con el transporte de mercancías peligrosas.
+RESPUESTA: C
+NORMA: Sin referencia
+Referencia Doctrinal: Guía para el diseño, implantación y mantenimiento de un sistema APPCC y prácticas correctas de higiene en las empresas alimentarias. . COMUNIDAD DE MADRID
+COD: 64882
+¿Qué significan las siglas APPCC?
+
+Actuaciones Programadas de Control en Carretera.
+Análisis de Programas de Cambio Crítico.
+Análisis de Peligros y Puntos de Control Crítico.
+Administración Planificada de Puntos y Centros de Control.
+RESPUESTA: C
+NORMA: Sin referencia
+Referencia Doctrinal: Guía para el diseño, implantación y mantenimiento de un sistema APPCC y prácticas correctas de higiene en las empresas alimentarias. . COMUNIDAD DE MADRID
+COD: 64883
+¿En qué se fundamenta el sistema APPCC?
+
+En la normalización de procesos.
+En la inspección y muestreo del producto final.
+En la prevención.
+En la reacción.
+RESPUESTA: C
+NORMA: Sin referencia
+Referencia Doctrinal: Guía para el diseño, implantación y mantenimiento de un sistema APPCC y prácticas correctas de higiene en las empresas alimentarias. . COMUNIDAD DE MADRID
+COD: 64884
+¿Cuáles son los principios básicos por los que ha de guiarse todo sistema APPCC?
+
+Identificar cualquier peligro que deba evitarse, eliminarse o reducirse.
+Determinar los puntos de control crítico en relación con los peligros. 
+Elaborar documentos y registros para demostrar la aplicación efectiva de las medidas correctivas aplicadas.
+Todas las respuestas son correctas.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: Guía para la implantación de sistemas de autocontrol (APPCC) en el sector primario. CECOPESCA. Ministerio de Agricultura.
+COD: 64885
+¿Cuáles son los principios básicos por los que ha de guiarse todo sistema APPCC?
+
+Establecer, para cada punto de control crítico, límites críticos. 
+Aplicar  procedimientos de vigilancia en los puntos de control crítico identificados.
+Establecer medidas correctivas cuando un punto de control crítico no esté controlado
+Todas las respuestas son correctas.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: Guía para la implantación de sistemas de autocontrol (APPCC) en el sector primario. CECOPESCA. Ministerio de Agricultura.
+COD: 64886
+En relación con los sistemas APPCC ¿cuáles son los tipos de peligros que pueden identificarse?
+
+Polución, descomposición e infección.
+Físicos, químicos y biológicos.
+Toxicidad, contaminación y nocividad.
+Ninguna respuesta es correcta.
+RESPUESTA: B
+NORMA: Sin referencia
+Referencia Doctrinal: Guía para la implantación de sistemas de autocontrol (APPCC) en el sector primario. CECOPESCA. Ministerio de Agricultura.
+COD: 64887
+En relación con los sistemas APPCC ¿qué se entiende por peligro biológico?
+
+El provocado por un elemento químico.
+El generado por cualquier tipo de agente vivo.
+El que suponen los objetos extraños presentes en el producto.
+El provocado exclusivamente por parásitos o bacterias.
+RESPUESTA: B
+NORMA: Sin referencia
+Referencia Doctrinal: Guía para la implantación de sistemas de autocontrol (APPCC) en el sector primario. CECOPESCA. Ministerio de Agricultura.
+COD: 64888
+En relación con los sistemas APPCC ¿qué se entiende por límite crítico?
+
+El punto en el que hay que comenzar a aplicar medidas correctivas.
+El punto a partir del cual un peligro deja de estar controlado.
+Las etapas en las que hay que ejercer un control especial.
+Los puntos finales de procedimientos en los que la prevención es esencial.
+RESPUESTA: B
+NORMA: Sin referencia
+Referencia Doctrinal: Guía para la implantación de sistemas de autocontrol (APPCC) en el sector primario. CECOPESCA. Ministerio de Agricultura.
+COD: 64889
+¿Qué es un sistema de refrigeración según la normativa vigente?
+
+Circuito cerrado en el que por reacciones físicas se produce frío que se dirige a un medio externo al circuito.
+Conjunto de componentes en los que un refrigerante circula con el propósito de extraer calor de un medio externo al circuito.
+Instalación en la que por interacción de productos químicos se genera frío.
+Ninguna respuesta es correcta.
+RESPUESTA: B
+NORMA: RD 552/2019 INSTRUCCIÓN IF-01
+Referencia Doctrinal: 
+COD: 64890
+¿Cuáles son los sistemas de refrigeración más utilizados?
+
+Los de expansión.
+Los de circulación.
+Los de imprimación.
+Los de compresión.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: MANUAL DE REFRIGERACIÓN – Juan Manuel Franco Lijó - Ed. Reverté
+COD: 64891
+¿Cuál es un elemento de un sistema de refrigeración por compresión?
+
+Condensador.
+Evaporador.
+Dispositivo de expansión.
+Todas las respuestas son correctas
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: MANUAL DE REFRIGERACIÓN – Juan Manuel Franco Lijó - Ed. Reverté
+COD: 64892
+¿Qué función tiene el condensador en un sistema de refrigeración por compresión?
+
+Hace que el refrigerante pase de estado sólido a líquido.
+Hace que el fluido refrigerante pase de estado gaseoso a líquido.
+Hace que el fluido refrigerante pase de estado líquido a gaseoso.
+Imprime velocidad a la circulación del refrigerante por el circuito.
+RESPUESTA: B
+NORMA: Sin referencia
+Referencia Doctrinal: MANUAL DE REFRIGERACIÓN – Juan Manuel Franco Lijó - Ed. Reverté
+COD: 64893
+¿Qué función tiene el evaporador en un sistema de refrigeración por compresión?
+
+Extrae el calor de la zona exterior del circuito.
+Impulsa el aire frío hacia el exterior del circuito.
+Incrementa la temperatura del gas refrigerante.
+Hace que el fluido refrigerante pase de estado líquido a gaseoso.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: MANUAL DE REFRIGERACIÓN – Juan Manuel Franco Lijó - Ed. Reverté

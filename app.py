@@ -86,7 +86,7 @@ def signup():
 @app.route('/dashboard')
 @login_required
 def dashboard():
-    p = perg()
+    p = perg("sec1-comunes.txt")
     return render_template('dashboard.html', name=current_user.username,cod = p[0], perg = p[1], alt1 = p[2], alt2 = p[3], alt3 = p[4], alt4 = p[5], res = p[6], norma = p[7], ref = p[8], qtd = p[9])
 
 
@@ -99,7 +99,7 @@ def logout():
 @login_required
 @app.route('/quiz', methods=['GET', 'POST'])
 def quiz():
-    p = perg()
+    p = perg("sec1-comunes.txt")
     return render_template('quiz.html',cod = p[0], perg = p[1], alt1 = p[2], alt2 = p[3], alt3 = p[4], alt4 = p[5], res = p[6], norma = p[7], ref = p[8], qtd = p[9])
 
 

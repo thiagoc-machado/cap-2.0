@@ -1,0 +1,322 @@
+
+Módulo 2. Formación sobre el transporte escolar y de menores
+COD: 1060
+¿En qué casos es obligatoria la existencia de acompañante a bordo del vehículo al realizar excursiones con un vehículo de transporte público contratado a tal efecto?
+
+Cuando tres cuartas partes, o más, de los viajeros sean menores de 14 años.
+Cuando al menos el 50 % de los viajeros sean menores de 14 años
+Cuando tres cuartas partes, o más, de los viajeros sean menores de 16 años.
+Cuando al menos el 50 % de los viajeros sean mayores de 12 años.
+RESPUESTA: C
+NORMA: RD 443/2001 8.1.b; RD 443/2001 1
+Referencia Doctrinal: 
+COD: 66059
+Los transportes escolares deben cumplir:
+
+las normas del Real Decreto 443/2001 y la normativa de ordenación de los transportes terrestres. 
+las normas del Real Decreto 443/2001, pero no la normativa de ordenación de los transportes terrestres. 
+la normativa de ordenación de los transportes terrestres, pero no las normas del Real Decreto 443/2001.
+No deben cumplir ninguna de ambas normativas.
+RESPUESTA: A
+NORMA: RD 443/2001 2
+Referencia Doctrinal: 
+COD: 66060
+La realización de transporte escolar:
+
+necesita siempre autorización de transporte regular de uso especial.
+necesita siempre autorización de transporte discrecional.
+necesita autorización administrativa del tipo que corresponda a la clase de servicio realizado.
+solo necesita en todos los casos autorización de transporte escolar.
+RESPUESTA: C
+NORMA: RD 443/2001 2
+Referencia Doctrinal: 
+COD: 66061
+Las normas del Real Decreto 443/2001, sobre condiciones de seguridad en el transporte escolar y de menores:
+
+se aplican a las categorías de transporte establecidas en la Ley de Ordenación de los Transportes Terrestres y en las leyes autonómicas con categorías equivalentes.
+solo se aplican a las categorías de transporte establecidas en la Ley de Ordenación de los Transportes Terrestres, pues este real decreto es una norma estatal.
+solo se aplican a las categorías de transporte establecidas en las leyes autonómicas pues, al ser un real decreto, no puede afectar a una ley estatal, la cual tiene rango normativo superior.
+no se aplican a ninguna de las mencionadas, pues el real decreto tiene sus propias categorías.
+RESPUESTA: A
+NORMA: RD 443/2001 1; RD 443/2001  Disposición adicional primera
+Referencia Doctrinal: 
+COD: 66062
+¿Cuál es la tasa máxima de alcohol en sangre con la que se permite conducir un vehículo de transporte escolar?
+
+0,50 gramos por litro.
+0,30 miligramos por litro.
+0,50 miligramos por litro.
+0,30 gramos por litro.
+RESPUESTA: D
+NORMA: RD 1428/2003 20
+Referencia Doctrinal: 
+COD: 66063
+¿Cuál es la tasa máxima de alcohol en aire espirado con la que se permite conducir un vehículo de transporte escolar?
+
+0,25 miligramos por litro.
+0,25 gramos por litro.
+0,15 gramos por litro.
+0,15 miligramos por litro.
+RESPUESTA: D
+NORMA: RD 1428/2003 20
+Referencia Doctrinal: 
+COD: 66064
+¿Cuál es la tasa máxima de alcohol en sangre con la que se permite conducir un vehículo de transporte escolar?
+
+0,50 gramos por litro.
+0,30 gramos por litro.
+0,25 gramos por litro.
+0,15 gramos por litro.
+RESPUESTA: B
+NORMA: RD 1428/2003 20
+Referencia Doctrinal: 
+COD: 66065
+¿Cuál es la tasa máxima de alcohol en aire espirado con la que se permite conducir un vehículo de transporte escolar?
+
+0,15 miligramos por litro.
+0,25 miligramos por litro.
+0,30 miligramos por litro.
+0,50 miligramos por litro.
+RESPUESTA: A
+NORMA: RD 1428/2003 20
+Referencia Doctrinal: 
+COD: 66066
+Los límites de velocidad para un autobús de transporte de menores:
+
+son los establecidos en general para los vehículos de su categoría.
+se reducen en 10 km/h en todos los casos.
+se reducen en 10 km/h en vías dentro de poblado.
+se reducen en 10 km/h en vías fuera de poblado.
+RESPUESTA: D
+NORMA: RD 1428/2003 48
+Referencia Doctrinal: 
+COD: 66067
+Los límites de velocidad para un autobús de transporte de menores:
+
+son los establecidos en general para los vehículos de su categoría.
+se reducen en 10 km/h en vías fuera de poblado.
+se reducen en 20 km/h en vías dentro de poblado.
+Las respuestas B y C son correctas.
+RESPUESTA: B
+NORMA: RD 1428/2003 48
+Referencia Doctrinal: 
+COD: 66068
+¿Cuál es el límite de velocidad en autovía fuera de poblado para un autobús de transporte escolar?
+
+110 km/h.
+100 km/h.
+90 km/h.
+80 km/h.
+RESPUESTA: C
+NORMA: RD 1428/2003 48
+Referencia Doctrinal: 
+COD: 66069
+¿Cuál es el límite de velocidad en carretera convencional fuera de poblado para un autobús de transporte escolar?
+
+110 km/h.
+100 km/h.
+90 km/h.
+80 km/h.
+RESPUESTA: D
+NORMA: RD 1428/2003 48
+Referencia Doctrinal: 
+COD: 66070
+En un transporte escolar en autobús, deben utilizar los sistemas de retención infantil:
+
+los menores de edad con tres o más años, de estatura igual o inferior a 135 centímetros, cuando el vehículo disponga de ellos. 
+los menores de edad con tres o más años, de estatura igual o inferior a 135 centímetros en todo caso, debiendo aportarlos el transportista siempre que vaya a viajar un menor de esas características.
+todas las personas de estatura igual o inferior a 135 centímetros cuando el vehículo disponga de ellos. 
+todas las personas de estatura igual o inferior a 135 centímetros en todo caso, debiendo aportarlos el transportista siempre que vaya a viajar alguien de esas características.
+RESPUESTA: A
+NORMA: RD 1428/2003 117
+Referencia Doctrinal: 
+COD: 66071
+En un transporte escolar en autobús, deben utilizar los sistemas de retención infantil:
+
+los menores de edad, de estatura igual o inferior a 135 centímetros, cuando el vehículo disponga de ellos. 
+los menores de edad con tres o más años, de estatura igual o inferior a 135 centímetros, cuando el vehículo disponga de ellos. 
+los menores de edad, de estatura igual o inferior a 145 centímetros, cuando el vehículo disponga de ellos. 
+los menores de edad con tres o más años, de estatura igual o inferior a 145 centímetros, cuando el vehículo disponga de ellos. 
+RESPUESTA: B
+NORMA: RD 1428/2003 117
+Referencia Doctrinal: 
+COD: 66072
+En un transporte escolar en autobús, los asientos enfrentados a pasillo:
+
+no pueden ser ocupados por menores de 16 años cuando no dispongan de cinturón de seguridad.
+no pueden ser ocupados nunca por menores de 16 años.
+solo pueden ser ocupados por mayores de 14 años.
+solo pueden ser ocupados por niños de 14 años o más cuando no dispongan de cinturón de seguridad.
+RESPUESTA: A
+NORMA: RD 1428/2003 Disposición adicional cuarta
+Referencia Doctrinal: 
+COD: 66073
+En un transporte escolar en autobús, los asientos enfrentados a pasillo, si no disponen de cinturón de seguridad:
+
+no pueden ser ocupados por menores de 17 años.
+no pueden ser ocupados por menores de 16 años.
+no pueden ser ocupados por menores de 14 años.
+no pueden ser ocupados por ningún menor.
+RESPUESTA: B
+NORMA: RD 1428/2003 Disposición adicional cuarta
+Referencia Doctrinal: 
+COD: 66074
+¿Qué señalización específica deben llevar los transportes escolares?
+
+Señal V-1.
+Señal V-5.
+Señal V-10.
+Señal V-12.
+RESPUESTA: C
+NORMA: RD 2822/1998 Anexo XI
+Referencia Doctrinal: 
+COD: 66075
+Los vehículos que llevan la señal V-10 están efectuando:
+
+transporte regular de uso general.
+transporte de mercancías peligrosas.
+transporte de mercancías a temperatura regulada.
+transporte escolar.
+RESPUESTA: D
+NORMA: RD 2822/1998 Anexo XI
+Referencia Doctrinal: 
+COD: 66076
+En general, la señal V-10, indicativa de un transporte escolar, debe colocarse:
+
+dentro del vehículo.
+fuera del vehículo.
+en los laterales del vehículo.
+Las respuestas A y C son correctas.
+RESPUESTA: A
+NORMA: RD 2822/1998 Anexo XI
+Referencia Doctrinal: 
+COD: 66077
+En general, la señal V-10, indicativa de un transporte escolar, debe colocarse:
+
+dentro del vehículo.
+fuera del vehículo.
+en la parte frontal y posterior del vehículo.
+Las respuestas A y C son correctas.
+RESPUESTA: D
+NORMA: RD 2822/1998 Anexo XI
+Referencia Doctrinal: 
+COD: 66078
+La señal V-10, indicativa de un transporte escolar:
+
+debe tener siempre un rectángulo en la parte inferior con la leyenda "Transporte escolar".
+debe tener siempre un rectángulo en la parte inferior con la leyenda "Transporte escolar" o "Transporte de menores", según corresponda.
+se puede utilizar en algunos casos sin la leyenda.
+Las respuestas B y C son correctas.
+RESPUESTA: C
+NORMA: RD 2822/1998 Anexo XI
+Referencia Doctrinal: 
+COD: 66079
+La señal V-10, indicativa de un transporte escolar:
+
+debe colocarse siempre en la parte frontal y posterior del vehículo.
+puede colocarse solo en la parte posterior en vehículos de hasta 19 plazas.
+puede colocarse solo en la parte posterior en vehículos de hasta 26 plazas.
+puede colocarse solo en la parte frontal en vehículos de hasta 26 plazas.
+RESPUESTA: B
+NORMA: RD 2822/1998 Anexo XI
+Referencia Doctrinal: 
+COD: 66080
+La señal indicativa de un transporte escolar:
+
+debe tener siempre un dispositivo luminoso y colocarse en la parte frontal y trasera del vehículo.
+debe tener siempre un dispositivo luminoso y puede colocarse solo en la parte trasera en algunos casos.
+puede tener un dispositivo luminoso y debe colocarse siempre en la parte frontal y  trasera del vehículo.
+puede tener un dispositivo luminoso y colocarse solo en la parte trasera en algunos casos.
+RESPUESTA: D
+NORMA: RD 2822/1998 Anexo XI
+Referencia Doctrinal: 
+COD: 66081
+La señal indicativa de un transporte escolar que utiliza el pictograma con dispositivo luminoso:
+
+debe apagarse, como muy tarde, 20 segundos después del cierre de las puertas del vehículo.
+debe apagarse, como muy tarde, en el mismo momento del cierre de las puertas del vehículo.
+debe mantenerse encendida siempre que haya menores a bordo del vehículo.
+debe mantenerse encendida siempre que se esté realizando un servicio escolar o de menores.
+RESPUESTA: A
+NORMA: RD 2822/1998 Anexo XI
+Referencia Doctrinal: 
+COD: 66082
+Para que un vehículo pueda ser dedicado a transporte escolar:
+
+requiere una inspección técnica previa que establezca su idoneidad.
+solo debe someterse a las inspecciones técnicas periódicas establecidas para cualquier vehículo.
+requiere una revisión técnica previa en un taller autorizado.
+Las respuestas B y C son correctas.
+RESPUESTA: A
+NORMA: RD 920/2017 5
+Referencia Doctrinal: 
+COD: 66083
+Quien contrate con una empresa de transporte la realización de un servicio escolar:
+
+debe exigir al transportista haber suscrito un seguro de responsabilidad civil.
+debe exigir al transportista tener en vigor la inspección técnica de los vehículos que se vayan a utilizar.
+no tiene obligación de exigir nada al transportista, pues la normativa ya estipula cuáles son las obligaciones de este último.
+Las respuestas A y B son correctas.
+RESPUESTA: D
+NORMA: RD 443/2001 13
+Referencia Doctrinal: 
+COD: 66084
+Quien contrate con una empresa de transporte la realización de un servicio escolar:
+
+debe exigir al transportista que los vehículos lleven sistemas de retención infantil si van a transportar niños de 6 años.
+debe exigir al transportista que disponga de la autorización de transporte que corresponda.
+no puede exigir nada relacionado con la autorización de transporte, pues es una cuestión de ordenación del transporte cuyo control corresponde a la Administración.
+Las respuestas A y C son correctas.
+RESPUESTA: B
+NORMA: RD 443/2001 13
+Referencia Doctrinal: 
+COD: 66085
+La ubicación de las paradas de un transporte regular de uso especial de escolares:
+
+debe someterse a informe del órgano competente en materia de transportes de la Comunidad Autónoma.
+debe someterse a informe de la Policía Municipal o de la Guardia Civil de Tráfico, según la vía de que se trate.
+debe someterse a informe del órgano competente en materia de tráfico.
+Las respuestas A y C son correctas.
+RESPUESTA: C
+NORMA: RD 443/2001 10
+Referencia Doctrinal: 
+COD: 66086
+Las paradas de un transporte regular de uso especial de escolares:
+
+serán siempre las que haya propuesto el transportista.
+serán siempre las que haya propuesto la entidad que contrata el servicio.
+serán siempre las que se acuerden entre el transportista y la entidad que contrata el servicio.
+pueden ser modificadas a instancias del órgano competente en materia de tráfico.
+RESPUESTA: D
+NORMA: RD 443/2001 10
+Referencia Doctrinal: 
+COD: 66087
+Las paradas de un servicio regular de uso general que transporte menores y le resulte aplicable la normativa de seguridad específica de este supuesto:
+
+serán siempre las que estén previamente fijadas en el contrato de concesión.
+se deberán modificar con carácter general en el contrato de concesión para adaptarlas al transporte de menores.
+podrán ser modificadas para las expediciones en las que se transporte a los menores.
+deberán estar situadas en una estación de transporte de viajeros.
+RESPUESTA: C
+NORMA: RD 443/2001 10
+Referencia Doctrinal: 
+COD: 66088
+El encargado de controlar a los menores durante un transporte escolar debe:
+
+reforzar las conductas positivas de los niños.
+ignorar siempre las conductas incorrectas para no estimular su repetición.
+ignorar tanto las conductas positivas como las incorrectas para no crear rivalidades.
+Las respuestas A y B son correctas.
+RESPUESTA: A
+NORMA: Sin referencia
+Referencia Doctrinal: Al cole siempre seguros. Dirección General de Tráfico
+COD: 66089
+El encargado de controlar a los menores durante un transporte escolar debe:
+
+ignorar siempre las conductas incorrectas para no estimular su repetición.
+ignorar las conductas que buscan llamar la atención.
+ignorar tanto las conductas positivas como las incorrectas para no crear rivalidades.
+Las respuestas B y C son correctas.
+RESPUESTA: B
+NORMA: Sin referencia
+Referencia Doctrinal: Al cole siempre seguros. Dirección General de Tráfico
