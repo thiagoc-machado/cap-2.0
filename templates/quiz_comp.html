@@ -1,0 +1,148 @@
+{% extends "bootstrap/base.html" %} {% block title %} Dashboard {% endblock %}
+{% block styles %} {{super()}}
+<link
+  rel="stylesheet"
+  href="{{url_for('.static', filename='dashboard.css')}}"
+/>
+{% endblock %} {% block content %}
+<nav class="navbar navbar-inverse navbar-fixed-top">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button
+        type="button"
+        class="navbar-toggle collapsed"
+        data-toggle="collapse"
+        data-target="#navbar"
+        aria-expanded="false"
+        aria-controls="navbar"
+      >
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="#">CAP 2022 - Holla, {{ name }}  |  Tot. de preguntas {{ qtd }}</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="{{ url_for('dashboard') }}">Dashboard</a></li>
+        <li><a href="#">Settings</a></li>
+        <li><a href="#">Profile</a></li>
+        <li><a href="{{ url_for('logout') }}">Log Out</a></li>
+      </ul>
+      <form class="navbar-form navbar-right">
+      </form>
+    </div>
+  </div>
+</nav>
+
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-sm-3 col-md-2 sidebar">
+      <ul class="nav nav-sidebar">
+        <li class="active">
+          <a href="{{ url_for('quiz') }}">Estudiar <span class="sr-only">(current)</span></a>
+        </li>
+        <li><a href="{{ url_for('quiz', sec='sec1-comunes.txt') }}">Sec 1 Comunes</a></li>
+        <li><a href="{{ url_for('quiz', sec='sec2-mercancias.txt') }}">Sec 2 Mercancias</a></li>
+        <li><a href="{{ url_for('quiz', sec='sec3-viajeros.txt') }}">Sec 3 Viajeros</a></li>
+        <li><a href="{{ url_for('quiz', sec='sec4-compl-mercancias.txt') }}">Sec 4 Complem. Mercancia</a></li>
+        <li><a href="{{ url_for('quiz', sec='sec5-compl-viajeros.txt') }}">Sec 3 Complem. Viajeros</a></li>
+        <li><a href="{{ url_for('quiz', sec='sec6-mercancias.txt') }}">Sec 3 Complem. Comunes</a></li>
+      </ul>
+      <ul class="nav nav-sidebar">
+        <li><a href="">Nav item</a></li>
+        <li><a href="">Nav item again</a></li>
+        <li><a href="">One more nav</a></li>
+        <li><a href="">Another nav item</a></li>
+        <li><a href="">More navigation</a></li>
+      </ul>
+      <ul class="nav nav-sidebar">
+        <li><a href="">Nav item again</a></li>
+        <li><a href="">One more nav</a></li>
+        <li><a href="">Another nav item</a></li>
+      </ul>
+    </div>
+    <div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main">
+      <div class="main_block" id="mainBlock">
+        <body>
+            <body>
+                <div class="titulo" id="tit">
+                  <div class="info">
+                    <a> Qtd. preg.: &nbsp;{{qtd}}</a>
+                    <a> Cod. preg.: &nbsp;{{cod}}</a>
+                  </div>
+                  <!-- <div class="tit">
+                            <a> CAP 2022</a>
+                        </div> -->
+                  <div class="check">
+                    <a>Dak mode</a>
+                    <input type="checkbox" id="switch" />
+                  </div>
+                </div>
+                <div class="btn">
+                  <div class="perg">
+                    <a>Pregunta: {{perg}}</a>
+                  </div>
+                  <form class="alt" action="/" method="POST" role="form">
+                    <button id="btn_a" type="submit" name="submit_button" value="A">
+                      A: {{alt1}}
+                    </button>
+                    <button id="btn_b" type="submit" name="submit_button" value="B">
+                      B: {{alt2}}
+                    </button>
+                    <button id="btn_c" type="submit" name="submit_button" value="C">
+                      C: {{alt3}}
+                    </button>
+                    <button id="btn_d" type="submit" name="submit_button" value="D">
+                      D: {{alt4}}
+                    </button>
+                  </form>
+                  <div class="leg">
+                    <div class="ref">
+                      <a class="res" id="resp">{{res}}</a>
+                      <a>&nbsp;{{norma}}</a>
+                      <a>{{ref}}</a>
+                    </div>
+                    <div class="envio">
+                      <form class="perg2" action="/" method="POST" role="form">
+                        <button
+                          id="btn_nr"
+                          type="submit"
+                          name="submit_button"
+                          value="No Responder"
+                        >
+                          NO RESPONDER
+                        </button>
+                        <button
+                          id="btn_p"
+                          type="submit"
+                          name="submit_button"
+                          value="No Responder"
+                        >
+                          PROXIMA PREGUNTA
+                        </button>
+                      </form>
+                    </div>
+                  </div>
+                  <div class="count">
+                    <a id="corr">corr</a>
+                    <a id="err">err</a>
+                    <a id="nr">nr</a>
+                    <a id="tot">tot</a>
+                    <form class="perg2" action="/" method="POST" role="form">
+                      <button type="submit" name="submit_button" id="reset">
+                        &nbsp;Reset&nbsp;
+                      </button>
+                    </form>
+                  </div>
+                </div>
+                <script src="/static/styles/scrypt_quiz.js" defer></script>
+              </body>
+          </body>
+        </div>
+      </div>
+    </div>
+    {% endblock %}
+  </div>
+</div>

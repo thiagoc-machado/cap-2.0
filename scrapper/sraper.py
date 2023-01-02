@@ -54,7 +54,7 @@ with open('sec2-mercancias.txt', 'w', encoding='utf-8') as out_file:
             out_file.write(content)
 
 filenames = glob.glob('seccion3*.txt')
-with open('sec3-viajeros.txt', 'w') as out_file:
+with open('sec3-viajeros.txt', 'w', encoding='utf-8') as out_file:
     for filename in filenames:
         with open(filename, 'r') as in_file:
             lines = in_file.read().splitlines()
@@ -63,7 +63,7 @@ with open('sec3-viajeros.txt', 'w') as out_file:
             out_file.write(content)
 
 filenames = glob.glob('seccion4-m*.txt')
-with open('sec4-compl-mercancias.txt', 'w') as out_file:
+with open('sec4-compl-mercancias.txt', 'w', encoding='utf-8') as out_file:
     for filename in filenames:
         with open(filename, 'r') as in_file:
             lines = in_file.read().splitlines()
@@ -72,7 +72,7 @@ with open('sec4-compl-mercancias.txt', 'w') as out_file:
             out_file.write(content)
 
 filenames = glob.glob('seccion5-m*.txt')
-with open('sec5-compl-viajeros.txt', 'w') as out_file:
+with open('sec5-compl-viajeros.txt', 'w', encoding='utf-8') as out_file:
     for filename in filenames:
         with open(filename, 'r') as in_file:
             lines = in_file.read().splitlines()
@@ -81,7 +81,7 @@ with open('sec5-compl-viajeros.txt', 'w') as out_file:
             out_file.write(content)
 
 filenames = glob.glob('seccion4-5*.txt')
-with open('sec6-mercancias.txt', 'w') as out_file:
+with open('sec6-mercancias.txt', 'w', encoding='utf-8') as out_file:
     for filename in filenames:
         with open(filename, 'r') as in_file:
             lines = in_file.read().splitlines()

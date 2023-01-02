@@ -1,0 +1,3752 @@
+
+Objetivo 3.5: Tener capacidad para evaluar situaciones de emergencia
+COD: 4
+Tras la evacuación de un autobús, ¿a qué distancia es aconsejable que se lleve a los pasajeros para evitar riesgos?
+
+Al menos a 200 metros.
+Al menos a 150 metros.
+Al menos a 100 metros.
+Al menos a 50 metros.
+RESPUESTA: A
+NORMA: Sin referencia
+Referencia Doctrinal: 
+COD: 15
+¿A qué tipo de fuego pertenece el provocado por la combustión de la gasolina?
+
+Clase B (líquidos inflamables).
+Clase C (gases inflamables).
+Clase A (sólidos inflamables).
+Clase C (líquidos gaseosos).
+RESPUESTA: A
+NORMA: Sin referencia
+Referencia Doctrinal: Fichas NTP (Notas Técnicas de Prevención). Instituto Nacional de Seguridad e Higiene en el Trabajo; Enciclopedia OIT de Salud y Seguridad en el Trabajo. OIT
+COD: 67
+Al prestar ayuda en un accidente de tráfico, ¿cómo se debe colocar a los heridos que sangran por la boca?
+
+Sentados.
+Boca arriba.
+Boca abajo.
+En posición de defensa.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: Programa de Intervención, Sensibilización y Reeducación Vial - Manual del formador. Dirección General de Tráfico - INTRAS; Manual de primeros auxilios. Cruz Roja Española
+COD: 76
+¿Cómo se denomina al suceso causante de los daños previstos en la póliza de seguro?
+
+Riesgo.
+Prima.
+Tomador.
+Siniestro.
+RESPUESTA: D
+NORMA: Ley 50/1980 Art. 18
+Referencia Doctrinal: 
+COD: 87
+¿Cómo se denomina el gas tóxico producido por los agentes refrigerantes del sistema de climatización de un vehículo cuando entran en contacto con el fuego?
+
+Oxígeno.
+Fosgeno.
+Carbono.
+Propano.
+RESPUESTA: B
+NORMA: Sin referencia
+Referencia Doctrinal: 
+COD: 88
+¿Cómo se denomina el método de extinción de un incendio consistente en la dilución o desplazamiento del oxígeno?
+
+Inhibición catalítica.
+Disolución.
+Sofocación.
+Oxigenación.
+RESPUESTA: C
+NORMA: Sin referencia
+Referencia Doctrinal: Manual S.E.P.E.I. de Bomberos. Diputación de Albacete
+COD: 89
+¿Cómo se denomina el método de extinción de un incendio consistente en la separación o eliminación del combustible que lo alimenta?
+
+Enfriamiento.
+Oxigenación.
+Desintoxicación.
+Desalimentación.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: Manual S.E.P.E.I. de Bomberos. Diputación de Albacete
+COD: 90
+¿Cómo se denomina el método de extinción de un incendio consistente en reducir la temperatura del combustible?
+
+Enfriamiento.
+Dilución.
+Disolución.
+Desalimentación.
+RESPUESTA: A
+NORMA: Sin referencia
+Referencia Doctrinal: Manual S.E.P.E.I. de Bomberos. Diputación de Albacete
+COD: 93
+¿Cómo se denomina el precio que el asegurado paga al asegurador, estipulado en la póliza de seguro?
+
+Riesgo.
+Prima.
+Tomador.
+Siniestro.
+RESPUESTA: B
+NORMA: Ley 50/1980 Art. 14
+Referencia Doctrinal: 
+COD: 108
+¿Cómo se denomina la pérdida personal o material producida como consecuencia directa de un siniestro?
+
+Incidente.
+Lesión.
+Daño.
+Accidente.
+RESPUESTA: C
+NORMA: Ley 50/1980 Art. 18
+Referencia Doctrinal: 
+COD: 190
+¿Cuál debe ser el emplazamiento de los extintores en un vehículo?
+
+Uno de ellos, cerca del asiento del conductor.
+Lo más alejado posible de los lugares de riesgo de incendio.
+En proximidad a los lugares con riesgo de incendio.
+Es indiferente su ubicación mientras sea visible.
+RESPUESTA: A
+NORMA: Reglamento CEPE/ONU 107 Anexo 3, 7.5.4.1
+Referencia Doctrinal: 
+COD: 227
+¿Cuál de las siguientes actuaciones deberá realizar en primer lugar el conductor, en el supuesto de evacuación de los pasajeros de un autobús?
+
+Preparar la información para los servicios de emergencia.
+Ponerse en contacto con la empresa aseguradora.
+Informar a la empresa transportista del problema sufrido.
+Asegurar el vehículo activando las luces intermitentes de emergencia.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: 
+COD: 263
+Al prestar ayuda en un accidente de tráfico, ¿qué debemos hacer ante una hemorragia fuerte?
+
+Aplicar siempre un torniquete.
+Presionar la herida con un apósito.
+Aplicar alguna pomada o antibiótico que la corte.
+Mantener vigilada la hemorragia y esperar a que venga un médico.
+RESPUESTA: B
+NORMA: Sin referencia
+Referencia Doctrinal: Programa de Intervención, Sensibilización y Reeducación Vial - Manual del formador. Dirección General de Tráfico - INTRAS; Manual de primeros auxilios. Cruz Roja Española
+COD: 285
+¿Qué elementos deben conjugarse para que se produzca un fuego?
+
+Oxígeno, combustible y fuente de calor.
+Combustible, fuente de calor y temperatura adecuada.
+Comburente y fuente de calor.
+Oxígeno, combustible y comburente.
+RESPUESTA: A
+NORMA: Sin referencia
+Referencia Doctrinal: Manual S.E.P.E.I. de Bomberos. Diputación de Albacete
+COD: 292
+¿Qué es aconsejable en caso de parar para auxiliar en un accidente por la noche?
+
+No hacer nada hasta que lleguen los agentes.
+Iluminar el lugar del accidente con otro vehículo colocado perpendicularmente a la calzada y fuera de ella.
+Parar el vehículo e intentar detener la circulación situándose en el centro de la calzada.
+Atravesar nuestro vehículo en la vía en forma de escudo para proteger la zona del accidente.
+RESPUESTA: B
+NORMA: Sin referencia
+Referencia Doctrinal: Programa de Intervención, Sensibilización y Reeducación Vial - Manual del formador. Dirección General de Tráfico - INTRAS
+COD: 307
+¿Qué es lo primero que debemos hacer en caso de accidente?
+
+Ayudar a las víctimas.
+Solicitar ayuda especializada.
+Preservar la seguridad de la zona del accidente.
+Es igual.
+RESPUESTA: C
+NORMA: Sin referencia
+Referencia Doctrinal: Programa de Intervención, Sensibilización y Reeducación Vial - Manual del formador. Dirección General de Tráfico - INTRAS
+COD: 344
+¿Qué papel desempeña el freno que, tras un descenso prolongado, provoca el incendio de una rueda?
+
+Es la fuente de calor.
+Es el comburente.
+Es la sustancia combustible.
+Es la reacción en cadena.
+RESPUESTA: A
+NORMA: Sin referencia
+Referencia Doctrinal: Manual S.E.P.E.I. de Bomberos. Diputación de Albacete
+COD: 346
+¿Qué lugar ocupa una rueda que arde en el llamado "triángulo del fuego"?
+
+Es la fuente de calor.
+Es la reacción en cadena.
+Es la sustancia combustible.
+Es la sustancia oxidante.
+RESPUESTA: C
+NORMA: Sin referencia
+Referencia Doctrinal: Manual S.E.P.E.I. de Bomberos. Diputación de Albacete
+COD: 413
+¿Qué significan las siglas "PAS" en relación con la actuación ante el incendio de un vehículo?
+
+Parar, apagar y sofocar.
+Proteger, alertar y socorrer.
+Parar, avisar y socorrer.
+Proteger, avisar y señalizar.
+RESPUESTA: B
+NORMA: Sin referencia
+Referencia Doctrinal: Programa de Intervención, Sensibilización y Reeducación Vial - Manual del formador. Dirección General de Tráfico - INTRAS
+COD: 452
+¿Quién es la persona designada por el asegurado como receptor de las prestaciones e indemnizaciones contratadas?
+
+Asegurador.
+Tomador.
+Contratista.
+Beneficiario.
+RESPUESTA: D
+NORMA: Ley 50/1980 Art. 7
+Referencia Doctrinal: 
+COD: 453
+¿Cómo se denomina a la persona que suscribe un seguro y que se obliga a pagar las primas?
+
+Tomador.
+Asegurador.
+Responsable.
+Conductor.
+RESPUESTA: A
+NORMA: Ley 50/1980 Art. 14
+Referencia Doctrinal: 
+COD: 465
+Al prestar ayuda en un accidente de tráfico, ¿se debe tapar a los heridos?
+
+No, ya que les produciría agobio.
+Sí, con el fin de mantener la temperatura del cuerpo.
+Sí, pero solo en el caso de que haga mucho frío.
+Sí, incluso en verano, aunque se provoque un aumento excesivo de la temperatura del cuerpo.
+RESPUESTA: B
+NORMA: Sin referencia
+Referencia Doctrinal: Programa de Intervención, Sensibilización y Reeducación Vial - Manual del formador. Dirección General de Tráfico - INTRAS; Manual de primeros auxilios. Cruz Roja Española
+COD: 484
+En presencia de un accidente de tráfico, al solicitar ayuda especializada:
+
+se avisará a través de los postes SOS o llamando al 112.
+se identificará el lugar y los hechos ocurridos.
+se comunicará el número de heridos y el estado en que se encuentran.
+Todas las respuestas anteriores son correctas.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: Programa de Intervención, Sensibilización y Reeducación Vial - Manual del formador. Dirección General de Tráfico - INTRAS
+COD: 495
+Al socorrer a los heridos en un accidente de circulación, ¿es conveniente intentar que tomen medicamentos analgésicos?
+
+Sí, pues servirán para aliviar su dolor.
+Sí, siempre que los hayamos obtenido con receta médica.
+En ningún caso debemos proporcionarles medicamentos.
+No, salvo que los heridos estén conscientes y nos lo pidan.
+RESPUESTA: C
+NORMA: Sin referencia
+Referencia Doctrinal: Programa de Intervención, Sensibilización y Reeducación Vial - Manual del formador. Dirección General de Tráfico - INTRAS; Manual de primeros auxilios. Cruz Roja Española
+COD: 496
+Al socorrer a los heridos en un accidente de circulación, ¿debemos taparlos con una manta o prenda similar?
+
+Sí, tanto en verano como en invierno para evitar la pérdida de calor.
+No, salvo que la temperatura exterior sea muy fría.
+No, en ningún caso, pues no es conveniente que suden.
+No, salvo que los heridos estén inconscientes.
+RESPUESTA: A
+NORMA: Sin referencia
+Referencia Doctrinal: Programa de Intervención, Sensibilización y Reeducación Vial - Manual del formador. Dirección General de Tráfico - INTRAS; Manual de primeros auxilios. Cruz Roja Española
+COD: 497
+Al socorrer a un herido en un accidente de circulación, debemos evitar:
+
+taparlo con una manta.
+moverle el cuello y la columna.
+ponerlo sobre el suelo.
+impedirle que permanezca quieto porque es conveniente que ande o se mueva lo más posible.
+RESPUESTA: B
+NORMA: Sin referencia
+Referencia Doctrinal: Programa de Intervención, Sensibilización y Reeducación Vial - Manual del formador. Dirección General de Tráfico - INTRAS; Manual de primeros auxilios. Cruz Roja Española
+COD: 528
+En presencia de un accidente de tráfico, no debemos:
+
+dar comida o bebida a los heridos.
+hablar con los heridos.
+preguntar a los heridos el nombre y cómo se encuentran.
+pararnos y auxiliar a los heridos.
+RESPUESTA: A
+NORMA: Sin referencia
+Referencia Doctrinal: Programa de Intervención, Sensibilización y Reeducación Vial - Manual del formador. Dirección General de Tráfico - INTRAS
+COD: 535
+En un contrato de seguro, ¿cuál es la persona sobre la que recae la cobertura del riesgo?
+
+Asegurado.
+Asegurador.
+Beneficiario.
+Culpable.
+RESPUESTA: A
+NORMA: Ley 50/1980 Art. 7
+Referencia Doctrinal: 
+COD: 562
+En un vehículo de transporte de viajeros de hasta nueve plazas, incluido el conductor, ¿qué extintor es obligatorio llevar?
+
+Ninguno.
+Uno de la clase 8A/34B.
+Uno de la clase 21A/113B.
+Uno de la clase 34A/113B.
+RESPUESTA: A
+NORMA: RD 2822/1998 Anexo XII
+Referencia Doctrinal: 
+COD: 579
+La arena seca proyectada contra el foco de un incendio actúa por:
+
+dilución del oxígeno.
+sofocación del fuego.
+enfriamiento de la temperatura.
+oxigenación.
+RESPUESTA: B
+NORMA: Sin referencia
+Referencia Doctrinal: Fichas NTP (Notas Técnicas de Prevención). Instituto Nacional de Seguridad e Higiene en el Trabajo; Enciclopedia OIT de Salud y Seguridad en el Trabajo. OIT
+COD: 593
+La combustión se puede definir químicamente como la reacción exotérmica de una sustancia combustible con un:
+
+comburente, generalmente sulfuro.
+refrigerante, generalmente nitrógeno.
+antioxidante, generalmente nitrógeno.
+comburente, generalmente oxígeno.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: Manual S.E.P.E.I. de Bomberos. Diputación de Albacete
+COD: 643
+La posición lateral de defensa:
+
+evita que el herido vomite.
+evita la obstrucción de las vías respiratorias.
+inmoviliza al herido.
+ayuda a recuperar la consciencia.
+RESPUESTA: B
+NORMA: Sin referencia
+Referencia Doctrinal: Programa de Intervención, Sensibilización y Reeducación Vial - Manual del formador. Dirección General de Tráfico - INTRAS; Manual de primeros auxilios. Cruz Roja Española
+COD: 761
+Si, por causa de un accidente o avería, el vehículo o su carga obstaculizan la calzada, ¿cuál será la primera actuación que deberá realizar el conductor?
+
+Pedirá ayuda a los servicios de auxilio en carretera.
+Señalizará convenientemente la zona que quede libre para la circulación en la calzada.
+Retirará o apartará la mercancía derramada.
+Tras señalizar convenientemente el vehículo o el obstáculo, adoptará las medidas necesarias para que sea retirado en el menor tiempo posible.
+RESPUESTA: D
+NORMA: RD 1428/2003 Art. 130.1
+Referencia Doctrinal: 
+COD: 762
+Ante la caída de la carga sobre la calzada, y una vez que el conductor ha apartado el vehículo y señalizado el obstáculo, procederá a:
+
+retirar o apartar la carga derramada, si resulta posible, y dejar la calzada lo más limpia posible.
+informar a la empresa transportista del percance sufrido.
+evaluar el coste económico de las pérdidas sufridas en la mercancía.
+avisar al destinatario de la mercancía para que vaya a recogerla.
+RESPUESTA: A
+NORMA: RD 1428/2003 Art. 130
+Referencia Doctrinal: 
+COD: 763
+Al prestar ayuda en un accidente de circulación, ¿cuál debe ser el primer objetivo de la intervención?
+
+Preservar la seguridad de la circulación para evitar nuevos accidentes.
+Avisar a las Fuerzas de Policía o al servicio de llamadas de urgencia 112.
+Socorrer a los heridos y trasladarlos urgentemente al hospital más cercano.
+No detenerse para no entorpecer la circulación.
+RESPUESTA: A
+NORMA: Sin referencia
+Referencia Doctrinal: Programa de Intervención, Sensibilización y Reeducación Vial - Manual del formador. Dirección General de Tráfico - INTRAS
+COD: 764
+Al prestar ayuda en un accidente de circulación, ¿cuál debe ser el segundo objetivo de la intervención?
+
+Preservar la seguridad de la circulación para evitar nuevos accidentes.
+Solicitar la ayuda especializada de los servicios de emergencia.
+Socorrer a los heridos y trasladarlos urgentemente al hospital más cercano.
+No detenerse para no entorpecer la circulación.
+RESPUESTA: B
+NORMA: Sin referencia
+Referencia Doctrinal: Programa de Intervención, Sensibilización y Reeducación Vial - Manual del formador. Dirección General de Tráfico - INTRAS
+COD: 765
+Al prestar ayuda en un accidente de circulación, ¿qué se debe hacer antes de socorrer a los heridos?
+
+Llamar la atención del resto de conductores para solicitar su ayuda.
+Acudir al puesto de socorro más próximo para solicitar ayuda.
+Proteger y señalizar el lugar del accidente.
+Retirar los vehículos accidentados de la calzada.
+RESPUESTA: C
+NORMA: Sin referencia
+Referencia Doctrinal: Programa de Intervención, Sensibilización y Reeducación Vial - Manual del formador. Dirección General de Tráfico - INTRAS
+COD: 766
+Ante la presencia de un accidente de circulación, ¿quiénes tienen la obligación legal de actuar?
+
+Únicamente los servicios sanitarios de emergencia.
+Tanto los conductores como los demás usuarios de la vía que lo presencien.
+Únicamente los agentes de las Fuerzas de Seguridad encargadas de la vigilancia de la circulación.
+Solo los conductores que tengan conocimientos acreditados de primeros auxilios.
+RESPUESTA: B
+NORMA: RD 1428/2003 Art. 129.1
+Referencia Doctrinal: 
+COD: 767
+En un accidente de circulación, si hay heridos graves, los conductores de otros vehículos que acudan en su auxilio:
+
+deben ejercer movimientos intensos sobre los heridos para que se reanimen.
+deben trasladar a los heridos urgentemente en sus vehículos al hospital más cercano.
+no deben mover a los heridos, salvo peligro inminente de incendio, atropello u otra circunstancia similar.
+deben continuar la marcha para no entorpecer la circulación.
+RESPUESTA: C
+NORMA: Sin referencia
+Referencia Doctrinal: Programa de Intervención, Sensibilización y Reeducación Vial - Manual del formador. Dirección General de Tráfico - INTRAS
+COD: 775
+Antes de ordenar la evacuación de los pasajeros, es aconsejable que el conductor de un autobús:
+
+asegure el vehículo en un lugar adecuado para evitar accidentes.
+señalice el lugar.
+prepare la información para los servicios de emergencia.
+compruebe el estado del vehículo.
+RESPUESTA: A
+NORMA: Sin referencia
+Referencia Doctrinal: 
+COD: 776
+Ante un quemado en accidente de tráfico, ¿cómo debemos actuar?
+
+Limpiando la zona y quitando la ropa que cubre la quemadura.
+Limpiando las ampollas y aplicando agua caliente.
+Refrigerando la zona quemada con agua fría.
+Cubriendo la zona quemada con ropa seca.
+RESPUESTA: C
+NORMA: Sin referencia
+Referencia Doctrinal: Programa de Intervención, Sensibilización y Reeducación Vial - Manual del formador. Dirección General de Tráfico - INTRAS; Manual de primeros auxilios. Cruz Roja Española
+COD: 777
+Ante un bloqueo de las puertas, si es necesario evacuar el vehículo, el conductor:
+
+impedirá la salida de los pasajeros.
+indicará la situación de las salidas alternativas.
+distribuirá los martillos de emergencia entre los pasajeros mayores de edad.
+notificará el caso a la empresa y esperará instrucciones.
+RESPUESTA: B
+NORMA: Sin referencia
+Referencia Doctrinal: 
+COD: 785
+Al prestar ayuda en un accidente de tráfico a un herido inconsciente, debemos:
+
+tratar de reanimarlo moviéndolo ligeramente.
+mantenerle las vías respiratorias abiertas para evitar la asfixia.
+trasladarlo cuanto antes al hospital.
+Todas las respuestas anteriores son falsas.
+RESPUESTA: B
+NORMA: Sin referencia
+Referencia Doctrinal: Programa de Intervención, Sensibilización y Reeducación Vial - Manual del formador. Dirección General de Tráfico - INTRAS; Manual de primeros auxilios. Cruz Roja Española
+COD: 786
+A un motorista accidentado, ¿se le debe quitar el casco?
+
+Sí, siempre para que pueda respirar mejor.
+Nunca, ni permitir que otros lo hagan.
+Sí, entre varias personas y dejando inmovilizado el cuello.
+Sí, si se encuentra inconsciente.
+RESPUESTA: B
+NORMA: Sin referencia
+Referencia Doctrinal: Programa de Intervención, Sensibilización y Reeducación Vial - Manual del formador. Dirección General de Tráfico - INTRAS; Manual de primeros auxilios. Cruz Roja Española
+COD: 872
+El agua vertida sobre el foco de un incendio actúa por:
+
+dilución del oxígeno.
+sofocación del fuego.
+enfriamiento de la temperatura.
+oxigenación.
+RESPUESTA: C
+NORMA: Sin referencia
+Referencia Doctrinal: Fichas NTP (Notas Técnicas de Prevención). Instituto Nacional de Seguridad e Higiene en el Trabajo; Enciclopedia OIT de Salud y Seguridad en el Trabajo. OIT
+COD: 977
+En presencia de un accidente de tráfico, ¿a quién atenderemos primero?
+
+Al que sangra.
+Al que tenga problemas respiratorios.
+Al inconsciente.
+A los niños.
+RESPUESTA: C
+NORMA: Sin referencia
+Referencia Doctrinal: Programa de Intervención, Sensibilización y Reeducación Vial - Manual del formador. Dirección General de Tráfico - INTRAS
+COD: 978
+¿Dónde y cómo debemos detenernos para prestar ayuda en un accidente de circulación?
+
+Detrás de los vehículos siniestrados con las luces puestas.
+Fuera de la calzada o en el arcén con las luces de emergencia.
+No debemos pararnos nunca.
+Todas las respuestas anteriores son incorrectas.
+RESPUESTA: B
+NORMA: Sin referencia
+Referencia Doctrinal: Programa de Intervención, Sensibilización y Reeducación Vial - Manual del formador. Dirección General de Tráfico - INTRAS
+COD: 1002
+En el modelo oficial de la declaración amistosa de accidentes debe anotarse:
+
+el lugar del accidente.
+los datos de las compañías de seguros de los titulares de los vehículos implicados.
+los daños apreciados en cada uno de los vehículos implicados en el accidente.
+Todas las respuestas son correctas.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: Declaración amistosa de accidente. UNESPA, 1972 o 2001
+COD: 1003
+En el modelo oficial de la declaración amistosa de accidentes debe anotarse:
+
+el lugar del accidente.
+los datos de los asegurados correspondientes a los vehículos implicados.
+las firmas de los conductores.
+Todas las respuestas son correctas.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: Declaración amistosa de accidente. UNESPA, 1972 o 2001
+COD: 1004
+En el modelo oficial de la declaración amistosa de accidentes debe anotarse:
+
+la fecha y hora del accidente.
+los datos de los asegurados correspondientes a los vehículos implicados.
+los datos de los vehículos implicados en el accidente.
+Todas las respuestas son correctas.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: Declaración amistosa de accidente. UNESPA, 1972 o 2001
+COD: 1005
+En el modelo oficial de la declaración amistosa de accidentes debe anotarse:
+
+la fecha y hora del accidente.
+un croquis sobre el punto de choque y la posición de los vehículos
+los datos sobre los testigos del accidente.
+Todas las respuestas son correctas.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: Declaración amistosa de accidente. UNESPA, 1972 o 2001
+COD: 1006
+En el modelo oficial de la declaración amistosa de accidentes debe anotarse:
+
+los detalles del accidente.
+las firmas de los conductores.
+las observaciones particulares de los conductores.
+Todas las respuestas son correctas.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: Declaración amistosa de accidente. UNESPA, 1972 o 2001
+COD: 1016
+En el supuesto de un incendio en el lado derecho de un autobús:
+
+se deberán abrir todas las puertas del vehículo para generar una corriente de aire.
+no se deberá abrir ninguna puerta.
+se deberá abrir únicamente la puerta más cercana al fuego.
+se deberá abrir únicamente la puerta más alejada del fuego.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: 
+COD: 1017
+En el supuesto de un incendio en lado izquierdo de un autobús:
+
+se deberá abrir la puerta del conductor.
+se deberán abrir todas las puertas de los pasajeros.
+no se deberá abrir ninguna puerta.
+se deberá abrir únicamente la puerta trasera de los pasajeros.
+RESPUESTA: B
+NORMA: Sin referencia
+Referencia Doctrinal: 
+COD: 1027
+En el transporte de viajeros, ¿quién puede considerarse un agente básico e inmediato de seguridad?
+
+El viajero.
+El conductor.
+El transportista.
+El contratante del transporte.
+RESPUESTA: B
+NORMA: Sin referencia
+Referencia Doctrinal: Prevención de accidentes en actividades extraescolares. Universidad Ramón Llull.
+COD: 1052
+En la declaración amistosa de accidentes, ¿se podrán anotar datos de los testigos?
+
+Sí.
+No, salvo que hubiera heridos.
+No, salvo que fueran agentes de la autoridad.
+No, en ningún caso.
+RESPUESTA: A
+NORMA: Sin referencia
+Referencia Doctrinal: Declaración amistosa de accidente. UNESPA, 1972 o 2001
+COD: 1053
+En la declaración amistosa de accidentes es imprescindible:
+
+hacer constar siempre la fecha y hora del accidente.
+identificar el lugar del accidente mediante calle o vía y población.
+anotar la matrícula de los vehículos implicados.
+Todas las respuestas anteriores son correctas.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: Declaración amistosa de accidente. UNESPA, 1972 o 2001
+COD: 1078
+En los vehículos de transporte de mercancías de 20.000 kg de MMA, ¿qué extintor deberá ir instalado?
+
+Uno de la clase 21A/113B.
+Uno de la clase 34A/144B.
+Uno de la clase 13A/55B.
+Dos de la clase 13A/55B.
+RESPUESTA: B
+NORMA: OM 27/07/1999 Segundo
+Referencia Doctrinal: 
+COD: 1079
+En los vehículos de transporte de mercancías de hasta 3.500 kg de MMA, ¿qué extintor es obligatorio llevar?
+
+Uno de la clase 8A/34B.
+Uno de clase 34A/144B.
+Ninguno.
+Dos de la clase 13A/55B.
+RESPUESTA: C
+NORMA: RD 2822/1998 Anexo XII
+Referencia Doctrinal: 
+COD: 1080
+En los vehículos de transporte de mercancías de 7.000 kg de MMA, ¿qué extintor deberá ir instalado?
+
+Uno de clase 21A/113B.
+Uno de la clase 34A/144B.
+Uno de la clase 13A/55B.
+Dos de la clase 13A/55B.
+RESPUESTA: A
+NORMA: OM 27/07/1999 Segundo
+Referencia Doctrinal: 
+COD: 1094
+¿Qué combustible está implicado en un fuego de clase A?
+
+Sólidos inflamables.
+Líquidos inflamables.
+Gases inflamables.
+Gases comburentes.
+RESPUESTA: A
+NORMA: Sin referencia
+Referencia Doctrinal: Fichas NTP (Notas Técnicas de Prevención). Instituto Nacional de Seguridad e Higiene en el Trabajo; Enciclopedia OIT de Salud y Seguridad en el Trabajo. OIT
+COD: 1095
+¿Qué combustible está implicado en un fuego de clase B?
+
+Líquidos inflamables.
+Gases inflamables.
+Gases comburentes.
+Sólidos inflamables.
+RESPUESTA: A
+NORMA: Sin referencia
+Referencia Doctrinal: Fichas NTP (Notas Técnicas de Prevención). Instituto Nacional de Seguridad e Higiene en el Trabajo; Enciclopedia OIT de Salud y Seguridad en el Trabajo. OIT
+COD: 1164
+Para que la declaración amistosa de accidente sea válida, ¿por quién tiene que estar firmada?
+
+Por los conductores y los testigos del accidente.
+Por los conductores implicados en el accidente.
+Basta con que la firme el conductor que se declare culpable.
+Por los titulares de los vehículos implicados o sus representantes.
+RESPUESTA: B
+NORMA: Convenio CIDE Art. 3
+Referencia Doctrinal: 
+COD: 1167
+Al prestar ayuda en un accidente de tráfico, ¿qué debemos hacer para saber si un herido respira?
+
+Agitarlo fuertemente.
+Gritarle.
+Intentar escucharlo respirar y observar los movimientos del pecho.
+Pellizcarle.
+RESPUESTA: C
+NORMA: Sin referencia
+Referencia Doctrinal: Programa de Intervención, Sensibilización y Reeducación Vial - Manual del formador. Dirección General de Tráfico - INTRAS; Manual de primeros auxilios. Cruz Roja Española
+COD: 1357
+Los usuarios de las vías que se vean implicados en un accidente de tráfico, lo presencien o tengan conocimiento de él:
+
+solamente estarán obligados a prestar su colaboración.
+estarán obligados a auxiliar o solicitar auxilio para atender a las víctimas si las hubiera.
+deberán regular el tráfico para poder restablecer la circulación de los vehículos implicados.
+no estarán obligados a detenerse para auxiliar a las víctimas.
+RESPUESTA: B
+NORMA: RD 1428/2003 129
+Referencia Doctrinal: 
+COD: 1372
+Si tras un accidente de circulación se comprueba que un herido no tiene pulso, deberá practicarse un masaje cardiaco combinado simultáneamente con:
+
+la ingesta de líquidos calientes.
+el vertido de agua fría sobre su rostro.
+las maniobras de respiración boca a boca.
+la presión sobre las principales venas y arterias.
+RESPUESTA: C
+NORMA: Sin referencia
+Referencia Doctrinal: Programa de Intervención, Sensibilización y Reeducación Vial - Manual del formador. Dirección General de Tráfico - INTRAS; Manual de primeros auxilios. Cruz Roja Española
+COD: 1373
+Tras un accidente de circulación, si se comprueba que un herido sufre una hemorragia, se deberá:
+
+presionar sobre la herida con un trapo limpio.
+practicar un masaje cardiaco.
+refrigerar la herida con agua fría.
+esperar a que la hemorragia cese por coagulación de la sangre.
+RESPUESTA: A
+NORMA: Sin referencia
+Referencia Doctrinal: Programa de Intervención, Sensibilización y Reeducación Vial - Manual del formador. Dirección General de Tráfico - INTRAS; Manual de primeros auxilios. Cruz Roja Española
+COD: 1406
+Un hidrocarburo halogenado, utilizado como agente extintor de incendios:
+
+interrumpe la reacción en cadena producida en la base de la llama.
+elimina la sustancia combustible que esté alimentando el fuego.
+reduce la temperatura de la fuente de calor.
+convierte la sustancia combustible en ignífuga.
+RESPUESTA: A
+NORMA: Sin referencia
+Referencia Doctrinal: Fichas NTP (Notas Técnicas de Prevención). Instituto Nacional de Seguridad e Higiene en el Trabajo; Enciclopedia OIT de Salud y Seguridad en el Trabajo. OIT
+COD: 1436
+¿Cuál es el mejor agente extintor para fuegos de tipo A, como el que afecta a la madera o a una moqueta?
+
+El nitrógeno.
+El agua a chorro.
+El agua pulverizada.
+El hidrógeno.
+RESPUESTA: C
+NORMA: Sin referencia
+Referencia Doctrinal: Fichas NTP (Notas Técnicas de Prevención). Instituto Nacional de Seguridad e Higiene en el Trabajo; Enciclopedia OIT de Salud y Seguridad en el Trabajo. OIT
+COD: 1437
+Uno de los gases tóxicos que puede aparecer en los vehículos es el fosgeno. ¿En qué parte del vehículo se produce?
+
+En las ruedas.
+En el equipo de aire acondicionado.
+En el motor.
+En el embrague.
+RESPUESTA: B
+NORMA: Sin referencia
+Referencia Doctrinal: 
+COD: 1438
+Los extintores  de CO2:
+
+son los más recomendables para el interior del vehículo.
+no deben utilizarse sobre personas.
+no afecta a las personas.
+nunca producen quemaduras.
+RESPUESTA: B
+NORMA: Sin referencia
+Referencia Doctrinal: Manual S.E.P.E.I. de Bomberos. Diputación de Albacete
+COD: 1439
+¿Cuál es el mejor agente extintor para fuegos por derrames de gasóleo o gasolina?
+
+El polvo ABC (polivalente).
+El nitrógeno.
+El agua a chorro.
+El agua nebulizada.
+RESPUESTA: A
+NORMA: Sin referencia
+Referencia Doctrinal: Fichas NTP (Notas Técnicas de Prevención). Instituto Nacional de Seguridad e Higiene en el Trabajo; Enciclopedia OIT de Salud y Seguridad en el Trabajo. OIT
+COD: 1440
+Ante una emergencia en carretera, se debe socorrer a los heridos, proteger la zona y alertar a los servicios de auxilio. ¿En qué orden debe hacerse?
+
+1º Socorrer, 2º Proteger y 3º Alertar.
+1º Proteger, 2º Alertar, 3º Socorrer.
+1º Socorrer, 2º Alertar, 3º Proteger.
+El orden en que se actúe no es importante, se puede hacer como se prefiera.
+RESPUESTA: B
+NORMA: Sin referencia
+Referencia Doctrinal: Programa de Intervención, Sensibilización y Reeducación Vial - Manual del formador. Dirección General de Tráfico - INTRAS
+COD: 1441
+¿Cómo se denomina a la pauta de actuación ante emergencias que se desarrolla en las fases de proteger a las personas y el lugar del siniestro, alertar a los servicios de auxilio y socorrer a los heridos?
+
+Regla SAP.
+Regla PAS.
+Regla SPA.
+Regla PSA.
+RESPUESTA: B
+NORMA: Sin referencia
+Referencia Doctrinal: Programa de Intervención, Sensibilización y Reeducación Vial - Manual del formador. Dirección General de Tráfico - INTRAS
+COD: 1443
+¿Qué pauta de actuación en caso de incendio de un vehículo no es correcta?
+
+Informar a los pasajeros de las instrucciones recibidas respecto a la continuidad de su viaje.
+No intentar apagar el fuego con el extintor, eso es cosa de los bomberos.
+Accionar la luz de emergencia.
+Frenar con precaución deteniendo el vehículo a la derecha, fuera de la calzada y del arcén si fuera posible.
+RESPUESTA: B
+NORMA: Sin referencia
+Referencia Doctrinal: 
+COD: 1911
+En virtud del riesgo creado por la conducción de vehículos a motor, ¿quién es el responsable de los daños causados a las personas o en los bienes con motivo de la circulación?
+
+Siempre el propietario del vehículo.
+El conductor.
+Nadie.
+Las respuestas A y B son correctas.
+RESPUESTA: B
+NORMA: RD Legislativo 8/2004 Art. 1.1
+Referencia Doctrinal: 
+COD: 1920
+¿Qué pauta de actuación en caso de incendio de un vehículo es correcta?
+
+Accionar la luz de emergencia.
+Frenar con precaución deteniendo el vehículo a la derecha, fuera de la calzada y del arcén si fuera posible.
+Tener presente el empleo de las salidas de emergencia mediante los adecuados procedimientos de actuación.
+Todas las respuestas anteriores son correctas.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: 
+COD: 1921
+¿Qué pauta de actuación en caso de incendio de un vehículo no es correcta?
+
+Utilizando el botiquín del autobús, el conductor debe curar a los heridos.
+Tener presente el empleo de las salidas de emergencia mediante los adecuados procedimientos de actuación.
+Una vez extinguido el fuego y refrigerado el material afectado, asegurarse de que el fuego no se reinicia.
+Comunicar a la empresa lo acontecido.
+RESPUESTA: A
+NORMA: Sin referencia
+Referencia Doctrinal: 
+COD: 1922
+De las siguientes actuaciones que pueden realizarse en caso de incendio en un autobús, ¿cuál es la menos adecuada?
+
+Comunicar a la empresa lo acontecido.
+Comunicar precipitadamente la situación a los viajeros, con riesgo de provocar pánico.
+Pedir a los viajeros que abandonen el vehículo con orden.
+Comprobar, extremando la precaución, la no existencia de un nuevo foco de fuego.
+RESPUESTA: B
+NORMA: Sin referencia
+Referencia Doctrinal: 
+COD: 1923
+¿Qué pauta de actuación, en caso de incendio de un vehículo, no es correcta?
+
+Se comprobará, extremando la precaución, la no existencia de un nuevo foco de fuego.
+Poner los triángulos de preseñalización de peligro mientras se espera ayuda.
+No intentar apagar el fuego con el extintor, eso es cosa de los bomberos.
+Coger el extintor y seguir el protocolo de uso.
+RESPUESTA: C
+NORMA: Sin referencia
+Referencia Doctrinal: 
+COD: 1924
+¿Qué pauta de actuación, en caso de incendio de un vehículo que exija su evacuación, es correcta?
+
+Coger el extintor y seguir el protocolo de uso.
+Comunicar instrucciones a los viajeros sin crear pánico ni angustia.
+Velar por la seguridad de los viajeros impidiendo que accedan al vehículo.
+Todas las respuestas anteriores son pautas correctas.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: 
+COD: 2011
+Durante el transporte pueden producirse toda una serie de circunstancias que afectan al normal desarrollo del mismo. ¿Qué circunstancia puede considerarse como un incidente?
+
+Avería mecánica.
+Incendio del motor  del vehículo.
+Incendio de cualquier parte del vehículo y evacuación, bien por puertas de acceso, puertas de socorro, ventanas de socorro o  trampillas de evacuación.
+Vuelco parcial o total del vehículo.
+RESPUESTA: A
+NORMA: Sin referencia
+Referencia Doctrinal: Recomendaciones en materia de seguridad en transporte escolar.  Comunidad Valenciana
+COD: 2012
+Durante el transporte pueden producirse toda una serie de circunstancias que afectan al normal desarrollo del mismo. ¿Qué circunstancia puede considerarse como un incidente?
+
+Choque frontal.
+Pinchazo o reventón de neumático.
+Vuelco parcial o total del vehículo.
+Caída al agua del vehículo.
+RESPUESTA: B
+NORMA: Sin referencia
+Referencia Doctrinal: Recomendaciones en materia de seguridad en transporte escolar.  Comunidad Valenciana
+COD: 2013
+Durante el transporte pueden producirse toda una serie de circunstancias que afectan al normal desarrollo del mismo. ¿Qué circunstancia puede considerarse como un incidente?
+
+Cuando la anormalidad en el servicio puede suponer, además, un peligro para las personas.
+Choque frontal lateral.
+Cualquier circunstancia de importancia menor que impide que el vehículo pueda proseguir su marcha.
+Choque frontal.
+RESPUESTA: C
+NORMA: Sin referencia
+Referencia Doctrinal: Recomendaciones en materia de seguridad en transporte escolar.  Comunidad Valenciana
+COD: 2014
+Durante el transporte pueden producirse toda una serie de circunstancias que afectan al normal desarrollo del mismo. ¿Qué circunstancia puede considerarse como un incidente?
+
+Cuando la anormalidad en el servicio puede suponer, además, un peligro para las personas.
+Cuando la anormalidad en el servicio puede suponer, además, un peligro para los bienes.
+Incendio del motor  del vehículo.
+Avería mecánica.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: Recomendaciones en materia de seguridad en transporte escolar.  Comunidad Valenciana
+COD: 2015
+Durante el transporte pueden producirse toda una serie de circunstancias que afectan al normal desarrollo del mismo. ¿Qué circunstancia puede considerarse como un incidente?
+
+Una circunstancia de tráfico que no supone un peligro grave para las personas.
+Incendio del motor del vehículo.
+Choque frontal.
+Vuelco parcial o total del vehículo.
+RESPUESTA: A
+NORMA: Sin referencia
+Referencia Doctrinal: Recomendaciones en materia de seguridad en transporte escolar.  Comunidad Valenciana
+COD: 2020
+¿Qué actuaciones deben realizarse en caso de puertas bloqueadas en un vehículo de transporte de viajeros?
+
+El conductor indicará a los viajeros la situación de las diferentes salidas.
+El conductor indicará a los viajeros la situación de los martillos rompecristales.
+El conductor sacará personalmente a los viajeros uno por uno.
+Las respuestas A y B son correctas.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: Instrucciones para el caso de producirse un accidente o anormalidad en el transporte de viajeros. Generalitat Valenciana
+COD: 2021
+Ante una situación como la caída de carga sobre la vía, ¿qué actuaciones  deben realizarse?
+
+Se deberá apartar el vehículo para evitar que, junto con la carga caída, acreciente el riego provocado.
+Se deberá retirar o apartar el obstáculo.
+Se deberá dejar lo más limpia posible la calzada.
+Todas las respuestas anteriores son correctas.
+RESPUESTA: D
+NORMA: RD 1428/2003 Art. 130
+Referencia Doctrinal: 
+COD: 2022
+Ante una situación como la caída de carga sobre la vía, ¿qué actuaciones no deben realizarse?
+
+Señalizar convenientemente el obstáculo.
+Avisar del peligro al resto de usuarios de la vía.
+Dar cuenta inmediatamente a los servicios de auxilio en carretera.
+Abandonar la zona inmediatamente para evitar males mayores.
+RESPUESTA: D
+NORMA: RD 1428/2003 Art. 130
+Referencia Doctrinal: 
+COD: 2024
+Señale qué indicio puede hacer sospechar de la existencia de una situación de riesgo.
+
+Hay olor de combustible.
+Humos.
+Situación anómala del tráfico.
+Todas las respuestas anteriores son correctas.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: 
+COD: 2029
+¿Cuándo está especialmente aconsejado que el conductor evacúe el vehículo?
+
+Cuando el vehículo se ha incendiado o existe la amenaza de un incendio.
+Cuando hay tormentas.
+En caso de lluvia.
+Si hay muchos relámpagos en el cielo.
+RESPUESTA: A
+NORMA: Sin referencia
+Referencia Doctrinal: Instrucciones para el caso de producirse un accidente o anormalidad en el transporte de viajeros. Generalitat Valenciana
+COD: 2030
+¿Cuándo está especialmente aconsejado que el conductor evacúe el vehículo?
+
+En caso de lluvia.
+Cuando el vehículo se ha detenido sobre un cruce con una vía de ferrocarril y no es posible moverlo.
+En caso de tormenta.
+En caso de que haya muy poca luz.
+RESPUESTA: B
+NORMA: Sin referencia
+Referencia Doctrinal: 
+COD: 2031
+¿Cuándo está especialmente aconsejado que el conductor evacúe el vehículo?
+
+Si hay muchos relámpagos en el cielo.
+En caso de que haya muy poca luz.
+En caso de accidente, cuando la posición del vehículo puede cambiar y aumentar el peligro.
+En caso de tormenta.
+RESPUESTA: C
+NORMA: Sin referencia
+Referencia Doctrinal: 
+COD: 2032
+¿Cuándo está especialmente aconsejado que el conductor evacúe el vehículo?
+
+En caso de que haya muy poca luz.
+En caso de tormenta.
+En caso de que haya mucha luz.
+Cuando existe el peligro inminente de un choque.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: 
+COD: 2033
+En el caso de ser necesaria la evacuación, los viajeros deben ser conducidos a un lugar seguro separado, al menos:
+
+200 metros del autobús para evitar riesgos en caso de colisión con otro vehículo.
+50 metros del autobús para evitar riesgos en caso de colisión con otro vehículo.
+750 metros del autobús para evitar riesgos en caso de colisión con otro vehículo.
+100 metros del autobús para evitar riesgos en caso de colisión con otro vehículo.
+RESPUESTA: A
+NORMA: Sin referencia
+Referencia Doctrinal: 
+COD: 2034
+En caso de incendio, los pasajeros deben alejarse del vehículo:
+
+en la misma dirección del viento.
+en dirección contraria al viento.
+en dirección perpendicular al viento.
+en dirección oblicua al viento.
+RESPUESTA: B
+NORMA: Sin referencia
+Referencia Doctrinal: 
+COD: 2035
+Si existe el riesgo de un derrame de productos peligrosos, los pasajeros deben separarse:
+
+en la misma dirección del viento, por lo menos a 200 metros de distancia.
+en dirección contraria al viento, por lo menos a 200 metros de distancia.
+en dirección contraria al viento, por lo menos a 50 metros de distancia.
+en dirección perpendicular al viento, por lo menos a 100 metros de distancia.
+RESPUESTA: B
+NORMA: Sin referencia
+Referencia Doctrinal: 
+COD: 2036
+¿Qué actuación puede formar parte de un procedimiento de evacuación de un autobús?
+
+Decidir el mejor tipo de evacuación: si la evacuación debe ser por la puerta delantera, trasera, lateral o una combinación de las puertas.
+Curar a los heridos si estos lo necesitaran.
+Asegurar el vehículo apagando el motor.
+Las respuestas A y C son correctas.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: 
+COD: 2041
+Ante una situación de emergencia, ¿cuál debería ser uno de los criterios de actuación del conductor?
+
+Siempre se debe conservar la calma.
+Las actuaciones deben tener como primer objetivo la preservación de la seguridad de todas aquellas personas que puedan verse afectadas (pasajeros, resto de usuarios de la vía...).
+Las actuaciones no pueden incrementar el desconcierto y la angustia de los afectados.
+Todas las respuestas anteriores son correctas.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: Manual para profesores de formación vial sobre comportamiento y primeros auxilios en caso de accidente de tráfico. Dirección General de Tráfico
+COD: 2042
+Ante una situación de emergencia, ¿cuál no debería ser uno de los objetivos prioritarios de las actuaciones del conductor?
+
+La preservación del vehículo y de la carga.
+La seguridad de los pasajeros.
+La seguridad del tráfico.
+La comunicación con los servicios de emergencia.
+RESPUESTA: A
+NORMA: Sin referencia
+Referencia Doctrinal: 
+COD: 2070
+¿Cómo se debe efectuar la reanimación cardiopulmonar a un herido de accidente de tráfico?
+
+Se deben aplicar dos respiraciones boca a boca cada dos masajes cardíacos.
+No se debe combinar el masaje cardíaco con la respiración boca a boca.
+Se deben aplicar dos respiraciones boca a boca cada treinta masajes cardíacos.
+Todas las respuestas anteriores son incorrectas.
+RESPUESTA: C
+NORMA: Sin referencia
+Referencia Doctrinal: Programa de Intervención, Sensibilización y Reeducación Vial - Manual del formador. Dirección General de Tráfico - INTRAS; Manual de primeros auxilios. Cruz Roja Española
+COD: 2071
+Al prestar ayuda en un accidente de tráfico, ¿cómo se debe proceder ante una hemorragia?
+
+Pondremos al herido boca arriba.
+Giraremos al herido de costado.
+Presionaremos sobre la hemorragia con un trapo limpio y, si se empapa, procederemos a colocar otro por encima.
+Nunca debemos actuar nosotros ante una hemorragia, debe hacerlo solo personal especializado.
+RESPUESTA: C
+NORMA: Sin referencia
+Referencia Doctrinal: Programa de Intervención, Sensibilización y Reeducación Vial - Manual del formador. Dirección General de Tráfico - INTRAS; Manual de primeros auxilios. Cruz Roja Española
+COD: 2072
+¿Cómo se debe proceder ante un quemado en un accidente de tráfico?
+
+Se le debe retirar los restos de ropa quemada.
+Se le debe romper las ampollas si las hay.
+No se le debe retirar los restos de ropa quemada.
+Las respuestas B y C son correctas.
+RESPUESTA: C
+NORMA: Sin referencia
+Referencia Doctrinal: Programa de Intervención, Sensibilización y Reeducación Vial - Manual del formador. Dirección General de Tráfico - INTRAS; Manual de primeros auxilios. Cruz Roja Española
+COD: 2081
+Señale qué actuación puede formar parte de un procedimiento de evacuación de un autobús.
+
+Asegurar el vehículo quitando la llave de encendido.
+Evacuar a los pasajeros manteniendo la calma y el orden.
+Rellenar el parte de evacuación.
+Las respuestas A y B son correctas.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: 
+COD: 2082
+¿Qué actuación puede formar parte de un procedimiento de evacuación de un autobús?
+
+Evacuar a los pasajeros manteniendo la calma y el orden.
+Conducir a los pasajeros al lugar seguro más cercano.
+Sacar todas las pertenencias de los pasajeros para evitar problemas legales.
+Las respuestas A y B son correctas.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: 
+COD: 2083
+¿Qué actuación es aconsejable realizar en caso de evacuación de un vehículo?
+
+Rellenar el parte de evacuación.
+Proteger y señalizar el lugar.
+Asegurar el vehículo aplicando el freno de estacionamiento.
+Las respuestas B y C son correctas.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: 
+COD: 2084
+¿Qué actuación es aconsejable realizar en caso de evacuación de un vehículo?
+
+Activar las luces de peligro y/o advertencia.
+Rellenar el parte de evacuación.
+Avisar a los servicios de auxilio.
+Las respuestas A y C son correctas.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: 
+COD: 2085
+Señale qué actuación puede formar parte del procedimiento de evacuación de un autobús.
+
+Caminar por el interior del autobús para asegurar que no queda ningún pasajero en el mismo.
+Ponerse en contacto con la empresa aseguradora.
+Leer a todos los pasajeros el procedimiento general de evacuación.
+Las respuestas B y C son correctas.
+RESPUESTA: A
+NORMA: Sin referencia
+Referencia Doctrinal: 
+COD: 2086
+¿Qué actuación puede formar parte de un procedimiento de evacuación de un autobús?
+
+Caminar por el interior del autobús para asegurar que no queda ningún pasajero en el mismo.
+Impedir que los pasajeros salgan del vehículo hasta que no se avise al personal especializado.
+Llamar por teléfono a los hospitales si así se requiere.
+Las respuestas A y B son correctas.
+RESPUESTA: A
+NORMA: Sin referencia
+Referencia Doctrinal: 
+COD: 2087
+Señale qué actuación puede formar parte del procedimiento de evacuación de un autobús.
+
+Sacar del autobús a las pasajeras antes.
+Si el tiempo lo permite, notificar a la empresa el lugar, las condiciones y el tipo de ayuda que se necesita.
+Decidir el mejor tipo de evacuación: si la evacuación debe ser por la puerta delantera, trasera, lateral o una combinación de las puertas.
+Las respuestas B y C son correctas.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: 
+COD: 2088
+¿Qué actuación puede formar parte del procedimiento de evacuación de un autobús?
+
+Evacuar a los pasajeros manteniendo la calma y el orden.
+Curar a los heridos si estos lo necesitaran.
+Impedir que los pasajeros salgan del vehículo hasta que no se avise al personal especializado.
+Sacar todas las pertenencias de los pasajeros para evitar problemas legales.
+RESPUESTA: A
+NORMA: Sin referencia
+Referencia Doctrinal: 
+COD: 2089
+¿Qué actuación debe realizarse antes en caso de evacuación de un vehículo?
+
+Sacar todas las pertenencias del conductor.
+Asegurar el vehículo quitando la llave de encendido.
+Ponerse en contacto con la empresa aseguradora.
+Rellenar el parte de evacuación.
+RESPUESTA: B
+NORMA: Sin referencia
+Referencia Doctrinal: 
+COD: 2090
+¿Qué actuación tiene preferencia en caso de evacuación de un autobús?
+
+Rellenar el parte de evacuación.
+Leer a todos los pasajeros el procedimiento general de evacuación.
+Conducir a los pasajeros al lugar seguro más cercano.
+Llamar por teléfono a los hospitales si así se requiere.
+RESPUESTA: C
+NORMA: Sin referencia
+Referencia Doctrinal: 
+COD: 2092
+¿Qué actuación debe realizarse preferentemente en caso de evacuación de un autobús?
+
+Curar a los heridos si estos lo necesitaran.
+Impedir que los pasajeros salgan del vehículo hasta que se avise al servicio de auxilio.
+Sacar todas las pertenencias de los pasajeros para evitar problemas legales.
+Todas las respuestas anteriores son incorrectas.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: 
+COD: 2093
+Para que se produzca fuego, ¿qué se debe conjugar siempre en la proporción adecuada?
+
+Un agente resquebrajante, un combustible y una materia prima.
+Un comburente, un combustible y una fuente de calor como energía de activación.
+Un comburente, un combustible y una materia prima.
+Un comburente, un sólido y una fuente térmica.
+RESPUESTA: B
+NORMA: Sin referencia
+Referencia Doctrinal: Manual S.E.P.E.I. de Bomberos. Diputación de Albacete
+COD: 2094
+¿Cómo se denomina la conjunción de los elementos comburente, combustible y fuente de calor?
+
+Conjunción de fuego.
+Triángulo del fuego.
+Triángulo luminoso.
+Triángulo térmico.
+RESPUESTA: B
+NORMA: Sin referencia
+Referencia Doctrinal: Manual S.E.P.E.I. de Bomberos. Diputación de Albacete
+COD: 2095
+En relación con un incendio, ¿cómo se conoce al conjunto de combustible, comburente, calor y reacción en cadena?
+
+Tetraedro del fuego.
+Octoedro del fuego.
+Cuadrado del fuego.
+Triángulo del fuego.
+RESPUESTA: A
+NORMA: Sin referencia
+Referencia Doctrinal: Manual S.E.P.E.I. de Bomberos. Diputación de Albacete
+COD: 2097
+¿Cuál es el lugar donde con más frecuencia comenzará un incendio en un vehículo de pasajeros?
+
+En las puertas.
+En una rueda.
+En el techo.
+En el volante.
+RESPUESTA: B
+NORMA: Sin referencia
+Referencia Doctrinal: 
+COD: 2098
+¿Por qué es difícil apagar el fuego en una rueda?
+
+Por la termodinámica.
+Por ser de forma redonda.
+Por el riesgo de reignición debido al calor acumulado.
+Todas las respuestas anteriores son incorrectas.
+RESPUESTA: C
+NORMA: Sin referencia
+Referencia Doctrinal: 
+COD: 2099
+¿Cuándo hay más riesgo de incendio en la rueda de un vehículo?
+
+Cuando está muy baja de presión.
+Cuando está a su presión recomendada.
+Cuando está muy alta de presión.
+En ningún caso de los anteriores.
+RESPUESTA: A
+NORMA: Sin referencia
+Referencia Doctrinal: 
+COD: 2101
+¿Se recomienda emplear el agua en fuego de metales?
+
+Sí, si la temperatura no es muy alta.
+Sí, en todos los casos.
+Sí, para determinados metales.
+No, ya que puede provocar explosiones.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: Fichas NTP (Notas Técnicas de Prevención). Instituto Nacional de Seguridad e Higiene en el Trabajo; Enciclopedia OIT de Salud y Seguridad en el Trabajo. OIT
+COD: 2102
+¿Cuál es el elemento más empleado en el método de extinción por reducción de temperatura?
+
+El nitrógeno.
+El oxígeno.
+El agua.
+El monóxido de carbono.
+RESPUESTA: C
+NORMA: Sin referencia
+Referencia Doctrinal: Manual S.E.P.E.I. de Bomberos. Diputación de Albacete
+COD: 2103
+¿Cuál de los siguientes es el elemento más empleado en el método de extinción que actúa eliminando el oxígeno?
+
+El litio.
+El nitrógeno.
+El dióxido de carbono.
+El ácido sulfúrico.
+RESPUESTA: C
+NORMA: Sin referencia
+Referencia Doctrinal: Fichas NTP (Notas Técnicas de Prevención). Instituto Nacional de Seguridad e Higiene en el Trabajo; Enciclopedia OIT de Salud y Seguridad en el Trabajo. OIT
+COD: 2104
+La mejor forma de extinguir un fuego con brasas es mediante:
+
+la dilución.
+la concentración.
+el calentamiento.
+el enfriado.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: Manual S.E.P.E.I. de Bomberos. Diputación de Albacete
+COD: 2105
+¿Para qué fuegos es efectivo el polvo químico seco convencional?
+
+En los de combustibles líquidos.
+En los de combustibles gaseosos.
+En fuegos de sólidos.
+Las respuestas A y B son correctas.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: Fichas NTP (Notas Técnicas de Prevención). Instituto Nacional de Seguridad e Higiene en el Trabajo; Enciclopedia OIT de Salud y Seguridad en el Trabajo. OIT
+COD: 2106
+¿Para qué fuegos es efectivo el polvo químico seco convencional?
+
+Para fuegos en la madera.
+Para fuegos en líquidos.
+Para fuegos en sólidos.
+Para fuegos en el papel.
+RESPUESTA: B
+NORMA: Sin referencia
+Referencia Doctrinal: Fichas NTP (Notas Técnicas de Prevención). Instituto Nacional de Seguridad e Higiene en el Trabajo; Enciclopedia OIT de Salud y Seguridad en el Trabajo. OIT
+COD: 2107
+¿Para qué fuegos se suele emplear la arena seca?
+
+Para fuegos en sólidos.
+Para fuegos de plásticos.
+Para fuegos en los gases.
+Para líquidos que se derraman por el suelo.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: Fichas NTP (Notas Técnicas de Prevención). Instituto Nacional de Seguridad e Higiene en el Trabajo; Enciclopedia OIT de Salud y Seguridad en el Trabajo. OIT
+COD: 2108
+¿Para qué fuegos se suelen emplear las mantas?
+
+Para fuegos en sólidos.
+Para fuegos en la ropa de las personas.
+Para fuegos en los gases.
+Para fuegos en los líquidos.
+RESPUESTA: B
+NORMA: Sin referencia
+Referencia Doctrinal: Fichas NTP (Notas Técnicas de Prevención). Instituto Nacional de Seguridad e Higiene en el Trabajo; Enciclopedia OIT de Salud y Seguridad en el Trabajo. OIT
+COD: 2114
+¿Qué tipo de fuego es menos frecuente en un autobús?
+
+Los fuegos de gases.
+Los fuegos de sólidos inflamables.
+Los fuegos de líquidos inflamables.
+Los fuegos de la clase A.
+RESPUESTA: A
+NORMA: Sin referencia
+Referencia Doctrinal: 
+COD: 2115
+Cuando el tipo de fuego que podemos encontrar en un autobús se dice que es de la clase A, ¿a qué se refiere?
+
+Es un fuego primario.
+Es un fuego de sólidos.
+Es un fuego de líquidos inflamables.
+Es un fuego secundario.
+RESPUESTA: B
+NORMA: Sin referencia
+Referencia Doctrinal: Fichas NTP (Notas Técnicas de Prevención). Instituto Nacional de Seguridad e Higiene en el Trabajo; Enciclopedia OIT de Salud y Seguridad en el Trabajo. OIT
+COD: 2116
+Cuando el tipo de fuego que podemos encontrar en un autobús se dice que es de la clase B, ¿a qué nos referimos?
+
+Es un fuego secundario.
+Es un fuego de sólidos inflamables.
+Es un fuego de líquidos inflamables.
+Es un fuego primario.
+RESPUESTA: C
+NORMA: Sin referencia
+Referencia Doctrinal: Fichas NTP (Notas Técnicas de Prevención). Instituto Nacional de Seguridad e Higiene en el Trabajo; Enciclopedia OIT de Salud y Seguridad en el Trabajo. OIT
+COD: 2117
+Para solucionar un incendio en una rueda con un extintor portátil de polvo, ¿qué debemos hacer?
+
+Tomar el incendio al comienzo del mismo.
+Aplicar el extintor hasta que se apague la llama.
+Extremar la precaución por la posibilidad de que reviente.
+Todas las respuestas anteriores son correctas.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: 
+COD: 2118
+¿Qué actuación no es una medida preventiva que es necesario realizar con el fin de evitar un incendio?
+
+Poner los triángulos de preseñalización de peligro mientras esperamos ayuda.
+Revisar la presión de los neumáticos.
+Revisar el estado de los neumáticos.
+Revisar el estado de los frenos.
+RESPUESTA: A
+NORMA: Sin referencia
+Referencia Doctrinal: 
+COD: 2119
+¿Qué actuación no es una medida preventiva que es necesario realizar con el fin de evitar un incendio?
+
+Revisar el estado de los frenos.
+Accionar la luz de emergencia.
+Revisar los extintores, situándolos en lugares fácilmente accesibles.
+Mantener en buen estado la mecánica del vehículo.
+RESPUESTA: B
+NORMA: Sin referencia
+Referencia Doctrinal: 
+COD: 2513
+¿Qué actuación no es una medida preventiva que es necesario realizar con el fin de evitar un incendio?
+
+Revisar el estado de los frenos.
+Realizar un adecuado mantenimiento del vehículo.
+Detener el vehículo a la derecha, fuera de la calzada y del arcén si fuera posible.
+En pendientes pronunciadas que requieran el constante uso del freno eléctrico o de servicio, bajar en marchas cortas aprovechando la retención del motor.
+RESPUESTA: C
+NORMA: Sin referencia
+Referencia Doctrinal: 
+COD: 2514
+¿Qué actuación no es una medida preventiva que es necesario realizar con el fin de evitar un incendio?
+
+En pendientes pronunciadas que requieran el constante uso del freno eléctrico o de servicio, bajar en marchas cortas aprovechando la retención del motor.
+Evitar parar nada más llegar a la base del descenso e intentar recorrer unos kilómetros con el fin de evacuar el calor de los frenos.
+Revisar la presión de los neumáticos.
+Todas las respuestas anteriores son correctas.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: 
+COD: 2515
+Al abrir las puertas del autobús en una situación de incendio en su parte exterior, ¿qué pautas se deben seguir?
+
+Si el incendio es en el lado izquierdo, abrir las dos puertas.
+Abrir siempre todas las puertas independientemente de dónde sea el incendio.
+Si el incendio es en el lado derecho, abrir solo la que esté más alejada del fuego.
+Las respuestas A y C son correctas.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: 
+COD: 2516
+¿Qué requisito es necesario para que la declaración amistosa de accidente sea válida?
+
+Hacer los trámites administrativos antes de las primeras 24 horas.
+Tener suscrito el seguro de responsabilidad civil obligatorio.
+No haber bebido antes de firmarla.
+No haber tenido en el año más de otros dos accidentes.
+RESPUESTA: B
+NORMA: Convenio CIDE Art. 2
+Referencia Doctrinal: 
+COD: 2517
+¿En qué se basará la determinación de la responsabilidad de un accidente respecto del que se haya presentado una declaración amistosa?
+
+En los datos consignados en la declaración amistosa.
+En los supuestos hechos reales.
+En el testimonio de los testigos presenciales solamente.
+En el parte hecho por un agente de la autoridad solamente.
+RESPUESTA: A
+NORMA: Convenio CIDE Art. 6
+Referencia Doctrinal: 
+COD: 2518
+En caso de declaración amistosa de accidente, ¿cómo se imputa la culpabilidad del mismo?
+
+Según lo que haya pasado realmente.
+Según el parte hecho por un agente de la autoridad.
+Según una tabla que forma parte integrante del Convenio de Indemnización Directa Español (CIDE).
+Según el testimonio de los testigos presenciales.
+RESPUESTA: C
+NORMA: Convenio CIDE Art. 6
+Referencia Doctrinal: 
+COD: 2519
+¿Cómo se denomina también la declaración amistosa de accidentes?
+
+Declaración amistosa de colisión.
+Parte regional de accidentes.
+Parte europeo de accidente.
+Papel amistoso de accidente.
+RESPUESTA: C
+NORMA: Convenio CIDE Apéndice
+Referencia Doctrinal: 
+COD: 2521
+¿Cuál es el propósito principal de la declaración amistosa de accidentes?
+
+Aumentar la recaudación de impuestos.
+Aumentar las ganancias de las compañías aseguradoras.
+Indemnizar en el menor tiempo posible a los perjudicados.
+Todas las respuestas anteriores son correctas.
+RESPUESTA: C
+NORMA: RD Legislativo 8/2004 Art. 8
+Referencia Doctrinal: 
+COD: 2522
+¿Qué datos deben figurar en la declaración amistosa de accidente?
+
+Vehículos implicados.
+Conductores que intervienen.
+Lugar del accidente.
+Todas las respuestas anteriores son correctas.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: Declaración amistosa de accidente. UNESPA, 1972 o 2001
+COD: 2523
+Señale la afirmación correcta:
+
+La declaración amistosa de accidente determina la responsabilidad del siniestro.
+La declaración amistosa de accidente es vinculante para las entidades aseguradoras en cuanto a la indemnización de los daños materiales.
+La declaración amistosa de accidente agiliza el pago de indemnizaciones derivadas de un siniestro.
+Todas las respuestas anteriores son correctas.
+RESPUESTA: D
+NORMA: Convenio CIDE 1; Convenio CIDE 3; Convenio CIDE 6
+Referencia Doctrinal: 
+COD: 2524
+Señale la afirmación incorrecta:
+
+La declaración amistosa de accidente consigue mayores indemnizaciones.
+La declaración amistosa de accidente determina la responsabilidad del siniestro.
+La declaración amistosa de accidente es vinculante para las entidades aseguradoras en cuanto a la indemnización de los daños materiales.
+La declaración amistosa de accidente agiliza el pago de indemnizaciones derivadas de un siniestro.
+RESPUESTA: A
+NORMA: Convenio CIDE 1; Convenio CIDE 3; Convenio CIDE 6
+Referencia Doctrinal: 
+COD: 2525
+Señale la afirmación incorrecta:
+
+La declaración amistosa de accidente agiliza el pago de indemnizaciones derivadas de un siniestro.
+La declaración amistosa de accidente hace que disminuya el consumo de los vehículos.
+La declaración amistosa de accidente facilita y agiliza la labor del empleado que recibe el parte de siniestro en la oficina.
+La declaración amistosa de accidente facilita y agiliza la labor de los tramitadores de la indemnización.
+RESPUESTA: B
+NORMA: Convenio CIDE Preliminar; Convenio CIDE 1
+Referencia Doctrinal: 
+COD: 2526
+Señale la afirmación incorrecta:
+
+La declaración amistosa de accidente facilita y agiliza la labor de los tramitadores de la indemnización.
+La declaración amistosa de accidente facilita y agiliza la aplicación de convenios entre las compañías aseguradoras.
+La declaración amistosa de accidente hace que disminuya el número de siniestros de vehículos.
+La declaración amistosa de accidente facilita y agiliza el pago de las reparaciones e indemnizaciones.
+RESPUESTA: C
+NORMA: Convenio CIDE Preliminar; Convenio CIDE 1
+Referencia Doctrinal: 
+COD: 2527
+Señale la afirmación incorrecta:
+
+La declaración amistosa de accidente facilita y agiliza el pago de las reparaciones e indemnizaciones.
+La declaración amistosa de accidente determina la responsabilidad del siniestro.
+La declaración amistosa de accidente es vinculante para las entidades aseguradoras en cuanto a la indemnización de los daños materiales.
+La declaración amistosa de accidente hace que disminuyan los atascos de tráfico.
+RESPUESTA: D
+NORMA: Convenio CIDE 1; Convenio CIDE 3; Convenio CIDE 6
+Referencia Doctrinal: 
+COD: 2529
+Señale la afirmación incorrecta:
+
+Según la Ley de Contrato de Seguro, el plazo máximo para que el tomador comunique al asegurador el acaecimiento de un siniestro es de 20 días.
+En el impreso de la declaración amistosa de accidente es imprescindible hacer constar siempre la fecha y la hora del accidente.
+En el impreso de la declaración amistosa de accidente es imprescindible identificar el lugar del accidente mediante la indicación de la calle o vía y la población a la que pertenezca.
+En el impreso de la declaración amistosa de accidente, si el accidente hubiera ocasionado heridos, aunque sean leves, se debe consignar en la casilla correspondiente.
+RESPUESTA: A
+NORMA: Ley 50/1980 Art. 16
+Referencia Doctrinal: 
+COD: 2530
+Señale la afirmación incorrecta:
+
+En el impreso de la declaración amistosa de accidente, si el accidente hubiera ocasionado heridos, aunque sean leves, se debe consignar en esta casilla correspondiente.
+La declaración amistosa de accidente debe ser presentada por un agente del orden.
+En la declaración amistosa de accidente, y en el supuesto de que haya testigos del mismo, sus declaraciones pueden ser muy importantes para la determinación de la culpa, por lo que conviene escribir su identidad y datos.
+En el impreso de la declaración amistosa de accidente debe indicarse y verificarse, respectivamente, los datos de los asegurados correspondientes a los vehículos implicados.
+RESPUESTA: B
+NORMA: Ley 50/1980 Art. 16
+Referencia Doctrinal: 
+COD: 2531
+Señale la afirmación incorrecta:
+
+En el impreso de la declaración amistosa de accidente deben indicarse y verificarse, respectivamente, los datos de los asegurados correspondientes a los vehículos implicados.
+En el impreso de la declaración amistosa de accidente debe identificarse cada uno de los vehículos implicados (matrícula, marca, modelo, etc.).
+La declaración amistosa de accidente debe ser firmada por un agente del orden.
+En el impreso de la declaración amistosa de accidente se deben anotar los datos correspondientes a las compañías aseguradoras, indicando, entre otros, su nombre o razón social, domicilio y número de póliza.
+RESPUESTA: C
+NORMA: Convenio CIDE Art. 3
+Referencia Doctrinal: 
+COD: 2532
+Señale la afirmación incorrecta:
+
+En el impreso de la declaración amistosa de accidente se deben anotar los datos correspondientes a las compañías aseguradoras, indicando, entre otros, su nombre o razón social, domicilio y número de póliza.
+En el impreso de la declaración amistosa de accidente deben indicarse y verificarse los datos relativos a los conductores de los vehículos implicados.
+Al cumplimentar una declaración amistosa de accidente, en caso de accidente con un conductor extranjero, hay que pedirle la Carta Verde o Certificado Internacional de Seguro.
+La declaración amistosa de accidente consigue mayores indemnizaciones.
+RESPUESTA: D
+NORMA: Convenio CIDE Art. 4
+Referencia Doctrinal: 
+COD: 2533
+Señale la afirmación incorrecta:
+
+La declaración amistosa de accidente hace que disminuya el consumo de los vehículos.
+Al cumplimentar una declaración amistosa de accidente, en caso de accidente con un conductor extranjero, hay que pedirle la Carta Verde o Certificado Internacional de Seguro.
+En el impreso de la declaración amistosa de accidente, deben señalizarse en los esquemas impresos de cada vehículo el punto y la dirección del choque inicial que provocó el accidente.
+En el impreso de la declaración amistosa de accidente, deben relacionarse los daños apreciados en cada uno de los vehículos implicados en el accidente.
+RESPUESTA: A
+NORMA: Convenio CIDE Art. 4
+Referencia Doctrinal: 
+COD: 2534
+Señale la afirmación incorrecta.
+
+En el impreso de la declaración amistosa de accidente deben relacionarse los daños apreciados en cada uno de los vehículos implicados en el accidente.
+La declaración amistosa de accidente hace que disminuya el número de siniestros de vehículos.
+En el impreso de la declaración amistosa de accidente deben consignarse, mediante el marcado de una cruz en la casilla correspondiente, los detalles que han concurrido en el accidente.
+En el impreso de la declaración amistosa de accidente es imprescindible hacer constar siempre la fecha y la hora del accidente.
+RESPUESTA: B
+NORMA: Sin referencia
+Referencia Doctrinal: Declaración amistosa de accidente. UNESPA, 1972 o 2001
+COD: 2538
+En un accidente de tráfico, ¿qué usuarios estarán obligados a auxiliar o solicitar auxilio?
+
+Solo los conductores que se vean implicados en el accidente.
+Solo los usuarios de la vía que lo presencien.
+Solo el personal de los servicios de emergencias.
+Los usuarios de las vías que se vean implicados, lo presencien o tengan conocimiento de él.
+RESPUESTA: D
+NORMA: RD 1428/2003 Art. 129
+Referencia Doctrinal: 
+COD: 2540
+En los accidentes de tráfico, ¿cuál es el momento en el que hay más porcentaje de muertes según las estadísticas?
+
+En el momento mismo del accidente.
+En la primera hora siguiente al accidente.
+A los 2 días del accidente.
+A los 2 meses del accidente.
+RESPUESTA: B
+NORMA: Sin referencia
+Referencia Doctrinal: Programa de Intervención, Sensibilización y Reeducación Vial - Manual del formador. Dirección General de Tráfico - INTRAS
+COD: 2541
+En relación con el auxilio a los heridos de un accidente de tráfico, señale cuál de las siguientes afirmaciones es incorrecta:
+
+El objetivo de la actuación con los heridos es conseguir su estabilización y el mantenimiento de su vida.
+No se debe actuar si no se está seguro de lo que se debe hacer, ya que se podría agravar la situación de la víctima.
+Las actuaciones que se produzcan en la primera hora son de vital importancia.
+La primera actuación ante un herido de tráfico debe ser voltearlo para reconocer su estado.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: Programa de Intervención, Sensibilización y Reeducación Vial - Manual del formador. Dirección General de Tráfico - INTRAS; Manual de primeros auxilios. Cruz Roja Española
+COD: 2542
+En relación con el auxilio a los heridos de un accidente de tráfico, señale cuál de las siguientes afirmaciones es correcta:
+
+La primera actuación ante un herido debe ser siempre sacarlo del lugar del accidente.
+Debemos mover a los heridos a las ambulancias inmediatamente, pues allí se los atiende mejor.
+Las actuaciones que se produzcan a partir del segundo día del accidente son las más importantes.
+Como norma general, no debe moverse al herido.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: Programa de Intervención, Sensibilización y Reeducación Vial - Manual del formador. Dirección General de Tráfico - INTRAS; Manual de primeros auxilios. Cruz Roja Española
+COD: 2543
+En relación con el auxilio a los heridos de un accidente de tráfico, señale cuál de las siguientes afirmaciones es incorrecta:
+
+Las actuaciones que se produzcan a partir del segundo día del accidente son las más importantes.
+El objetivo de la actuación con los heridos es conseguir su estabilización y el mantenimiento de su vida.
+No se debe actuar si no se está seguro de lo que se debe hacer, ya que se podría agravar la situación de la víctima.
+Las actuaciones que se produzcan en la primera hora son de vital importancia.
+RESPUESTA: A
+NORMA: Sin referencia
+Referencia Doctrinal: Programa de Intervención, Sensibilización y Reeducación Vial - Manual del formador. Dirección General de Tráfico - INTRAS; Manual de primeros auxilios. Cruz Roja Española
+COD: 2544
+En relación con el auxilio a los heridos de un accidente de tráfico, señale cuál de las siguientes afirmaciones es incorrecta:
+
+Las actuaciones que se produzcan en la primera hora son de vital importancia.
+Debemos mover a los heridos a las ambulancias inmediatamente, pues allí se los atiende mejor.
+Es importante ser capaz de establecer un ambiente de seguridad que dé tranquilidad a los heridos.
+Si algún herido permanece dentro del vehículo y se le puede atender allí mismo, no se debe intentar sacarlo al exterior.
+RESPUESTA: B
+NORMA: Sin referencia
+Referencia Doctrinal: Programa de Intervención, Sensibilización y Reeducación Vial - Manual del formador. Dirección General de Tráfico - INTRAS; Manual de primeros auxilios. Cruz Roja Española
+COD: 2545
+En relación con el auxilio a los heridos de un accidente de tráfico, señale cuál de las siguientes afirmaciones es incorrecta:
+
+Si el herido se encuentra fuera del vehículo, únicamente se debe moverlo para proteger su integridad, por ejemplo, en caso de que se encuentre expuesto a riesgo grave de atropello.
+Si algún herido permanece dentro del vehículo y se le puede atender allí mismo, no se debe intentar sacarlo al exterior.
+La primera actuación ante un herido es siempre sacarlo del lugar del accidente.
+No debe moverse a los heridos, incluso en caso de vuelco, salvo peligro inminente de incendio u otra circunstancia extrema.
+RESPUESTA: C
+NORMA: Sin referencia
+Referencia Doctrinal: Programa de Intervención, Sensibilización y Reeducación Vial - Manual del formador. Dirección General de Tráfico - INTRAS; Manual de primeros auxilios. Cruz Roja Española
+COD: 2547
+Señale la afirmación incorrecta:
+
+En el impreso de la declaración amistosa de accidente, si el accidente hubiera ocasionado heridos, aunque sean leves, se debe consignar el dato en la casilla correspondiente.
+En el impreso de la declaración amistosa de accidente se deben anotar los datos correspondientes a las compañías aseguradoras, indicando, entre otros, su nombre o razón social, domicilio y número de póliza.
+La declaración amistosa de accidente es válida aunque no se tenga suscrito el seguro de responsabilidad civil obligatorio.
+En el impreso de la declaración amistosa de accidente deben relacionarse los daños apreciados en cada uno de los vehículos implicados en el accidente.
+RESPUESTA: C
+NORMA: Convenio CIDE Art. 2
+Referencia Doctrinal: 
+COD: 2548
+Señale la afirmación correcta:
+
+En el impreso de la declaración amistosa de accidente es imprescindible hacer constar siempre la fecha y la hora del accidente.
+En el impreso de la declaración amistosa de accidente deben indicarse y verificarse, respectivamente, los datos de los asegurados correspondientes a los vehículos implicados.
+Al cumplimentar una declaración amistosa de accidente, en caso de accidente con un conductor extranjero, hay que pedirle la Carta Verde o Certificado Internacional de Seguro.
+Todas las respuestas anteriores son correctas.
+RESPUESTA: D
+NORMA: Convenio CIDE Art. 4
+Referencia Doctrinal: 
+COD: 2549
+¿Quién debe entregar la declaración amistosa de accidente?
+
+El tomador del seguro.
+Tanto el tomador del seguro como el asegurado pueden hacerlo.
+La parte contraria.
+El asegurado.
+RESPUESTA: B
+NORMA: Ley 50/1980 Art. 16
+Referencia Doctrinal: 
+COD: 2550
+Según la Ley de Contrato de Seguro, ¿cuál es el plazo máximo para que el tomador comunique al asegurador el acaecimiento de un siniestro a partir de que tenga conocimiento del mismo?
+
+Veinte días.
+Treinta días.
+Siete días.
+Todas las respuestas anteriores son incorrectas.
+RESPUESTA: C
+NORMA: Ley 50/1980 Art. 16
+Referencia Doctrinal: 
+COD: 2551
+Señale la afirmación correcta:
+
+Según la Ley de Contrato de Seguro, el plazo máximo para que el tomador comunique al asegurador el acaecimiento de un siniestro es de 20 días.
+La declaración amistosa de accidentes debe ser entregada por un agente del orden.
+La declaración amistosa de accidentes debe ser firmada por un agente del orden.
+Todas las respuestas anteriores son incorrectas.
+RESPUESTA: D
+NORMA: Ley 50/1980 Art. 16
+Referencia Doctrinal: 
+COD: 2554
+Señale la afirmación correcta:
+
+La declaración amistosa de accidente hace que disminuya el consumo de los vehículos.
+La declaración amistosa de accidente hace que disminuya el número de siniestros de vehículos.
+Es fundamental que la declaración amistosa de accidente esté firmada por ambos conductores.
+La declaración amistosa de accidente hace que disminuyan los atascos de tráfico.
+RESPUESTA: C
+NORMA: Convenio CIDE Art. 3
+Referencia Doctrinal: 
+COD: 2555
+Señale la afirmación correcta:
+
+La declaración amistosa de accidente debe ser firmada por un agente del orden.
+La utilización de la declaración amistosa reduce el plazo para el pago de las reparaciones.
+La declaración amistosa de accidente consigue mayores indemnizaciones.
+La declaración amistosa de accidente hace que disminuya el consumo de los vehículos.
+RESPUESTA: B
+NORMA: Convenio CIDE Preliminar; Convenio CIDE 3
+Referencia Doctrinal: 
+COD: 3331
+¿Cuál de los siguientes materiales no desprende ácido clorhídrico si se incendia?
+
+Caucho.
+Nailon.
+Papel.
+Hierro.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: 
+COD: 3337
+De las siguientes opciones, ¿cuál no es un mecanismo de extinción de un incendio?
+
+Fuga del combustible o derramamiento.
+Dilución del oxígeno o sofocación.
+Separación del combustible.
+Reducción de temperatura o enfriamiento.
+RESPUESTA: A
+NORMA: Sin referencia
+Referencia Doctrinal: Manual S.E.P.E.I. de Bomberos. Diputación de Albacete
+COD: 3370
+¿Cuál es el orden de las actuaciones que hay que desarrollar al prestar ayuda en caso de accidente de tráfico?
+
+Proteger, alertar y socorrer.
+Socorrer, proteger y alertar.
+Proteger, socorrer y alertar.
+Alertar, proteger y socorrer.
+RESPUESTA: A
+NORMA: Sin referencia
+Referencia Doctrinal: Programa de Intervención, Sensibilización y Reeducación Vial - Manual del formador. Dirección General de Tráfico - INTRAS
+COD: 3375
+¿Cuál es el principal propósito de la declaración amistosa de accidentes?
+
+Averiguar los daños producidos en un vehículo.
+Indemnizar lo antes posible a los perjudicados en un accidente de circulación.
+Averiguar la identidad de los responsables de un siniestro.
+Facilitar la labor de la Administración de Justicia y de las compañías de seguros.
+RESPUESTA: B
+NORMA: Convenio CIDE Art. 1
+Referencia Doctrinal: 
+COD: 3413
+¿Cuál es la materia más empleada para extinguir un incendio por enfriamiento de la temperatura?
+
+Agua.
+Arena seca.
+Oxígeno.
+Gas halón.
+RESPUESTA: A
+NORMA: Sin referencia
+Referencia Doctrinal: Fichas NTP (Notas Técnicas de Prevención). Instituto Nacional de Seguridad e Higiene en el Trabajo; Enciclopedia OIT de Salud y Seguridad en el Trabajo. OIT
+COD: 3415
+¿Cuál es la mejor forma de extinguir un fuego con brasas?
+
+Mediante sofocación.
+Mediante enfriamiento.
+Mediante inhibición catalítica.
+Mediante ignición.
+RESPUESTA: B
+NORMA: Sin referencia
+Referencia Doctrinal: Manual S.E.P.E.I. de Bomberos. Diputación de Albacete
+COD: 3424
+¿Cuál es la primera actuación que debemos realizar ante un herido en accidente de tráfico?
+
+Averiguar si está consciente.
+Averiguar si tiene hemorragias.
+Averiguar la gravedad de sus heridas.
+Ninguna de las anteriores respuestas es correcta.
+RESPUESTA: A
+NORMA: Sin referencia
+Referencia Doctrinal: Programa de Intervención, Sensibilización y Reeducación Vial - Manual del formador. Dirección General de Tráfico - INTRAS; Manual de primeros auxilios. Cruz Roja Española
+COD: 3425
+¿Qué es aconsejable que haga en primer lugar el conductor de un vehículo que hubiera sufrido un incidente como, por ejemplo, una avería?
+
+Intentar arreglar la avería.
+Abandonar el vehículo.
+Evitar que el vehículo se convierta en un obstáculo en la vía.
+Recurrir a los servicios de una grúa.
+RESPUESTA: C
+NORMA: RD 1428/2003 130
+Referencia Doctrinal: 
+COD: 3439
+¿Cuáles son las actuaciones que deben realizarse en la primera fase de intervención, en caso prestar ayuda en un accidente de tráfico?
+
+Desconectar el motor de los vehículos accidentados, en caso de que siga funcionando.
+Señalizar convenientemente la zona del accidente.
+Comprobar la existencia de derrames de aceite o de gasolina.
+Todas las respuestas anteriores son correctas.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: Programa de Intervención, Sensibilización y Reeducación Vial - Manual del formador. Dirección General de Tráfico - INTRAS
+COD: 3566
+¿Cuántos extintores debe llevar obligatoriamente un autobús de 23 plazas, incluido el conductor?
+
+Ninguno.
+Uno.
+Dos.
+Tres.
+RESPUESTA: B
+NORMA: OM 27/07/1999 Segundo
+Referencia Doctrinal: 
+COD: 3567
+¿Cuántos extintores debe llevar un vehículo articulado de 40.000 kg de Masa Máxima Autorizada (MMA), de acuerdo con la Orden de 27 de julio de 1999?
+
+Uno.
+Dos.
+Cuatro.
+Dos en el tractocamión y, al menos, tres en el semirremolque.
+RESPUESTA: B
+NORMA: OM 27/07/1999 Segundo
+Referencia Doctrinal: 
+COD: 3568
+¿Cuántos extintores debe llevar obligatoriamente un vehículo autotaxi de 7 plazas, incluido el conductor?
+
+Uno.
+Dos.
+Ninguno.
+Tres.
+RESPUESTA: C
+NORMA: RD 2822/1998 Anexo XII
+Referencia Doctrinal: 
+COD: 3569
+¿Cuántos extintores debe llevar un vehículo de transporte de mercancías de 18.000 kg de Masa Máxima Autorizada (MMA)?
+
+Ninguno.
+Uno.
+Dos.
+Tres.
+RESPUESTA: B
+NORMA: OM 27/07/1999 Segundo
+Referencia Doctrinal: 
+COD: 3570
+¿Cuántos extintores debe llevar un vehículo de transporte de mercancías de 20.500 kg de Masa Máxima Autorizada (MMA), de acuerdo con la Orden de 27 de julio de 1999?
+
+Uno.
+Dos.
+Uno o dos, a elección de su titular.
+Ninguno.
+RESPUESTA: B
+NORMA: OM 27/07/1999 Segundo
+Referencia Doctrinal: 
+COD: 3571
+¿Cuántos extintores está obligado a llevar un vehículo de transporte de mercancías de 3.500 kg de Masa Máxima Autorizada (MMA)?
+
+Uno.
+Dos.
+Tres.
+Ninguno.
+RESPUESTA: D
+NORMA: RD 2822/1998 Anexo XII
+Referencia Doctrinal: 
+COD: 3572
+¿Cuántos extintores debe llevar un vehículo de transporte de mercancías de 6.000 kg de Masa Máxima Autorizada (MMA)?
+
+Uno.
+Dos.
+Tres.
+Ninguno.
+RESPUESTA: A
+NORMA: OM 27/07/1999 Segundo
+Referencia Doctrinal: 
+COD: 3573
+¿Cuántos extintores deberá llevar obligatoriamente instalados un autobús de 55 plazas que no efectúa transporte escolar?
+
+Ninguno.
+Dos.
+Uno.
+Al menos, uno en el pasillo y dos en la bodega.
+RESPUESTA: C
+NORMA: OM 27/07/1999 Segundo
+Referencia Doctrinal: 
+COD: 3574
+¿Cuántos extintores deberá llevar un camión rígido de más de 20.000 kg de Masa Máxima Autorizada (MMA), de acuerdo con la Orden de 27 de julio de 1999?
+
+Uno de la clase 34A/144B.
+Dos de la clase 34A/144B.
+Uno de la clase 8A/34B.
+Uno de la clase 8A/34B y otro de la clase 34A/34B.
+RESPUESTA: B
+NORMA: OM 27/07/1999 Segundo
+Referencia Doctrinal: 
+COD: 3575
+¿Cuántos extintores deberá llevar un vehículo de transporte de viajeros de más de 23 plazas que no efectúa transporte escolar?
+
+Uno de la clase 8A/34B.
+Uno de la clase 8A/34B y otro de la clase 21A/113B.
+Dos de la clase 21A/113B.
+Uno de la clase 21A/113B.
+RESPUESTA: D
+NORMA: OM 27/07/1999 Segundo
+Referencia Doctrinal: 
+COD: 3619
+¿Dónde se debe llevar el chaleco reflectante de alta visibilidad?
+
+En un lugar donde el conductor pueda alcanzarlo y colocárselo antes de bajarse del vehículo.
+Junto al extintor obligatorio y los triángulos de preseñalización de peligro.
+En un lugar donde el conductor pueda alcanzarlo y colocárselo después de bajarse del vehículo.
+Junto al botiquín, en el maletero.
+RESPUESTA: A
+NORMA: Sin referencia
+Referencia Doctrinal: Programa de Intervención, Sensibilización y Reeducación Vial - Manual del formador. Dirección General de Tráfico - INTRAS
+COD: 3622
+En el caso de una vía de doble sentido, ¿dónde se colocan los triángulos de preseñalización de peligro no luminosos (que no disponen de alimentación eléctrica)?
+
+A 100 metros del lugar del accidente.
+Uno por delante y otro por detrás del vehículo, como mínimo a 50 metros y de tal forma que sean visibles desde 100 metros, al menos.
+A 150 metros del lugar del accidente.
+Uno por delante y otro por detrás del vehículo, como mínimo a 100 metros y de tal forma que sean visibles desde 50 metros, al menos.
+RESPUESTA: B
+NORMA: RD 159/2021 Disposición transitoria primera; RD 2822/1998 Anexo XI
+Referencia Doctrinal: 
+COD: 3635
+¿En cuál de las siguientes situaciones de emergencia puede ser más necesaria la evacuación de los ocupantes del vehículo?
+
+En caso de incendio o amenaza de incendio en el vehículo.
+En caso de avería en el motor.
+En caso de rotura de cristales del vehículo.
+Si el vehículo ha quedado detenido en la calzada.
+RESPUESTA: A
+NORMA: Sin referencia
+Referencia Doctrinal: 
+COD: 3637
+¿En cuál de los siguientes lugares se debe entregar la declaración amistosa de accidentes?
+
+En la compañía de seguros.
+En el domicilio del asegurado.
+En el taller más próximo al lugar del siniestro.
+En la comisaría de Policía o destacamento de la Guardia Civil de Tráfico.
+RESPUESTA: A
+NORMA: Sin referencia
+Referencia Doctrinal: Declaración amistosa de accidente. UNESPA, 1972 o 2001
+COD: 3638
+En el modelo oficial de la declaración amistosa de accidentes, ¿se debe dibujar un croquis sobre el punto de choque y la posición de los vehículos?
+
+No, en ningún caso.
+No, salvo que hubiera heridos.
+No, salvo que alguno de los conductores implicados o alguno de los testigos tenga conocimientos de dibujo.
+Sí.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: Declaración amistosa de accidente. UNESPA, 1972 o 2001
+COD: 3639
+En la declaración amistosa de accidentes, ¿se debe hacer constar el lugar del accidente?
+
+Sí.
+Solo cuando haya sucedido en una vía urbana.
+Solo cuando haya sucedido en una vía interurbana.
+Solo cuando haya sucedido dentro de España.
+RESPUESTA: A
+NORMA: Sin referencia
+Referencia Doctrinal: Declaración amistosa de accidente. UNESPA, 1972 o 2001
+COD: 3640
+En la declaración amistosa de accidentes, ¿se debe hacer constar la fecha y la hora de accidente?
+
+Sí.
+La fecha sí, pero la hora no.
+La hora sí, pero la fecha no, pues lo que importa es la fecha de presentación en la compañía de seguros.
+No, ninguno de los dos datos debe figurar.
+RESPUESTA: A
+NORMA: Sin referencia
+Referencia Doctrinal: Declaración amistosa de accidente. UNESPA, 1972 o 2001
+COD: 3641
+En la declaración amistosa de accidentes, ¿se deben hacer constar los datos sobre los testigos del accidente?
+
+No.
+Solo cuando las causas del accidente no estén claras.
+Solo cuando no haya acuerdo entre los conductores implicados.
+Sí.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: Declaración amistosa de accidente. UNESPA, 1972 o 2001
+COD: 3642
+En la declaración amistosa de accidentes, ¿se deben consignar las circunstancias de circulación de los vehículos en las que se produjo el accidente?
+
+No.
+Solo las relativas al vehículo causante del accidente.
+Sí, marcando con una cruz, entre las opciones propuestas por el modelo, aquellas que correspondan al caso. 
+Sí, mediante un anexo al modelo en el que se describirá con detalle lo sucedido.
+RESPUESTA: C
+NORMA: Sin referencia
+Referencia Doctrinal: Declaración amistosa de accidente. UNESPA, 1972 o 2001
+COD: 3643
+En la declaración amistosa de accidentes, ¿se deben hacer constar las firmas de los conductores implicados en el accidente?
+
+Sí.
+Basta con la firma de uno de ellos.
+No es necesario si figura la firma de algún testigo.
+No es necesario en ningún caso.
+RESPUESTA: A
+NORMA: Sin referencia
+Referencia Doctrinal: Declaración amistosa de accidente. UNESPA, 1972 o 2001
+COD: 3644
+En la declaración amistosa de accidentes, ¿se podrán hacer constar las observaciones particulares de los conductores?
+
+Sí.
+No, salvo que hubiera heridos.
+No, salvo que estos fueran a la vez agentes de la autoridad.
+No, en ningún caso.
+RESPUESTA: A
+NORMA: Sin referencia
+Referencia Doctrinal: Declaración amistosa de accidente. UNESPA, 1972 o 2001
+COD: 3693
+¿Es obligatorio llevar un botiquín en el vehículo?
+
+Sí, siempre.
+No, pero es muy recomendable.
+Solo en vehículos pesados.
+Solo si se trata de un transporte de viajeros.
+RESPUESTA: B
+NORMA: RD 2822/1998 Anexo XII
+Referencia Doctrinal: Manual de reglamentación de vehículos. Dirección General de Tráfico
+COD: 3768
+Según la Ley de responsabilidad civil y seguro en la circulación de vehículos a motor, se considera que un vehículo tiene su estacionamiento habitual en España:
+
+cualquiera que sea el país de matriculación del vehículo si su propietario reside en España más de 183 días al año.
+cuando tiene matrícula española.
+cuando tiene matrícula de un Estado de la UE y su propietario reside la mayor parte del tiempo en España.
+cualquiera que sea el país de matriculación del vehículo si su propietario es español.
+RESPUESTA: B
+NORMA: RD Legislativo 8/2004 Art. 2.1
+Referencia Doctrinal: 
+COD: 3951
+¿Cómo se llama el documento en el que se plasma un contrato de seguro?
+
+Contrato.
+Póliza.
+Escritura pública.
+No es necesaria la forma escrita para que nazca el contrato de seguro.
+RESPUESTA: B
+NORMA: Ley 50/1980 Art. 3 y 5
+Referencia Doctrinal: 
+COD: 4382
+Según la Ley de responsabilidad civil y seguro en la circulación de vehículos a motor, ¿se encuentran cubiertos por este seguro los daños sufridos por los bienes de los parientes en tercer grado del conductor del vehículo causante del accidente?
+
+Sí, en todos los casos.
+Sí, siempre que no se encuentren en el vehículo en el momento del accidente.
+Sí, salvo que se trate de hermanos, padres o hijos, en cuyo caso no estarán cubiertos.
+No, en ningún caso.
+RESPUESTA: D
+NORMA: RD Legislativo 8/2004 Art. 5.2
+Referencia Doctrinal: 
+COD: 4919
+La póliza del contrato de seguro hecha en España deberá redactarse, a elección del tomador del seguro:
+
+necesariamente en castellano.
+obligatoriamente en la lengua propia de la Comunidad Autónoma donde se realice el contrato, si fuera distinta del castellano.
+en cualquiera de las lenguas oficiales en el lugar donde aquella se formalice.
+No es obligatorio que se realice por escrito.
+RESPUESTA: C
+NORMA: Ley 50/1980 Art. 8
+Referencia Doctrinal: 
+COD: 4920
+En el contrato de seguro, ¿cómo se llama a quien contrata con el asegurador?
+
+Asegurado.
+Tomador.
+Beneficiario.
+Tercero.
+RESPUESTA: B
+NORMA: Ley 50/1980 Art. 7
+Referencia Doctrinal: 
+COD: 4948
+Si en la póliza de seguro no se determina ningún lugar para el pago de la prima, se entenderá que debe hacerse en:
+
+el domicilio del asegurador.
+el domicilio del tomador del seguro.
+el domicilio del asegurado que conste en la póliza.
+el juzgado, a disposición del asegurador.
+RESPUESTA: B
+NORMA: Ley 50/1980 Art. 14
+Referencia Doctrinal: 
+COD: 4951
+El tomador del seguro o el asegurado o el beneficiario deberán comunicar al asegurador el acaecimiento de un siniestro dentro del plazo máximo de:
+
+un mes de haberlo conocido, salvo que se haya fijado en la póliza un plazo más amplio.
+15 días de haberlo conocido, salvo que se haya fijado en la póliza un plazo más amplio.
+7 días de haberlo conocido, salvo que se haya fijado en la póliza un plazo más amplio.
+24 horas de haberlo conocido, salvo que se haya fijado en la póliza un plazo más amplio.
+RESPUESTA: C
+NORMA: Ley 50/1980 Art. 16
+Referencia Doctrinal: 
+COD: 4993
+Según la Ley de responsabilidad civil y seguro en la circulación de vehículos a motor, ¿a qué dará lugar el incumplimiento de la obligación de asegurarse?
+
+Al depósito del vehículo a cargo del propietario.
+A la requisa del vehículo.
+A la prohibición de circular el vehículo afectado durante tres años, aunque se asegure posteriormente.
+Al pago de los gastos que origine el depósito del vehículo, si bien serán por cuenta de la Administración si se asegura en un plazo inferior a un mes.
+RESPUESTA: A
+NORMA: RD Legislativo 8/2004 Art. 3.1
+Referencia Doctrinal: 
+COD: 4998
+Según la Ley de responsabilidad civil y seguro en la circulación de vehículos a motor, la cobertura del seguro de suscripción obligatoria no alcanzará a los daños personales ocasionados:
+
+a la persona propietaria del vehículo causante del accidente.
+a los familiares hasta el tercer grado de consanguinidad del propietario del vehículo causante del accidente.
+al conductor del vehículo causante del accidente.
+Alcanza a todas las personas por los daños personales.
+RESPUESTA: C
+NORMA: RD Legislativo 8/2004 Art. 5.1
+Referencia Doctrinal: 
+COD: 5000
+Según la Ley de responsabilidad civil y seguro en la circulación de vehículos a motor, la cobertura del seguro de suscripción obligatoria no alcanzará a los daños materiales ocasionados:
+
+al vehículo causante del accidente.
+a los bienes de los que sea titular el propietario del vehículo causante del accidente.
+a los bienes de los que sea titular el conductor del vehículo causante del accidente.
+Todas las respuestas son correctas.
+RESPUESTA: D
+NORMA: RD Legislativo 8/2004 Art. 5.2
+Referencia Doctrinal: 
+COD: 5001
+Según la Ley de responsabilidad civil y seguro en la circulación de vehículos a motor, la cobertura del seguro de suscripción obligatoria no alcanzará a los daños materiales ocasionados a:
+
+los bienes de propiedad estatal.
+los bienes de los que sea titular el propietario del vehículo causante del accidente.
+los bienes depositados en almacenes del propietario del vehículo.
+los bienes arrendados por el propietario del vehículo.
+RESPUESTA: B
+NORMA: RD Legislativo 8/2004 Art. 5.2
+Referencia Doctrinal: 
+COD: 5002
+Según la Ley de responsabilidad civil y seguro en la circulación de vehículos a motor, ¿la cobertura del seguro de suscripción obligatoria alcanzará a los daños materiales ocasionados al tomador del seguro?
+
+Solo cuando el tomador no sea el conductor del vehículo causante del accidente.
+Solo cuando el tomador no sea a la vez el asegurado.
+No, en ningún caso.
+Siempre estarán cubiertos.
+RESPUESTA: C
+NORMA: RD Legislativo 8/2004 Art. 5.2
+Referencia Doctrinal: 
+COD: 5005
+Según la Ley de responsabilidad civil y seguro en la circulación de vehículos a motor, en caso de circular un vehículo sin seguro, podrá acordarse el depósito y precinto del vehículo por un período de:
+
+dos meses.
+cuatro meses.
+dos años.
+un mes, tres meses o un año, según los casos.
+RESPUESTA: D
+NORMA: RD Legislativo 8/2004 Art. 3.1
+Referencia Doctrinal: 
+COD: 5008
+Según la Ley de responsabilidad civil y seguro en la circulación de vehículos a motor, la ausencia del seguro llevará aparejado el precintado del vehículo y una sanción que oscilará entre:
+
+301 y 600 €.
+501 € y 1.500 €.
+601 € y 3.005 €.
+1.500 € y 6.000 €.
+RESPUESTA: C
+NORMA: RD Legislativo 8/2004 Art. 3.1
+Referencia Doctrinal: 
+COD: 5009
+Según la Ley de responsabilidad civil y seguro en la circulación de vehículos a motor, el límite de los importes de la cobertura del seguro obligatorio será, en los daños a las personas, de:
+
+350.000 € por víctima.
+250.000 € por víctima.
+10 millones de euros por siniestro, cualquiera que sea el número de víctimas.
+70 millones de euros por siniestro, cualquiera que sea el número de víctimas.
+RESPUESTA: D
+NORMA: RD Legislativo 8/2004 Art. 4.2
+Referencia Doctrinal: 
+COD: 5010
+Según la Ley de responsabilidad civil y seguro en la circulación de vehículos a motor, el límite de los importes de la cobertura del seguro obligatorio será, en los daños a los bienes, de:
+
+15 millones de euros por siniestro.
+1 millón de euros por siniestro.
+100.000 € por perjudicado.
+100.000 € por siniestro.
+RESPUESTA: A
+NORMA: RD Legislativo 8/2004 Art. 4.2
+Referencia Doctrinal: 
+COD: 5028
+¿Cuál es la causa de la mayoría de las muertes en la hora siguiente al accidente?
+
+Aplastamiento.
+Infartos.
+Hemorragias y asfixias.
+Fractura de huesos.
+RESPUESTA: C
+NORMA: Sin referencia
+Referencia Doctrinal: Programa de Intervención, Sensibilización y Reeducación Vial - Manual del formador. Dirección General de Tráfico - INTRAS
+COD: 5029
+En caso de que haya un motorista accidentado, ¿qué no se debe hacer?
+
+Moverlo en caso de peligro de atropello.
+Tranquilizarlo.
+Quitarle el casco.
+Ninguna de las respuestas anteriores es correcta.
+RESPUESTA: C
+NORMA: Sin referencia
+Referencia Doctrinal: Primeros auxilios en conflictos armados y otras situaciones de violencia. CICR - GINEBRA, 2006
+COD: 5030
+¿Qué objetivo tienen los primeros auxilios?
+
+La estabilización del herido.
+El traslado del herido al hospital.
+Sacar al herido del vehículo accidentado.
+Moverlo del lugar del accidente.
+RESPUESTA: A
+NORMA: Sin referencia
+Referencia Doctrinal: Primeros auxilios en conflictos armados y otras situaciones de violencia. CICR - GINEBRA, 2006
+COD: 5032
+¿En qué zona del cuerpo hay que realizar el masaje cardiaco a un herido de accidente de tráfico?
+
+En el borde inferior de las costillas, sobre el centro del pecho.
+En el cuello.
+En el estómago.
+Ninguna de las respuestas es correcta.
+RESPUESTA: A
+NORMA: Sin referencia
+Referencia Doctrinal: Programa de Intervención, Sensibilización y Reeducación Vial - Manual del formador. Dirección General de Tráfico - INTRAS; Manual de primeros auxilios. Cruz Roja Española
+COD: 5033
+¿Cómo se deben colocar las manos y los brazos para efectuar un masaje cardiaco a un herido de accidente de tráfico?
+
+La parte anterior de la palma de una mano apoyada sobre el pecho, la otra colocada sobre la primera y los brazos cruzados y perpendiculares al pecho del herido.
+La parte posterior de la palma de una mano sobre el pecho, la otra colocada sobre la primera y los brazos rectos y perpendiculares al pecho del herido.
+La parte anterior de la palma de una mano sobre el pecho, la otra colocada sobre la primera y los brazos rectos y perpendiculares al pecho del herido.
+La parte posterior de la palma de una mano sobre el pecho, la otra colocada sobre la primera y los brazos cruzados y perpendiculares al pecho del herido.
+RESPUESTA: B
+NORMA: Sin referencia
+Referencia Doctrinal: Programa de Intervención, Sensibilización y Reeducación Vial - Manual del formador. Dirección General de Tráfico - INTRAS; Manual de primeros auxilios. Cruz Roja Española
+COD: 5034
+¿Con qué otra acción se debe combinar el masaje cardiaco a un herido de accidente de tráfico para que surta efecto?
+
+Con respiración boca a boca.
+Con palmaditas en la cara.
+Con golpes en la nuca.
+Con masajes en el brazo.
+RESPUESTA: A
+NORMA: Sin referencia
+Referencia Doctrinal: Programa de Intervención, Sensibilización y Reeducación Vial - Manual del formador. Dirección General de Tráfico - INTRAS; Manual de primeros auxilios. Cruz Roja Española
+COD: 5036
+En la respiración boca a boca, ¿por qué hay que abrir la vía aérea al herido mediante la maniobra frente-mentón?
+
+Para que respire mejor.
+Para que entre el aire en los riñones.
+Para facilitar la entrada del aire en los pulmones.
+Para que no se ahogue.
+RESPUESTA: C
+NORMA: Sin referencia
+Referencia Doctrinal: Programa de Intervención, Sensibilización y Reeducación Vial - Manual del formador. Dirección General de Tráfico - INTRAS; Manual de primeros auxilios. Cruz Roja Española
+COD: 5037
+¿Cómo hay que colocar al herido para practicarle la respiración boca a boca?
+
+Boca abajo.
+Boca arriba.
+Lateral.
+En posición de defensa.
+RESPUESTA: B
+NORMA: Sin referencia
+Referencia Doctrinal: Programa de Intervención, Sensibilización y Reeducación Vial - Manual del formador. Dirección General de Tráfico - INTRAS; Manual de primeros auxilios. Cruz Roja Española
+COD: 5038
+¿Con qué dedos se debe oprimir las ventanas de la nariz para realizar correctamente la respiración boca a boca?
+
+Anular e índice.
+Anular y pulgar.
+Corazón y pulgar.
+Pulgar e índice.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: Programa de Intervención, Sensibilización y Reeducación Vial - Manual del formador. Dirección General de Tráfico - INTRAS; Manual de primeros auxilios. Cruz Roja Española
+COD: 5039
+¿Cuánto disminuyen las probabilidades de supervivencia por cada minuto que pasa sin aporte de oxígeno al cerebro?
+
+2 %.
+60 %.
+10 %.
+40 %.
+RESPUESTA: C
+NORMA: Sin referencia
+Referencia Doctrinal: Primeros auxilios en conflictos armados y otras situaciones de violencia. Cruz Roja Internacional
+COD: 5208
+¿Quién tiene la obligación legal de actuar ante un accidente de tráfico?
+
+Los conductores implicados en el accidente.
+Los usuarios de la vía implicados en el accidente.
+Los agentes de tráfico.
+Todas las respuestas anteriores son correctas.
+RESPUESTA: D
+NORMA: RD 1428/2003 Art. 129
+Referencia Doctrinal: 
+COD: 5209
+¿Qué medidas se deben tomar en caso de producirse un accidente?
+
+No solicitar ayudas.
+Restablecer, en la medida de lo posible, la seguridad de la circulación.
+Adoptar medidas que favorezcan la creación de peligros.
+Ninguna, ya que de eso se encargan las fuerzas de seguridad.
+RESPUESTA: B
+NORMA: Sin referencia
+Referencia Doctrinal: Programa de Intervención, Sensibilización y Reeducación Vial - Manual del formador. Dirección General de Tráfico - INTRAS
+COD: 5210
+¿Dónde se deberá dejar estacionado el vehículo propio en caso de parar para auxiliar en un accidente?
+
+Fuera de la calzada.
+En el carril derecho.
+En el carril izquierdo.
+En la zona más cercana para poder trasladar a los heridos.
+RESPUESTA: A
+NORMA: Sin referencia
+Referencia Doctrinal: Programa de Intervención, Sensibilización y Reeducación Vial - Manual del formador. Dirección General de Tráfico - INTRAS
+COD: 5211
+¿Hacia dónde deberán apuntar las luces de nuestro vehículo en caso de parar para auxiliar en un accidente por la noche?
+
+Paralelas a la calzada, tratando de iluminar los coches siniestrados.
+Paralelas a la calzada, tratando de no incidir sobre los coches siniestrados.
+Perpendiculares a la calzada, tratando de no incidir sobre los coches siniestrados.
+Perpendiculares a la calzada, tratando de iluminar los coches siniestrados.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: Programa de Intervención, Sensibilización y Reeducación Vial - Manual del formador. Dirección General de Tráfico - INTRAS
+COD: 5212
+Para señalizar el obstáculo que representa un vehículo accidentado en una vía de doble sentido, ¿dónde deberán colocarse los triángulos de preseñalización de peligro no luminosos (que no disponen de alimentación eléctrica)?
+
+Uno por delante y otro por detrás, como mínimo a 50 metros del vehículo accidentado.
+Uno por delante y otro por detrás, como mínimo a 100 metros del vehículo accidentado.
+Uno por delante y otro por detrás, como mínimo a 75 metros del vehículo accidentado.
+Uno por delante, como mínimo a 50 metros del vehículo accidentado, y otro por detrás a 75 metros desde el último vehículo detenido para auxiliar a la víctimas.
+RESPUESTA: A
+NORMA: RD 159/2021 Disposición transitoria primera; RD 2822/1998 Anexo XI
+Referencia Doctrinal: 
+COD: 5213
+Antes de abandonar el vehículo para socorrer a un herido en un accidente que se ha producido en una vía interurbana, ¿qué se deberá hacer?
+
+Ponerse el chaleco reflectante de alta visibilidad.
+Coger el botiquín de primeros auxilios.
+Avisar a los servicios sanitarios de emergencias.
+Asegurarse de la importancia y gravedad de las heridas de las víctimas.
+RESPUESTA: A
+NORMA: RD 1428/2003 Art. 118.3
+Referencia Doctrinal: 
+COD: 5214
+¿Qué datos se deben obtener en el escenario del accidente?
+
+Tomar datos de la matrícula.
+Tomar datos del permiso de circulación.
+Tomar datos de la compañía de seguros.
+Todos las respuestas anteriores son correctas.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: Programa de Intervención, Sensibilización y Reeducación Vial - Manual del formador. Dirección General de Tráfico - INTRAS
+COD: 5215
+En caso de que el motor de alguno de los vehículos implicados en un accidente continúe en marcha, ¿qué se deberá hacer?
+
+Desconectar el contacto del vehículo, pero solo cuando llegue la policía.
+Desconectar inmediatamente el contacto.
+Dejarlo funcionando.
+Ninguna de las respuestas anteriores es correcta.
+RESPUESTA: B
+NORMA: Sin referencia
+Referencia Doctrinal: Programa de Intervención, Sensibilización y Reeducación Vial - Manual del formador. Dirección General de Tráfico - INTRAS
+COD: 5216
+¿Cómo se debe solicitar la ayuda en caso de accidente?
+
+Identificando el lugar y los hechos básicos.
+Llamando al primer número que aparezca grabado en el teléfono del conductor accidentado.
+Llamando a los familiares de los heridos.
+Las respuestas A y B son correctas.
+RESPUESTA: A
+NORMA: Sin referencia
+Referencia Doctrinal: Programa de Intervención, Sensibilización y Reeducación Vial - Manual del formador. Dirección General de Tráfico - INTRAS
+COD: 5217
+¿Cómo debe hacerse la aproximación a un vehículo accidentado?
+
+No cruzando la mediana de una carretera nacional.
+Caminando por el arcén.
+Cruzando la mediana de la autopista si fuera necesario.
+Las respuestas B y C son correctas.
+RESPUESTA: B
+NORMA: Sin referencia
+Referencia Doctrinal: Programa de Intervención, Sensibilización y Reeducación Vial - Manual del formador. Dirección General de Tráfico - INTRAS
+COD: 5218
+¿En qué momento se produce el mayor número de muertes en un accidente de circulación?
+
+En el propio accidente.
+En la hora siguiente.
+En el plazo de 24 horas desde el accidente.
+En el plazo de 30 días desde el accidente.
+RESPUESTA: B
+NORMA: Sin referencia
+Referencia Doctrinal: Programa de Intervención, Sensibilización y Reeducación Vial - Manual del formador. Dirección General de Tráfico - INTRAS
+COD: 5219
+¿Cuánto tiempo ha de transcurrir sin aporte de oxígeno al cerebro para que se produzcan lesiones cerebrales irreversibles?
+
+Un minuto.
+Cinco minutos.
+30 minutos.
+1 hora.
+RESPUESTA: B
+NORMA: Sin referencia
+Referencia Doctrinal: Primeros auxilios en conflictos armados y otras situaciones de violencia. Cruz Roja Internacional
+COD: 5220
+¿A qué tipo de accidentados no hay que quitarles la ropa?
+
+A los quemados.
+A los que presentan fracturas de pelvis.
+A los que tienen fracturas de brazos.
+A los heridos sin pulso.
+RESPUESTA: A
+NORMA: Sin referencia
+Referencia Doctrinal: Programa de Intervención, Sensibilización y Reeducación Vial - Manual del formador. Dirección General de Tráfico - INTRAS; Manual de primeros auxilios. Cruz Roja Española
+COD: 5223
+¿A qué tipo de heridos se puede dar de beber agua en pequeños sorbos?
+
+A los que tienen parada cardiorrespiratoria.
+A los que tienen quemaduras graves.
+A los heridos sin pulso.
+A los que tienen fracturas de pelvis.
+RESPUESTA: B
+NORMA: Sin referencia
+Referencia Doctrinal: Programa de Intervención, Sensibilización y Reeducación Vial - Manual del formador. Dirección General de Tráfico - INTRAS; Manual de primeros auxilios. Cruz Roja Española
+COD: 6307
+Entre las siguientes, ¿cuál es la primera medida que debe adoptar el conductor de un vehículo que haya sufrido una avería mecánica, la cual le impida continuar el viaje?
+
+Evacuar a los pasajeros y abandonar el vehículo.
+Intentar arreglar la avería.
+Señalizar el vehículo y adoptar las medidas para retirarlo.
+Recurrir a los servicios de un taller mecánico.
+RESPUESTA: C
+NORMA: RD 1428/2003 Art. 130
+Referencia Doctrinal: 
+COD: 6328
+¿Cuál es, de las siguientes, la primera medida que deberá adoptar un conductor de un vehículo cuya carga haya caído sobre la vía?
+
+Apartar el vehículo para evitar un riesgo mayor.
+Retirar o recoger la carga derramada.
+Avisar a los servicios de emergencia.
+Avisar a su empresa para recibir instrucciones.
+RESPUESTA: A
+NORMA: RD 1428/2003 Art. 130
+Referencia Doctrinal: 
+COD: 6329
+Una vez apartado el vehículo y señalizado el obstáculo, ¿cuál es la siguiente medida que deberá adoptar el conductor de un vehículo cuya carga se haya caído sobre la vía?
+
+Retirar o apartar la carga derramada siempre que sea posible y dejar la calzada lo más limpia posible.
+Avisar a los servicios de emergencia.
+Avisar a su empresa para recibir instrucciones.
+Avisar a los servicios de limpieza para que despejen la calzada.
+RESPUESTA: A
+NORMA: RD 1428/2003 Art. 130
+Referencia Doctrinal: 
+COD: 6331
+¿Cuál es la primera medida que es aconsejable que tome el conductor de un autobús en el caso de evacuación de los viajeros?
+
+Asegurar el vehículo activando la señalización intermitente de emergencia.
+Informar a su empresa de la causa de la evacuación.
+Identificar a los viajeros por si hubiera menores de edad.
+Informar a los servicios de emergencia.
+RESPUESTA: A
+NORMA: Sin referencia
+Referencia Doctrinal: 
+COD: 6347
+¿A qué distancia mínima es conveniente conducir a los pasajeros de un autobús después de ser evacuados?
+
+100 m.
+200 m.
+300 m.
+50 m.
+RESPUESTA: B
+NORMA: Sin referencia
+Referencia Doctrinal: 
+COD: 6348
+¿A qué distancia mínima es conveniente conducir a los pasajeros de un autobús después de ser evacuados si hubiese riesgo de un derrame de materiales peligrosos?
+
+50 m y hacer que se tumben en el suelo.
+100 m en dirección contraria al viento.
+200 m en dirección contraria al viento.
+200 m en la dirección a favor del viento.
+RESPUESTA: C
+NORMA: Sin referencia
+Referencia Doctrinal: 
+COD: 6349
+La materia más utilizada en la extinción de un incendio por enfriamiento es:
+
+el oxígeno.
+el peróxido de carbono.
+el agua.
+un gas halógeno.
+RESPUESTA: C
+NORMA: Sin referencia
+Referencia Doctrinal: Fichas NTP (Notas Técnicas de Prevención). Instituto Nacional de Seguridad y Salud en el Trabajo; Enciclopedia OIT de Salud y Seguridad en el Trabajo. OIT
+COD: 6351
+Ante una agresión inevitable, ¿debe hacerse uso de elementos de defensa?
+
+Sí, de forma proporcionada a la agresión.
+Sí, de cualquier forma que permita neutralizar al agresor.
+Sí, una vez que se haya presentado denuncia.
+No, en ningún caso debe hacerse uso de elementos defensivos.
+RESPUESTA: A
+NORMA: Sin referencia
+Referencia Doctrinal: 
+COD: 6352
+¿Cuántos extintores deberán estar obligatoriamente instalados en un vehículo de transporte de viajeros de 23 plazas, incluido el conductor?
+
+Uno de la clase 8A/34B.
+Uno de la clase 5A/21B.
+Dos de la clase 5A/21B.
+Uno de la clase 34A/144B.
+RESPUESTA: A
+NORMA: OM 27/07/1999 Segundo
+Referencia Doctrinal: 
+COD: 6353
+¿Cuántos extintores deberán estar obligatoriamente instalados en un vehículo de transporte de personas de más de 23 plazas que no efectúa transporte escolar?
+
+Uno de clase 8A/34B.
+Uno de clase 13A/55B.
+Uno de clase 21A/113B.
+No es obligatorio llevar ningún extintor.
+RESPUESTA: C
+NORMA: OM 27/07/1999 Segundo
+Referencia Doctrinal: 
+COD: 6354
+¿Qué acciones comprende el protocolo de actuación ante emergencias denominado PAS?
+
+Parar, avisar y salir.
+Proteger, alertar y socorrer.
+Parar, alertar y socorrer.
+Protección, auxilio y seguridad.
+RESPUESTA: B
+NORMA: Sin referencia
+Referencia Doctrinal: Programa de Intervención, Sensibilización y Reeducación Vial - Manual del formador. Dirección General de Tráfico - INTRAS
+COD: 6355
+Ante un conductor agresivo en la carretera es aconsejable:
+
+mantener el contacto visual.
+evitar el contacto visual.
+reaccionar ante sus gestos.
+Las respuestas A y C son correctas.
+RESPUESTA: B
+NORMA: Sin referencia
+Referencia Doctrinal: 
+COD: 6357
+¿Cuál puede ser la primera medida que se debe adoptar ante una situación de violencia verbal en un transporte de viajeros?
+
+Presentar una denuncia ante las Fuerzas de Seguridad.
+Comunicar la incidencia a la empresa transportista.
+Seguir conduciendo y hacer caso omiso a la situación de violencia verbal.
+Preservar la seguridad de los viajeros y estacionar el vehículo.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: 
+COD: 6358
+¿Cuál puede ser una primera medida que se debe adoptar ante una situación de violencia física en un transporte de viajeros?
+
+Presentar una denuncia ante las Fuerzas de Seguridad.
+Comunicar la incidencia a la empresa transportista.
+Responder a la agresión de forma proporcionada.
+Preservar la seguridad de los viajeros y estacionar el vehículo.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: 
+COD: 6359
+¿Qué acción es la correcta ante un episodio de violencia verbal durante la conducción?
+
+Responder.
+Mantener la calma.
+Encararse.
+Insultar.
+RESPUESTA: B
+NORMA: Sin referencia
+Referencia Doctrinal: 
+COD: 6360
+¿Qué debe hacerse ante un conductor agresivo en la carretera?
+
+No aceptar ninguna clase de desafío.
+Aumentar la velocidad.
+Defender la posición en el carril que se ocupe.
+Fijarse en los gestos.
+RESPUESTA: A
+NORMA: Sin referencia
+Referencia Doctrinal: 
+COD: 6374
+¿Quiénes deben firmar la declaración amistosa de accidente para que se considere válida?
+
+Todos los conductores de los vehículos implicados en el accidente.
+El conductor culpable del accidente.
+Todos los testigos del accidente.
+Un agente de las Fuerzas de Seguridad que tengan encomendada la vigilancia del tráfico.
+RESPUESTA: A
+NORMA: Convenio CIDE Art. 3
+Referencia Doctrinal: 
+COD: 6375
+¿Dónde se debe entregar la declaración amistosa de accidente?
+
+En la compañía o correduría de seguros.
+En el taller de reparaciones que designe la compañía de seguros.
+En la Comisaría de Policía o Destacamento de la Guardia Civil de Tráfico más próximos al lugar del accidente.
+En el domicilio del conductor del vehículo contrario.
+RESPUESTA: A
+NORMA: Sin referencia
+Referencia Doctrinal: Declaración amistosa de accidente. UNESPA, 1972 o 2001
+COD: 6376
+¿En qué plazo se debe comunicar a la compañía aseguradora que se ha producido un siniestro?
+
+En el plazo de siete días de haberlo conocido.
+En el plazo de catorce días de haberlo conocido.
+En el plazo de quince días de haberlo conocido.
+En el plazo de treinta días de haberlo conocido.
+RESPUESTA: A
+NORMA: Ley 50/1980 Art. 16
+Referencia Doctrinal: 
+COD: 6377
+¿Se pueden tomar datos de los testigos en la declaración amistosa de accidente?
+
+Sí.
+No, salvo que haya heridos.
+No, salvo que lo ordene un agente de las Fuerzas de Seguridad que tenga encomendada la vigilancia del tráfico.
+No, en ningún caso.
+RESPUESTA: A
+NORMA: Sin referencia
+Referencia Doctrinal: Declaración amistosa de accidente. UNESPA, 1972 o 2001
+COD: 6378
+¿Qué datos referidos a los asegurados se deben hacer constar en la declaración amistosa de accidentes?
+
+Su nombre y apellidos.
+Su dirección.
+Su número de teléfono o correo electrónico.
+Todas las respuestas son correctas.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: Declaración amistosa de accidente. UNESPA, 1972 o 2001
+COD: 6379
+¿Desde qué año se utiliza en España la declaración amistosa de accidente?
+
+1980.
+1993.
+1978.
+1987.
+RESPUESTA: D
+NORMA: Convenio Protocolo de Adhesión a la Declaración Amistosa de Accidente 
+Referencia Doctrinal: 
+COD: 6380
+En la declaración amistosa, ¿podrán anotarse observaciones particulares de cualquiera de los conductores implicados?
+
+No.
+Sí.
+Cada uno podrá anotar lo que quiera en su copia.
+Solo si todos están de acuerdo.
+RESPUESTA: B
+NORMA: Sin referencia
+Referencia Doctrinal: Declaración amistosa de accidente. UNESPA, 1972 o 2001
+COD: 6825
+Ante la presencia de un accidente de circulación se debe, en primer lugar:
+
+atender a las víctimas.
+preservar la seguridad de la circulación.
+solicitar ayuda especializada.
+trasladar a las víctimas al hospital en cualquier vehículo.
+RESPUESTA: B
+NORMA: Sin referencia
+Referencia Doctrinal: Programa de Intervención, Sensibilización y Reeducación Vial - Manual del formador. Dirección General de Tráfico - INTRAS
+COD: 6826
+A la hora de restablecer la seguridad en la circulación en caso de haberse producido un accidente, se debe:
+
+desconectar inmediatamente el contacto del vehículo accidentado.
+inmovilizar de forma segura los vehículos.
+comprobar posibles derrames.
+Todas las respuestas anteriores son correctas.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: Programa de Intervención, Sensibilización y Reeducación Vial - Manual del formador. Dirección General de Tráfico - INTRAS
+COD: 6827
+Ante una quemadura en una víctima de un accidente de tráfico, se debe:
+
+romper las ampollas en el caso de que hubiera.
+refrigerar la zona quemada con agua fría.
+retirar los restos de ropa quemada.
+aplicarle una pomada.
+RESPUESTA: B
+NORMA: Sin referencia
+Referencia Doctrinal: Programa de Intervención, Sensibilización y Reeducación Vial - Manual del formador. Dirección General de Tráfico - INTRAS; Manual de primeros auxilios. Cruz Roja Española
+COD: 6828
+¿Se puede dar líquidos a una víctima de un accidente de tráfico?
+
+Solo si es agua.
+Solo en caso de quemaduras graves.
+Siempre.
+En ningún caso.
+RESPUESTA: B
+NORMA: Sin referencia
+Referencia Doctrinal: Programa de Intervención, Sensibilización y Reeducación Vial - Manual del formador. Dirección General de Tráfico - INTRAS; Manual de primeros auxilios. Cruz Roja Española
+COD: 6829
+¿Cuál es el orden de las actuaciones que se deben seguir en caso de accidente de circulación?
+
+Preservar la seguridad de circulación, solicitar ayuda especializada y ayudar a las víctimas.
+Ayudar a las víctimas, solicitar ayuda especializada y preservar la seguridad de circulación.
+Ayudar a las víctimas, preservar la seguridad de circulación y solicitar ayuda especializada.
+Preservar la seguridad de circulación, ayudar a las víctimas y solicitar ayuda especializada.
+RESPUESTA: A
+NORMA: Sin referencia
+Referencia Doctrinal: Programa de Intervención, Sensibilización y Reeducación Vial - Manual del formador. Dirección General de Tráfico - INTRAS
+COD: 6830
+¿Qué se debe hacer al ayudar a las víctimas de un accidente de tráfico?
+
+Mover siempre a los heridos y colocarlos fuera de la calzada.
+Darles líquidos o alimentos si lo solicitan.
+No mover nunca al accidentado, salvo circunstancia extrema.
+Las respuestas B y C son correctas.
+RESPUESTA: C
+NORMA: Sin referencia
+Referencia Doctrinal: Programa de Intervención, Sensibilización y Reeducación Vial - Manual del formador. Dirección General de Tráfico - INTRAS; Manual de primeros auxilios. Cruz Roja Española
+COD: 6831
+Para efectuar la respiración boca a boca, el reanimador deberá:
+
+colocarse de rodillas junto al herido.
+coger aire y soplar en la boca del herido.
+retirar la boca para que el herido pueda sacar el aire y repetir la operación.
+Todas las respuestas son correctas.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: Programa de Intervención, Sensibilización y Reeducación Vial - Manual del formador. Dirección General de Tráfico - INTRAS; Manual de primeros auxilios. Cruz Roja Española
+COD: 7049
+Es aconsejable que la primera medida que tome un conductor en caso de sufrir un incidente mientras circula sea:
+
+comunicarlo a su empresa.
+avisar a las Fuerzas de Vigilancia del Tráfico competentes.
+señalizar el vehículo y adoptar las medidas para retirarlo.
+rellenar el parte de incidencias.
+RESPUESTA: C
+NORMA: RD 1428/2003 Art. 130
+Referencia Doctrinal: 
+COD: 7050
+¿A qué distancia deben colocarse los triángulos de señalización de peligro?
+
+Al menos, a 25 metros.
+Al menos, a 50 metros.
+Al menos, a 75 metros.
+Al menos, a 100 metros.
+RESPUESTA: B
+NORMA: RD 159/2021 Disposición transitoria primera; RD 2822/1998  Anexo XI
+Referencia Doctrinal: 
+COD: 7286
+¿Qué número mínimo de extintores debe llevar un vehículo de transporte de mercancías de más de 20.000 kg de MMA, de acuerdo con la Orden de 27 de julio de 1999?
+
+Uno.
+Dos.
+Tres.
+Dos o tres, dependiendo de la sustancia extintora que utilicen.
+RESPUESTA: B
+NORMA: OM 27/07/1999 Segundo
+Referencia Doctrinal: 
+COD: 7287
+¿Qué regula la Orden de 27 de julio de 1999, sobre condiciones que deben reunir determinados extintores de incendios?
+
+Los tipos de extintor que deben llevar los vehículos de transporte de personas.
+Los tipos de extintor que deben llevar los vehículos de transporte de mercancías.
+Los tipos de extintor que debe haber en un garaje.
+Las respuestas A y B son correctas.
+RESPUESTA: D
+NORMA: OM 27/07/1999 Segundo
+Referencia Doctrinal: 
+COD: 7290
+¿En qué año se adhirió España al Protocolo de Declaración Amistosa de Accidente de Automóvil?
+
+1975.
+1980.
+1987.
+1992.
+RESPUESTA: C
+NORMA: Convenio CIDE Apéndice
+Referencia Doctrinal: 
+COD: 7291
+Señale la afirmación correcta:
+
+La declaración amistosa de accidente consigue mayores indemnizaciones.
+La declaración amistosa de accidente hace que disminuya el consumo de los vehículos.
+La declaración amistosa de accidente disminuye el número de siniestros.
+La declaración amistosa de accidente agiliza la tramitación y pago de los siniestros.
+RESPUESTA: D
+NORMA: Convenio CIDE Art. Preliminar
+Referencia Doctrinal: 
+COD: 7292
+Señale la afirmación correcta:
+
+La declaración amistosa de accidente hace que disminuyan los atascos de tráfico.
+La declaración amistosa de accidente es válida, aunque no se tenga suscrito el seguro de responsabilidad civil obligatorio.
+Según la Ley de Contrato de Seguro, el plazo máximo para que el tomador comunique al asegurador el acaecimiento de un siniestro es de 20 días.
+Todas las respuestas anteriores son incorrectas.
+RESPUESTA: D
+NORMA: Ley 50/1980 16;  Convenio CIDE 2
+Referencia Doctrinal: 
+COD: 7293
+Señale la afirmación correcta:
+
+La declaración amistosa de accidente debe ser firmada por los dos conductores implicados.
+Según la Ley de Contrato de Seguro, el plazo máximo para que el tomador comunique al asegurador el acaecimiento de un siniestro es de 20 días.
+La declaración amistosa de accidentes debe ser presentada por un agente del orden.
+La declaración amistosa de accidentes debe ser firmada por un agente del orden.
+RESPUESTA: A
+NORMA: Ley 50/1980 16;  Convenio CIDE 2
+Referencia Doctrinal: 
+COD: 7315
+¿Qué número de extintores debe llevar un autobús de más de 23 plazas que no efectúa transporte escolar?
+
+Uno.
+Dos.
+Tres.
+Depende del tipo de combustible que utilice.
+RESPUESTA: A
+NORMA: OM 27/07/1999 Segundo
+Referencia Doctrinal: 
+COD: 7316
+¿Qué número de extintores debe llevar un autobús de 23 plazas, incluido el conductor?
+
+Uno.
+Dos.
+Tres.
+Depende de dónde vayan colocados.
+RESPUESTA: A
+NORMA: OM 27/07/1999 Segundo
+Referencia Doctrinal: 
+COD: 7317
+¿Qué número de extintores debe llevar un camión de más 20.000 kg de MMA, de acuerdo con la Orden de 27 de julio de 1999?
+
+Uno.
+Dos.
+Tres.
+Depende del número de ejes.
+RESPUESTA: B
+NORMA: OM 27/07/1999 Segundo
+Referencia Doctrinal: 
+COD: 7387
+Señale la afirmación correcta:
+
+La declaración amistosa de accidentes consigue mayores indemnizaciones.
+La declaración amistosa de accidentes hace que disminuya el consumo de los vehículos.
+La declaración amistosa de accidentes hace que disminuya el número de siniestros de vehículos.
+Todas las afirmaciones anteriores son incorrectas.
+RESPUESTA: D
+NORMA: Convenio CIDE Preliminar; Convenio CIDE 1
+Referencia Doctrinal: 
+COD: 7483
+Un ejemplo de incidente en un transporte de viajeros es:
+
+el incendio del vehículo.
+el vuelco del vehículo.
+una avería mecánica.
+la caída al agua del vehículo.
+RESPUESTA: C
+NORMA: Sin referencia
+Referencia Doctrinal: Instrucciones para el caso de producirse un accidente o anormalidad en el transporte de viajeros. Generalitat Valenciana
+COD: 7484
+Si durante el transporte el vehículo sufre el reventón de un neumático, puede considerarse que nos encontramos ante:
+
+un accidente.
+un incidente o anormalidad.
+una emergencia.
+un obstáculo.
+RESPUESTA: B
+NORMA: Sin referencia
+Referencia Doctrinal: Instrucciones para el caso de producirse un accidente o anormalidad en el transporte de viajeros. Generalitat Valenciana
+COD: 7485
+Si durante el transporte de viajeros se produce el bloqueo de las puertas:
+
+se retornará a la base para solucionar el problema.
+se continuará, sin efectuar paradas, hasta destino.
+se procederá a la evacuación por las ventanas de socorro.
+se detendrá el vehículo sin dejar salir a los viajeros hasta la llegada de auxilio.
+RESPUESTA: C
+NORMA: Sin referencia
+Referencia Doctrinal: Instrucciones para el caso de producirse un accidente o anormalidad en el transporte de viajeros. Generalitat Valenciana
+COD: 7486
+Si durante el transporte se produce el reventón de un neumático:
+
+los viajeros procurarán no descender del vehículo.
+los viajeros serán rápidamente evacuados.
+los viajeros no deberán ser informados.
+Ninguna de las respuestas anteriores es correcta.
+RESPUESTA: A
+NORMA: Sin referencia
+Referencia Doctrinal: Instrucciones para el caso de producirse un accidente o anormalidad en el transporte de viajeros. Generalitat Valenciana
+COD: 7487
+La evacuación por las ventanas de socorro puede ser necesaria en caso de:
+
+bloqueo de las puertas.
+incendio del vehículo.
+vuelco.
+Todas las respuestas son correctas.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: Instrucciones para el caso de producirse un accidente o anormalidad en el transporte de viajeros. Generalitat Valenciana
+COD: 7489
+¿Qué pauta de actuación, en caso de incendio de un vehículo mientras se circula, es correcta?
+
+Intentar sofocar el fuego con el extintor.
+Evacuar el vehículo.
+Solicitar ayuda con la radio o el teléfono.
+Todas la actuaciones anteriores son correctas.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: 
+COD: 7490
+¿Cómo puede denominarse la existencia de una avería mecánica durante un transporte?
+
+Fenómeno.
+Incidente.
+Emergencia.
+Tópico.
+RESPUESTA: B
+NORMA: Sin referencia
+Referencia Doctrinal: Instrucciones para el caso de producirse un accidente o anormalidad en el transporte de viajeros. Generalitat Valenciana
+COD: 7491
+En caso de vuelco parcial de un autobús:
+
+se esperará la llegada de auxilio sin evacuar el vehículo.
+se procederá a la evacuación siguiendo las instrucciones del conductor.
+no se evacuará si no ha habido daño alguno para las personas.
+solo se evacuará si se trata de un transporte escolar.
+RESPUESTA: B
+NORMA: Sin referencia
+Referencia Doctrinal: Instrucciones para el caso de producirse un accidente o anormalidad en el transporte de viajeros. Generalitat Valenciana
+COD: 7492
+Al ejecutar la evacuación de un vehículo de transporte de viajeros debe tenerse en cuenta:
+
+la circunstancia que provoca la evacuación.
+el tipo de viajeros.
+las vías de evacuación.
+Todas las respuestas anteriores son correctas.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: Instrucciones para el caso de producirse un accidente o anormalidad en el transporte de viajeros. Generalitat Valenciana
+COD: 7515
+¿Qué circunstancias ambientales pueden influir en la aparición de una conducta agresiva durante la conducción?
+
+Temperatura ambiente.
+Ruido.
+Congestión en el tráfico.
+Todas las respuestas son correctas.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: Manual de prevención de accidentes de tráfico en el ámbito laboral, in itinere y en misión. INTRAS
+COD: 7908
+Según la Ley de responsabilidad civil y seguro en la circulación de vehículo a motor, el obligado a suscribir el seguro es:
+
+el propietario del vehículo.
+el propietario o el conductor habitual indistintamente.
+el conductor habitual.
+cualquier persona que haga uso del vehículo.
+RESPUESTA: A
+NORMA: RD Legislativo 8/2004 Art. 2.1
+Referencia Doctrinal: 
+COD: 7911
+Según la Ley de responsabilidad civil y seguro en la circulación de vehículo a motor, si se incumple la obligación de asegurar, el vehículo:
+
+no puede circular.
+puede ser precintado.
+puede ser depositado en el domicilio del propietario.
+Todas las respuestas son correctas.
+RESPUESTA: D
+NORMA: RD Legislativo 8/2004 Art. 3.1
+Referencia Doctrinal: 
+COD: 7912
+Según la Ley de responsabilidad civil y seguro en la circulación de vehículo a motor, los daños personales del conductor responsable del accidente:
+
+nunca están cubiertos.
+no están cubiertos si actuó con negligencia.
+no están cubiertos si no es el propietario.
+siempre están cubiertos.
+RESPUESTA: A
+NORMA: RD Legislativo 8/2004 Art. 5.2
+Referencia Doctrinal: 
+COD: 7913
+Según la Ley de responsabilidad civil y seguro en la circulación de vehículo a motor, los daños en la mercancía transportada en el vehículo responsable del accidente:
+
+serán indemnizados siempre.
+solo serán indemnizados en el caso de tratarse de un transporte público.
+no serán indemnizados si hubo negligencia del conductor.
+no serán indemnizados en ningún caso.
+RESPUESTA: D
+NORMA: RD Legislativo 8/2004 Art. 5.2
+Referencia Doctrinal: 
+COD: 7914
+Según la Ley de responsabilidad civil y seguro en la circulación de vehículo a motor, en caso de circular un vehículo sin seguro puede acordarse:
+
+el precinto por cuatro meses.
+el depósito en el domicilio del propietario por cuatro meses.
+el precinto por un mes.
+el depósito en lugar público por 15 días.
+RESPUESTA: C
+NORMA: RD Legislativo 8/2004 Art. 3.1
+Referencia Doctrinal: 
+COD: 7915
+A efectos de la Ley de responsabilidad civil y seguro en la circulación de vehículo a motor, un vehículo se considera con estacionamiento habitual en España si:
+
+el propietario es español.
+el conductor es español.
+el propietario tiene residencia habitual en España.
+su matrícula es española.
+RESPUESTA: D
+NORMA: RD Legislativo 8/2004 Art. 2.1
+Referencia Doctrinal: 
+COD: 7916
+Según la Ley de responsabilidad civil y seguro en la circulación de vehículo a motor, en caso de inexistencia del seguro, la autoridad podrá ordenar el precinto del vehículo durante un plazo de:
+
+dos años.
+seis meses.
+cuatro meses.
+un mes.
+RESPUESTA: D
+NORMA: RD Legislativo 8/2004 Art. 3.1
+Referencia Doctrinal: 
+COD: 7917
+Según la Ley de responsabilidad civil y seguro en la circulación de vehículo a motor, ¿con qué será sancionado el incumplimiento de la suscripción de seguro?
+
+Multa de 301 a 600 €.
+Multa de 601 a 3.005 €.
+Pérdida de 4 puntos.
+Pérdida de 2 puntos.
+RESPUESTA: B
+NORMA: RD Legislativo 8/2004 Art. 3.1
+Referencia Doctrinal: 
+COD: 7918
+Según la Ley de responsabilidad civil y seguro en la circulación de vehículo a motor, los daños sufridos por las mercancías transportadas en el vehículo responsable del accidente:
+
+no serán objeto de indemnización en ningún caso.
+serán objeto de indemnización si el daño supera el 50 % de su valor.
+no serán objeto de indemnización si hubiera habido negligencia del conductor.
+serán objeto de indemnización en todos los casos.
+RESPUESTA: A
+NORMA: RD Legislativo 8/2004 Art. 5.2
+Referencia Doctrinal: 
+COD: 7919
+Cuando existan daños a las personas, el seguro obligatorio de responsabilidad civil en la circulación cubrirá hasta:
+
+1 millón de euros por persona.
+10 millones de euros por persona.
+70 millones de euros por siniestro.
+100 millones de euros por siniestro.
+RESPUESTA: C
+NORMA: RD Legislativo 8/2004 Art. 4.2
+Referencia Doctrinal: 
+COD: 7921
+Cuando existan daños en los bienes, el seguro obligatorio de responsabilidad civil en la circulación cubrirá hasta un máximo de:
+
+500.000 euros por titular.
+300.000 euros por titular.
+20 millones de euros por siniestro.
+15 millones de euros por siniestro.
+RESPUESTA: D
+NORMA: RD Legislativo 8/2004 Art. 4.2
+Referencia Doctrinal: 
+COD: 7923
+Según la Ley de responsabilidad civil y seguro en la circulación de vehículo a motor, el seguro puede contratarlo:
+
+únicamente el propietario del vehículo.
+únicamente el propietario o el conductor habitual del vehículo.
+únicamente el titular del vehículo o la persona que este autorice.
+cualquier persona interesada en el aseguramiento.
+RESPUESTA: D
+NORMA: RD Legislativo 8/2004 Art. 2.1
+Referencia Doctrinal: 
+COD: 7925
+Según la Ley de responsabilidad civil y seguro en la circulación de vehículo a motor, el fallecimiento del conductor del vehiculo causante del accidente:
+
+da derecho a una indemnización de hasta un máximo de 300.000 euros.
+no se indemnizará en caso de haber habido negligencia por su parte.
+no se indemnizará excepto si fuese el tomador del seguro.
+no está cubierto por este seguro.
+RESPUESTA: D
+NORMA: RD Legislativo 8/2004 Art. 5.1
+Referencia Doctrinal: 
+COD: 7934
+En el caso de que se haya producido el reventón de una rueda del autobús y sea necesario un trasbordo:
+
+se facilitará a los pasajeros el acceso a la bodega para que recuperen su equipaje.
+no se entregará el equipaje a los pasajeros para abreviar el trasbordo.
+el conductor entregará el equipaje a los pasajeros sin permitirles que penetren en la bodega.
+el conductor efectuará el trasbordo de todos los equipajes personalmente.
+RESPUESTA: C
+NORMA: Sin referencia
+Referencia Doctrinal: Instrucciones para el caso de producirse un accidente o anormalidad en el transporte de viajeros. Generalitat Valenciana
+COD: 7935
+En el caso de que se haya producido una avería del autobús y sea necesario un trasbordo:
+
+el conductor permitirá la bajada de los pasajeros mientras intenta solucionar el incidente.
+los pasajeros, en caso de descender del vehículo, permanecerán lo más cerca posible del mismo.
+los pasajeros, en caso de descender del vehículo, permanecerán fuera de la calzada.
+Ninguna de las respuestas anteriores es correcta.
+RESPUESTA: C
+NORMA: Sin referencia
+Referencia Doctrinal: Instrucciones para el caso de producirse un accidente o anormalidad en el transporte de viajeros. Generalitat Valenciana
+COD: 7936
+En el caso de bloqueo de las puertas de un autobús:
+
+nunca se procederá a la evacuación, salvo que lo indique un agente de vigilancia del tráfico.
+solo se procederá a la evacuación si se trata de un transporte escolar.
+se procederá a la evacuación forzando las puertas.
+se procederá a la evacuación por las ventanas de socorro.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: Instrucciones para el caso de producirse un accidente o anormalidad en el transporte de viajeros. Generalitat Valenciana
+COD: 7937
+Si, como consecuencia de un choque frontal, se produce un incendio en el vehículo:
+
+no se permitirá el descenso de los pasajeros.
+solo se permitirá el descenso de los pasajeros en el caso de transporte escolar.
+se procederá a evacuar el vehículo.
+solo se evacuará el vehículo si el conductor no puede sofocar el incendio.
+RESPUESTA: C
+NORMA: Sin referencia
+Referencia Doctrinal: Instrucciones para el caso de producirse un accidente o anormalidad en el transporte de viajeros. Generalitat Valenciana
+COD: 7938
+De las siguientes situaciones, ¿cuál puede considerarse un incidente o anormalidad en el transporte?
+
+Una avería de un manguito.
+Un incendio en la zona de carga.
+Una colisión.
+Una salida de la vía.
+RESPUESTA: A
+NORMA: Sin referencia
+Referencia Doctrinal: Recomendaciones en materia de seguridad en transporte escolar.  Comunidad Valenciana
+COD: 7939
+En caso de vuelco parcial del vehículo:
+
+solo se procederá a la evacuación bajo la supervisión del cuerpo de bomberos.
+se procederá a la evacuación en caso de que exista también un incendio.
+no se procederá a la evacuación si no hay heridos.
+se evacuará el vehículo por las salidas que se encuentren practicables.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: Instrucciones para el caso de producirse un accidente o anormalidad en el transporte de viajeros. Generalitat Valenciana
+COD: 7940
+Si el vehículo ha caído al agua:
+
+se procederá a la evacuación solo si está totalmente sumergido.
+si está parcialmente sumergido, no se evacuará si no es con la supervisión de personal del cuerpo de bomberos.
+si está totalmente sumergido, se evacuará una vez la presión interior y exterior del agua se iguale.
+si está parcialmente sumergido, únicamente se evacuará si se trata de un transporte escolar.
+RESPUESTA: C
+NORMA: Sin referencia
+Referencia Doctrinal: Instrucciones para el caso de producirse un accidente o anormalidad en el transporte de viajeros. Generalitat Valenciana
+COD: 7941
+Si el vehículo ha caído al agua y se encuentra totalmente sumergido:
+
+debe evacuarse inmediatamente.
+si hay bolsas de aire, no debe evacuarse.
+debe evacuarse inmediatamente solo en el caso de tratarse de un transporte escolar.
+se debe evacuar una vez la presión interior y exterior del agua se iguale.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: Instrucciones para el caso de producirse un accidente o anormalidad en el transporte de viajeros. Generalitat Valenciana
+COD: 7942
+Si el vehículo ha caído al agua y se encuentra parcialmente sumergido:
+
+solo debe evacuarse de forma inmediata si se trata de un transporte escolar.
+debe evacuarse inmediatamente.
+no debe evacuarse hasta que lo decida el personal del cuerpo de bomberos.
+solo debe evacuarse si, además, las puertas se han bloqueado.
+RESPUESTA: B
+NORMA: Sin referencia
+Referencia Doctrinal: Instrucciones para el caso de producirse un accidente o anormalidad en el transporte de viajeros. Generalitat Valenciana
+COD: 65887
+¿Qué número de extintores debe llevar, como norma general, un autobús de más 23 plazas, incluido el conductor, dedicado a transporte escolar?
+
+Uno.
+Dos.
+Tres.
+Ninguno.
+RESPUESTA: B
+NORMA: RD 443/2001 4
+Referencia Doctrinal: 
+COD: 65890
+La omisión de socorro a los afectados por un accidente de tráfico que se encuentren en peligro manifiesto y grave, cuando no suponga riesgo para nosotros ni para terceros:
+
+es una infracción administrativa.
+es un delito, pero solo cuando en el accidente se han producido muertos.
+es un delito.
+no constituye delito ni infracción alguna en ningún caso, pues la ayuda siempre tiene carácter voluntario.
+RESPUESTA: C
+NORMA: Ley Orgánica 10/1995 195
+Referencia Doctrinal: 
+COD: 65891
+La omisión de socorro a los afectados por un accidente de tráfico:
+
+es un delito en todo caso.
+es un delito siempre que haya heridos.
+es un delito cuando se encuentren en peligro manifiesto y grave y la ayuda no suponga riesgo para nosotros ni para terceros:
+nunca constituye un delito, pues la ayuda es voluntaria.
+RESPUESTA: C
+NORMA: Ley Orgánica 10/1995 195
+Referencia Doctrinal: 
+COD: 65892
+¿Pueden situarse los extintores del vehículo dentro de una taquilla?
+
+No, pues se dificultaría mucho el acceso al mismo.
+No, pues estaría oculto y sería difícil localizarlo en una emergencia.
+Sí, siempre que se indique bien su emplazamiento y se faciliten los medios para que pueda ser extraído fácilmente.
+Las respuestas A y B son correctas.
+RESPUESTA: C
+NORMA: Reglamento CEPE/ONU 107 Anexo 3, 7.5.4.3
+Referencia Doctrinal: 
+COD: 65893
+Se considera que un extintor es portátil cuando tiene un peso de hasta:
+
+5 kg.
+10 kg.
+20 kg.
+30 kg.
+RESPUESTA: C
+NORMA: RD 513/2017 Anexo I
+Referencia Doctrinal: Fichas NTP (Notas Técnicas de Prevención). Instituto Nacional de Seguridad e Higiene en el Trabajo
+COD: 65894
+¿Con qué periodicidad hay que realizar la verificación de los extintores?
+
+Todos los meses.
+Cada tres meses.
+Cada dos años.
+Cada diez años.
+RESPUESTA: B
+NORMA: RD 513/2017 Anexo II
+Referencia Doctrinal: 
+COD: 65895
+En la verificación trimestral de un extintor se comprobará:
+
+que tiene las instrucciones de manejo.
+que el indicador de presión está en la zona adecuada.
+que no le faltan los precintos.
+Todas las respuestas son correctas.
+RESPUESTA: D
+NORMA: RD 513/2017 Anexo II
+Referencia Doctrinal: 
+COD: 65896
+¿Quién puede efectuar las operaciones de verificación trimestral de un extintor?
+
+el propietario del extintor.
+siempre debe hacerlas el fabricante del extintor.
+siempre debe hacerlas una empresa mantenedora autorizada.
+siempre debe hacerlas una empresa mantenedora, pero no es necesario que tenga ninguna autorización específica.
+RESPUESTA: A
+NORMA: RD 513/2017 Anexo II
+Referencia Doctrinal: 
+COD: 65897
+¿Con qué periodicidad hay que realizar el retimbrado de los extintores?
+
+Anualmente.
+Semestralmente.
+Cada cinco años.
+Cada dos años.
+RESPUESTA: C
+NORMA: RD 513/2017 Anexo II
+Referencia Doctrinal: 
+COD: 65898
+Los extintores están sujetos a revisiones con periodicidad:
+
+trimestral.
+anual.
+quinquenal.
+Todas las respuestas son correctas.
+RESPUESTA: D
+NORMA: RD 513/2017 Anexo II
+Referencia Doctrinal: 
+COD: 65899
+En presencia de un accidente de tráfico:
+
+se debe actuar modificando siempre lo que parezca más conveniente para prestar el auxilio.
+no se debe modificar el estado de las cosas en ningún caso para evitar alterar pruebas.
+no se debe modificar el estado de las cosas si hay heridos graves para evitar alterar pruebas.
+no se debe modificar el estado de las cosas si hay heridos graves para evitar alterar pruebas, salvo que con ello se perjudique la seguridad de los heridos o de la circulación.
+RESPUESTA: D
+NORMA: RD 1428/2003 Art. 129
+Referencia Doctrinal: 
+COD: 65900
+El protocolo de actuación ante emergencias que se desarrolla en las fases de proteger, avisar y socorrer se conoce como:
+
+Protocolo médico.
+Protocolo de intervención.
+PAE.
+PAS.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: Programa de Intervención, Sensibilización y Reeducación Vial - Manual del formador. Dirección General de Tráfico - INTRAS
+COD: 65901
+En caso de verse implicado en un accidente de tráfico:
+
+conviene obtener información sobre los vehículos implicados en el mismo escenario del accidente.
+conviene obtener información sobre las personas afectadas en el mismo escenario del accidente.
+no debemos recabar nunca información en el lugar, pues ya lo hacen los cuerpos de seguridad que intervengan.
+Las respuestas A y B son correctas.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: El atestado policial. Dirección General de Tráfico
+COD: 65902
+Las actuaciones realizadas en relación con un accidente de tráfico por los agentes de seguridad que intervienen en el mismo:
+
+se recogen en el parte de servicio de la grúa que intervino en la retirada de los vehículos accidentados.
+se recogen en el atestado del accidente.
+se recogen en la hoja de intervención del personal sanitario que asistió a los heridos.
+deben ser recogidas por los afectados que se consideren perjudicados.
+RESPUESTA: B
+NORMA: Sin referencia
+Referencia Doctrinal: El atestado policial. Dirección General de Tráfico
+COD: 65903
+El atestado policial de un accidente de tráfico:
+
+recoge las circunstancias del accidente.
+solo se realiza cuando lo solicita algún afectado.
+es secreto.
+Todas las respuestas son correctas.
+RESPUESTA: A
+NORMA: Sin referencia
+Referencia Doctrinal: El atestado policial. Dirección General de Tráfico
+COD: 65904
+El atestado policial de un accidente de tráfico:
+
+solo se realiza cuando lo solicita algún afectado.
+solo se debe realizar cuando haya muertos.
+se debe realizar cuando haya heridos o muertos.
+es potestad del agente que interviene decidir si lo realiza o no.
+RESPUESTA: C
+NORMA: Sin referencia
+Referencia Doctrinal: El atestado policial. Dirección General de Tráfico
+COD: 65905
+La evaluación correcta de una situación de emergencia permite:
+
+decidir las medidas que se deben adoptar.
+establecer el orden de actuación.
+recabar información básica.
+Todas las respuestas son correctas.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: Manual para profesores de formación vial sobre comportamiento y primeros auxilios en caso de accidente de tráfico. Dirección General de Tráfico
+COD: 65906
+Una situación anormal se considera emergencia cuando puede dar lugar a daños:
+
+a las personas, a los bienes o al medio ambiente.
+solo a las personas.
+solo a las personas y a los bienes.
+solo a las personas y al medio ambiente.
+RESPUESTA: A
+NORMA: Sin referencia
+Referencia Doctrinal: Guía de actuación ante situaciones de emergencia. Universidad de Valencia
+COD: 65907
+Si al circular con nuestro vehículo nos encontramos con un accidente:
+
+es aconsejable, aunque no obligatorio, que intervengamos para intentar ayudar.
+estamos obligados a intentar ayudar.
+estamos obligados a intentar ayudar, pero solo cuando haya muertos.
+estamos obligados a intentar ayudar, pero solo cuando no haya muertos.
+RESPUESTA: B
+NORMA: Sin referencia
+Referencia Doctrinal: Programa de Intervención, Sensibilización y Reeducación Vial - Manual del formador. Dirección General de Tráfico - INTRAS
+COD: 65908
+¿Dónde se deberá dejar estacionado el vehículo propio en caso de parar para auxiliar en un accidente?
+
+En la zona más cercana para poder trasladar a los heridos.
+En un lugar seguro a 50 metros del accidente.
+Siempre a 50 metros del accidente.
+Siempre a 100 metros como mínimo.
+RESPUESTA: B
+NORMA: Sin referencia
+Referencia Doctrinal: Programa de Intervención, Sensibilización y Reeducación Vial - Manual del formador. Dirección General de Tráfico - INTRAS
+COD: 65909
+En caso de parar para auxiliar en un accidente de tráfico:
+
+estacionaremos en un lugar que no exija realizar maniobras bruscas.
+evitaremos estacionar en cambios de rasante.
+estacionaremos lo más cerca posible del accidente para empezar a actuar lo antes posible y facilitar, si hace falta, el traslado de heridos.
+Las respuestas A y B son correctas.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: Programa de Intervención, Sensibilización y Reeducación Vial - Manual del formador. Dirección General de Tráfico - INTRAS
+COD: 65910
+En caso de auxiliar en un accidente de tráfico:
+
+no se debe mover nunca a los heridos.
+se evitará mover a los heridos, salvo que estén expuestos a un peligro mayor.
+se trasladará a los heridos siempre fuera del vehículo accidentado para que puedan ser atendidos mejor.
+se trasladará a los heridos siempre fuera de la calzada.
+RESPUESTA: B
+NORMA: Sin referencia
+Referencia Doctrinal: Programa de Intervención, Sensibilización y Reeducación Vial - Manual del formador. Dirección General de Tráfico - INTRAS
+COD: 65911
+En caso de auxiliar en un accidente de tráfico, si algún airbag de los vehículos accidentados no se ha activado:
+
+como primera medida, debemos actuar sobre él para que se active, a fin de que no cause daños si lo hace después por sorpresa.
+debemos evitar apoyarnos sobre él.
+debemos abstenernos de manipular la columna de dirección.
+Las respuestas B y C son correctas.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: Programa de Intervención, Sensibilización y Reeducación Vial - Manual del formador. Dirección General de Tráfico - INTRAS
+COD: 65912
+En caso de auxiliar en un accidente de tráfico:
+
+no se debe mover nunca a los heridos.
+no se debe mover nunca a los heridos, salvo que estén graves.
+no se debe mover nunca a los heridos, salvo que estén inconscientes.
+si es imprescindible mover a los heridos, se hará asegurando la protección de la columna vertebral.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: Programa de Intervención, Sensibilización y Reeducación Vial - Manual del formador. Dirección General de Tráfico - INTRAS
+COD: 65913
+En caso de auxiliar en un accidente de tráfico, conviene hacerlo:
+
+utilizando guantes.
+utilizando mascarillas.
+lo más rápidamente posible, sin atender a si llevamos o no guantes y mascarillas.
+Las respuestas A y B son correctas.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: Programa de Intervención, Sensibilización y Reeducación Vial - Manual del formador. Dirección General de Tráfico - INTRAS
+COD: 65914
+La protección de la zona en la que ha ocurrido un accidente de tráfico incluye comprobar:
+
+que no haya riesgo de incendio.
+que no haya heridos.
+que no haya muertos.
+Todas las respuestas son correctas.
+RESPUESTA: A
+NORMA: Sin referencia
+Referencia Doctrinal: Programa de Intervención, Sensibilización y Reeducación Vial - Manual del formador. Dirección General de Tráfico - INTRAS
+COD: 65915
+La protección de la zona en la que ha ocurrido un accidente de tráfico incluye comprobar:
+
+que no haya riesgo de incendio.
+que no haya riesgo de explosión.
+que no haya implicadas mercancías que supongan un riesgo adicional.
+Todas las respuestas son correctas.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: Programa de Intervención, Sensibilización y Reeducación Vial - Manual del formador. Dirección General de Tráfico - INTRAS
+COD: 65916
+Mientras se presta ayuda en un accidente de tráfico:
+
+no se debe fumar en la zona.
+no se debe fumar en la zona, salvo que no haya heridos.
+no se debe fumar en la zona, salvo que no estén implicados vehículos con mercancías peligrosas.
+Las respuestas B y C son correctas.
+RESPUESTA: A
+NORMA: Sin referencia
+Referencia Doctrinal: Programa de Intervención, Sensibilización y Reeducación Vial - Manual del formador. Dirección General de Tráfico - INTRAS
+COD: 65917
+En presencia de un accidente de tráfico, se solicitará la ayuda de los servicios de socorro:
+
+llamando a la Policía competente en la zona.
+llamando al 112.
+llamando a algún teléfono de auxilio en carretera.
+Todas las respuestas son correctas.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: Programa de Intervención, Sensibilización y Reeducación Vial - Manual del formador. Dirección General de Tráfico - INTRAS
+COD: 65918
+En presencia de un accidente de tráfico, para avisar a los servicios de socorro:
+
+es obligatorio utilizar los postes SOS, siempre que existen.
+es obligatorio llamar al número 112 si no hay postes SOS.
+se recomienda llamar al número 112.
+Las respuestas A y B son correctas.
+RESPUESTA: C
+NORMA: Sin referencia
+Referencia Doctrinal: Programa de Intervención, Sensibilización y Reeducación Vial - Manual del formador. Dirección General de Tráfico - INTRAS
+COD: 65919
+¿Qué características tiene el número de atención de emergencias 112?
+
+Tiene un coste, pero este es reducido.
+Solo permite avisar a los servicios sanitarios.
+Se puede conectar con él aunque nuestro teléfono no tenga cobertura para llamadas ordinarias en ese momento.
+Todas las respuestas son correctas.
+RESPUESTA: C
+NORMA: Sin referencia
+Referencia Doctrinal: Programa de Intervención, Sensibilización y Reeducación Vial - Manual del formador. Dirección General de Tráfico - INTRAS
+COD: 65920
+En presencia de un accidente de tráfico, al avisar a los servicios de socorro, se recomienda:
+
+comunicar el número de heridos y su estado.
+que la llamada la haga más de una persona para asegurar que la emergencia sea atendida.
+limitarse a comunicar los hechos básicos, evitando referir condiciones más específicas de la zona, aunque puedan incrementar la peligrosidad, para no crear confusión en los servicios de socorro.
+Todas las respuestas son correctas.
+RESPUESTA: A
+NORMA: Sin referencia
+Referencia Doctrinal: Programa de Intervención, Sensibilización y Reeducación Vial - Manual del formador. Dirección General de Tráfico - INTRAS
+COD: 65921
+La tecnología e-Call:
+
+avisa al conductor cuando detecta un obstáculo en la carretera con el que se impactará si el vehículo sigue su trayectoria y no se detiene.
+permite que se efectúe una llamada automática de socorro en caso de accidente del vehículo.
+no permite conocer la ubicación del vehículo para proteger la privacidad de sus ocupantes.
+no está disponible por el momento en España.
+RESPUESTA: B
+NORMA: Sin referencia
+Referencia Doctrinal: Programa de Intervención, Sensibilización y Reeducación Vial - Manual del formador. Dirección General de Tráfico - INTRAS
+COD: 65922
+¿Qué combustible está implicado en un fuego de clase C?
+
+Líquidos inflamables.
+Sólidos licuables.
+Gases comburentes.
+Gases inflamables.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: Fichas NTP (Notas Técnicas de Prevención). Instituto Nacional de Seguridad e Higiene en el Trabajo; Enciclopedia OIT de Salud y Seguridad en el Trabajo. OIT
+COD: 65923
+¿Qué combustible está implicado en un fuego de clase D?
+
+cualquier producto sólido.
+cualquier producto líquido.
+cualquier metal.
+algunos metales, como el aluminio en polvo.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: Fichas NTP (Notas Técnicas de Prevención). Instituto Nacional de Seguridad e Higiene en el Trabajo; Enciclopedia OIT de Salud y Seguridad en el Trabajo. OIT
+COD: 65924
+Los fuegos que tienen como combustible un producto sólido licuable se clasifican:
+
+en la clase A.
+en la clase B.
+en la clase C.
+en la clase D.
+RESPUESTA: B
+NORMA: Sin referencia
+Referencia Doctrinal: Fichas NTP (Notas Técnicas de Prevención). Instituto Nacional de Seguridad e Higiene en el Trabajo; Enciclopedia OIT de Salud y Seguridad en el Trabajo. OIT
+COD: 65925
+El uso de hidrocarburos halogenados como agente extintor de un incendio:
+
+está recomendado en fuegos de clase A.
+está recomendado en fuegos de clase B.
+está recomendado en fuegos de cualquier clase.
+está prohibido por dañar la capa de ozono.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: Manual S.E.P.E.I. de Bomberos. Diputación de Albacete
+COD: 65926
+En relación con un incendio, ¿cómo se conoce al conjunto de combustible, comburente y calor?
+
+Tetraedro del fuego.
+Octoedro del fuego.
+Cuadrado del fuego.
+Triángulo del fuego.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: Manual S.E.P.E.I. de Bomberos. Diputación de Albacete
+COD: 65927
+Un fuego es:
+
+una combustión lenta con emisión de mucho calor.
+una combustión lenta con emisión de poco calor.
+una combustión rápida con emisión de mucho calor.
+una combustión rápida con emisión de poco calor.
+RESPUESTA: C
+NORMA: Sin referencia
+Referencia Doctrinal: Manual S.E.P.E.I. de Bomberos. Diputación de Albacete
+COD: 65928
+La combustión rápida con emisión de luz y mucho calor se denomina:
+
+combustión calorífica.
+combustión fluorescente.
+fuego.
+combustión lumínica.
+RESPUESTA: C
+NORMA: Sin referencia
+Referencia Doctrinal: Manual S.E.P.E.I. de Bomberos. Diputación de Albacete
+COD: 65929
+¿De qué forma puede generarse en un vehículo la energía de activación que desencadena un fuego?
+
+Por choques.
+Por rozamientos.
+Por sobrecargas eléctricas.
+Todas las respuestas son correctas.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: Manual S.E.P.E.I. de Bomberos. Diputación de Albacete
+COD: 65930
+¿Qué elemento es el comburente habitual en los fuegos en vehículos?
+
+El gasóleo.
+El aceite de refrigeración del motor.
+El oxígeno del aire.
+El gas del sistema de climatización.
+RESPUESTA: C
+NORMA: Sin referencia
+Referencia Doctrinal: Manual S.E.P.E.I. de Bomberos. Diputación de Albacete
+COD: 65931
+¿A partir de qué nivel de concentración de oxígeno se desencadenará normalmente un fuego?
+
+15 %.
+30%
+40%
+50 %.
+RESPUESTA: A
+NORMA: Sin referencia
+Referencia Doctrinal: Manual S.E.P.E.I. de Bomberos. Diputación de Albacete
+COD: 65932
+Un extintor resulta útil:
+
+en fuegos incipientes.
+en fuegos consolidados y extendidos.
+en fuegos con mucha llama.
+Todas las respuestas son correctas.
+RESPUESTA: A
+NORMA: Sin referencia
+Referencia Doctrinal: Fichas NTP (Notas Técnicas de Prevención). Instituto Nacional de Seguridad e Higiene en el Trabajo; Manual S.E.P.E.I. de Bomberos. Diputación de Albacete
+COD: 65933
+La eficacia de un extintor:
+
+se indica mediante números.
+se indica mediante letras.
+se indica mediante una combinación de números y letras.
+no se indica nunca, pues es variable dependiendo del tipo de fuego.
+RESPUESTA: C
+NORMA: Sin referencia
+Referencia Doctrinal: Manual S.E.P.E.I. de Bomberos. Diputación de Albacete
+COD: 65934
+En la indicación de eficacia de un extintor:
+
+figura un número que nos dice la clase de fuego en la que es útil.
+figura un número que nos dice la clase de fuego en la que no se debe utilizar nunca.
+figura un número que nos dice la carga máxima de combustible que puede estar implicada en un fuego que sea capaz de apagar.
+nunca figuran números.
+RESPUESTA: C
+NORMA: Sin referencia
+Referencia Doctrinal: Manual S.E.P.E.I. de Bomberos. Diputación de Albacete
+COD: 65935
+En la indicación de eficacia de un extintor:
+
+figura una letra que nos dice la clase de fuego en la que no se debe utilizar nunca.
+figura una letra que nos dice la clase de fuego en la que es útil.
+figura una letra que nos dice la carga máxima de combustible que puede estar implicada en un fuego que sea capaz de apagar.
+nunca figuran letras.
+RESPUESTA: B
+NORMA: Sin referencia
+Referencia Doctrinal: Manual S.E.P.E.I. de Bomberos. Diputación de Albacete
+COD: 65936
+¿Cuáles son los extintores más habituales?
+
+Los de CO2.
+Los de agua pulverizada.
+Los de espuma.
+Los de polvo polivalente.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: Guía técnica de seguridad contra incendios. Junta de Andalucía.
+COD: 65937
+¿Qué tipo de extintores existen?
+
+De CO2.
+De agua pulverizada.
+De polvo químico.
+Todas las respuestas son correctas.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: Fichas NTP (Notas Técnicas de Prevención). Instituto Nacional de Seguridad e Higiene en el Trabajo
+COD: 65938
+¿Qué tipo de extintor es más adecuado para apagar un fuego en un cuadro eléctrico?
+
+El de CO2.
+El de polvo químico.
+El de agua pulverizada.
+Ninguno de los anteriores se debe utilizar en ese caso.
+RESPUESTA: A
+NORMA: Sin referencia
+Referencia Doctrinal: Manual S.E.P.E.I. de Bomberos. Diputación de Albacete
+COD: 65939
+¿Qué tipo de extintor es más adecuado para apagar un fuego en un aparato electrónico?
+
+El de agua pulverizada.
+El de polvo químico.
+El de CO2.
+Ninguno de los anteriores se debe utilizar en ese caso.
+RESPUESTA: C
+NORMA: Sin referencia
+Referencia Doctrinal: Manual S.E.P.E.I. de Bomberos. Diputación de Albacete
+COD: 65940
+Los extintores de polvo ABC:
+
+pueden utilizarse sin problema en cualquier tipo de equipo.
+pueden dañar los equipos delicados.
+pueden utilizarse sin necesidad de adoptar ninguna precaución frente a fuegos de cualquier tipo, dado que son polivalentes.
+Las respuestas A y C son correctas.
+RESPUESTA: B
+NORMA: Sin referencia
+Referencia Doctrinal: Manual S.E.P.E.I. de Bomberos. Diputación de Albacete
+COD: 65941
+¿Cuál es el efecto en virtud del cual actúan los extintores de polvo químico?
+
+Inhiben la reacción en cadena que se produce en el fuego.
+Sofocan el oxígeno del aire que rodea al incendio.
+Enfrían el combustible que se está quemando.
+Todas las respuestas son correctas.
+RESPUESTA: A
+NORMA: Sin referencia
+Referencia Doctrinal: Fichas NTP (Notas Técnicas de Prevención). Instituto Nacional de Seguridad e Higiene en el Trabajo
+COD: 65942
+¿Cuál es un modo de apagar un incendio mediante sofocación?
+
+Recubrir el combustible que arde con espuma.
+Desplazar el oxígeno de la zona del incendio con CO2.
+Impedir la ventilación de la zona.
+Todas las respuestas son correctas.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: Fichas NTP (Notas Técnicas de Prevención). Instituto Nacional de Seguridad e Higiene en el Trabajo
+COD: 65943
+¿Cuál es un modo de apagar un incendio por eliminación del combustible?
+
+Recubrir el combustible que arde con espuma.
+Rociar el combustible que arde con polvo químico.
+Refrigerar el combustible próximo al que se está quemando.
+Todas las respuestas son correctas.
+RESPUESTA: C
+NORMA: Sin referencia
+Referencia Doctrinal: Fichas NTP (Notas Técnicas de Prevención). Instituto Nacional de Seguridad e Higiene en el Trabajo
+COD: 65944
+Es una norma de uso de los extintores:
+
+Comprobar, antes de utilizarlo, que el agente extintor es adecuado al tipo de fuego.
+Utilizarlo rápidamente sin comprobar nada, pues cualquier extintor es útil en un incendio.
+Colocarse de cara al viento cuando se vaya a utilizar.
+Las respuestas B y C son correctas.
+RESPUESTA: A
+NORMA: Sin referencia
+Referencia Doctrinal: Fichas NTP (Notas Técnicas de Prevención). Instituto Nacional de Seguridad e Higiene en el Trabajo
+COD: 65945
+Es una norma de uso de los extintores:
+
+Colocarse de espaldas al viento.
+Comprobar su funcionamiento con una breve descarga.
+Apuntar a la base de las llamas.
+Todas las respuestas son correctas.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: Fichas NTP (Notas Técnicas de Prevención). Instituto Nacional de Seguridad e Higiene en el Trabajo
+COD: 65946
+¿Qué medida se recomienda adopte un conductor que es objeto de violencia verbal?
+
+Responder al insulto, pero sin perder la calma.
+No encararse con el agresor.
+Hacer uso de instrumentos de defensa.
+Todas las respuestas son correctas.
+RESPUESTA: B
+NORMA: Sin referencia
+Referencia Doctrinal: 
+COD: 65947
+La conducta de un conductor que pone en riesgo la vida de otros usuarios de modo intencionado, en respuesta a una disputa de tráfico, se califica como:
+
+conducción defensiva.
+conducción arriesgada.
+conducción agresiva.
+conducción eficiente.
+RESPUESTA: C
+NORMA: Sin referencia
+Referencia Doctrinal: Manual de prevención de accidentes de tráfico en el ámbito laboral, in itinere y en misión. INTRAS
+COD: 65948
+La conducción agresiva:
+
+tiene siempre su causa en algún hecho o circunstancia exterior.
+tiene su origen más profundo en la personalidad y estado emocional del sujeto.
+se ve favorecida por factores ambientales.
+Las respuestas B y C son correctas.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: Manual de prevención de accidentes de tráfico en el ámbito laboral, in itinere y en misión. INTRAS
+COD: 65949
+Las conductas agresivas al volante:
+
+se suelen producir en etapas sucesivas de agresividad creciente.
+se suelen manifestar de repente con toda su intensidad.
+no se ven influidas por factores ambientales.
+Las respuestas A y C son correctas.
+RESPUESTA: A
+NORMA: Sin referencia
+Referencia Doctrinal: Manual de prevención de accidentes de tráfico en el ámbito laboral, in itinere y en misión. INTRAS
+COD: 65950
+¿Qué medida se recomienda adopte un conductor que es objeto de violencia física?
+
+Buscar una distancia de seguridad con el agresor.
+Solicitar ayuda.
+Hacer uso proporcionado de elementos de defensa.
+Todas las respuestas son correctas.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: 

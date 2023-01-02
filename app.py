@@ -1,4 +1,4 @@
-from flask import Flask, render_template, redirect, url_for
+from flask import Flask, render_template, redirect, url_for, request
 from flask_bootstrap import Bootstrap
 from flask_wtf import FlaskForm 
 from wtforms import StringField, PasswordField, BooleanField
@@ -86,9 +86,8 @@ def signup():
 @app.route('/dashboard')
 @login_required
 def dashboard():
-    p = perg("sec1-comunes.txt")
-    return render_template('dashboard.html', name=current_user.username,cod = p[0], perg = p[1], alt1 = p[2], alt2 = p[3], alt3 = p[4], alt4 = p[5], res = p[6], norma = p[7], ref = p[8], qtd = p[9])
 
+    return render_template('dashboard.html')
 
 @app.route('/logout')
 @login_required
@@ -99,8 +98,9 @@ def logout():
 @login_required
 @app.route('/quiz', methods=['GET', 'POST'])
 def quiz():
-    p = perg("sec1-comunes.txt")
-    return render_template('quiz.html',cod = p[0], perg = p[1], alt1 = p[2], alt2 = p[3], alt3 = p[4], alt4 = p[5], res = p[6], norma = p[7], ref = p[8], qtd = p[9])
+    #sec = (request.args['sec'])
+    p = perg((request.args['sec']))
+    return render_template('quiz_comp.html',cod = p[0], perg = p[1], alt1 = p[2], alt2 = p[3], alt3 = p[4], alt4 = p[5], res = p[6], norma = p[7], ref = p[8], qtd = p[9])
 
 
 if __name__ == '__main__':

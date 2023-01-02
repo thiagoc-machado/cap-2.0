@@ -33,8 +33,6 @@ def perg(sec_perg):
             res = dic[nperg][6]
             norma = dic[nperg][7]
             ref = dic[nperg][8]
-            # print(dic[nperg])
-            # print(res)
             print(qtd)
         return cod, per, alt1, alt2, alt3, alt4, res, norma, ref, qtd
 #cod, per, alt1, alt2, alt3, alt4, res, norma, ref, qtd = perg()

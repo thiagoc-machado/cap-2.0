@@ -1,0 +1,422 @@
+
+Módulo 7. Atención e información a los viajeros del autobús
+COD: 701
+Las reclamaciones o quejas son una oportunidad para la empresa de transporte de:
+
+recibir información sobre el servicio.
+mejorar las características del servicio.
+fidelizar clientes si la respuesta es insatisfactoria.
+Las respuestas A y B son correctas.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: Calidad y corresponsabilidad en el transporte público de viajeros por carretera. Fundación CETMO; Modelos para implantar la mejora continua en la gestión de empresas de transporte por carretera. Fundación CETMO
+COD: 3175
+Las reclamaciones requieren que la empresa de transportes:
+
+no responda de inmediato.
+preste una atención activa.
+no se disculpe porque entonces da la razón al cliente.
+se queje al defensor del pueblo.
+RESPUESTA: B
+NORMA: Sin referencia
+Referencia Doctrinal: Manual de apoyo para la implantación de la gestión de la calidad según la Norma UNE-EN 13816 en empresas de transporte de viajeros por carretera. Fundación CETMO; Calidad y corresponsabilidad en el transporte público de viajeros por carretera. Fundación CETMO
+COD: 3506
+¿Cuál es uno de los momentos en el que los clientes muestran su desacuerdo con el servicio de transportes recibido?
+
+En el momento de las quejas.
+En el momento de las sugerencias.
+En el momento de las reclamaciones.
+Las respuestas A y C son correctas.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: Manual de apoyo para la implantación de la gestión de la calidad según la Norma UNE-EN 13816 en empresas de transporte de viajeros por carretera. Fundación CETMO; Calidad y corresponsabilidad en el transporte público de viajeros por carretera. Fundación CETMO
+COD: 3519
+De las siguientes opciones, ¿cuál no es un criterio correcto para atender a un cliente que presenta una reclamación?
+
+Rechazar la reclamación si se piensa que es correcta.
+No interrumpir, escuchar.
+No discutir sino informar.
+No evadir la reclamación.
+RESPUESTA: A
+NORMA: Sin referencia
+Referencia Doctrinal: Calidad y corresponsabilidad en el transporte público de viajeros por carretera. Fundación CETMO; Modelos para implantar la mejora continua en la gestión de empresas de transporte por carretera. Fundación CETMO
+COD: 5524
+Las empresas de transporte de viajeros obligadas a disponer de libro de reclamaciones han de tenerlo a disposición de los viajeros:
+
+en las instalaciones fijas autorizadas para la venta de billetes, únicamente.
+en determinados vehículos, únicamente.
+en determinados vehículos y en las instalaciones fijas autorizadas para la venta de billetes.
+solo en la sede social de la empresa.
+RESPUESTA: C
+NORMA: OM FOM/1230/2013 Art. 3
+Referencia Doctrinal: 
+COD: 6224
+La presentación de la queja de un cliente requiere por parte de la empresa:
+
+un traslado inmediato a las oficinas de protección al consumidor.
+la liquidación de la cuenta pendiente con el reclamante.
+una respuesta rápida que solucione el problema que motivó la queja.
+una respuesta disuasoria para evitar que el cliente presente más quejas.
+RESPUESTA: C
+NORMA: Sin referencia
+Referencia Doctrinal: Calidad y corresponsabilidad en el transporte público de viajeros por carretera. Fundación CETMO; Modelos para implantar la mejora continua en la gestión de empresas de transporte por carretera. Fundación CETMO
+COD: 6445
+El conductor del autocar que haga transporte nacional debe anotar en la hoja de ruta:
+
+todas las incidencias que se produzcan durante el transporte.
+los datos de los pasajeros.
+el tipo de servicio y el contratante.
+sus datos personales y la hora de inicio del servicio.
+RESPUESTA: C
+NORMA: OM FOM/1230/2013 Art. 2
+Referencia Doctrinal: 
+COD: 6446
+¿Deben llevar hoja de ruta todos los autobuses que hagan transporte nacional?
+
+No, únicamente los que realicen transporte público regular.
+Sí, cuando realizan un servicio de transporte público.
+Sí, cuando realizan un servicio discrecional interurbano.
+No, su uso no es obligatorio.
+RESPUESTA: C
+NORMA: OM FOM/1230/2013 Art. 1
+Referencia Doctrinal: 
+COD: 6447
+¿Deben llevar los autobuses un libro de reclamaciones a bordo?
+
+No, pero sí debe haberlo en la sede de la empresa y en las taquillas.
+Sí, siempre que realicen servicios regulares de uso general.
+Sí, pero solo los de capacidad superior a 15 plazas.
+Sí, siempre que realicen servicios regulares de uso general con parada donde no haya instalaciones fijas autorizadas para la venta de billetes.
+RESPUESTA: D
+NORMA: OM FOM/1230/2013 Art. 3
+Referencia Doctrinal: 
+COD: 6861
+¿Para qué transportes de viajeros de ámbito nacional se exige hoja de ruta a bordo del autocar?
+
+Para el transporte privado complementario.
+Para el transporte público discrecional interurbano.
+Tanto para el transporte público como para el privado.
+Para el transporte público, a excepción del transporte escolar.
+RESPUESTA: B
+NORMA: OM FOM/1230/2013 Art. 1
+Referencia Doctrinal: 
+COD: 6932
+¿Cuál es la principal característica de un cliente ofensivo?
+
+La elocuencia.
+La exigencia.
+La agresividad.
+La ironía.
+RESPUESTA: C
+NORMA: Sin referencia
+Referencia Doctrinal: 
+COD: 8938
+¿Se debe anotar en la hoja de ruta de un transporte nacional el número de expediciones realizadas?
+
+Sí, cuando se trate de un transporte regular de uso general.
+Sí, cuando se trate de un transporte discrecional.
+No.
+Las respuestas A y B son correctas.
+RESPUESTA: C
+NORMA: OM FOM/1230/2013 Art. 2
+Referencia Doctrinal: 
+COD: 66128
+¿Para qué transportes de viajeros de ámbito nacional se exige hoja de ruta a bordo del autocar?
+
+Para todos los vehículos dedicados a transporte privado complementario.
+Para todos los vehículos que efectúen servicios regulares de uso general.
+Para todos los vehículos que efectúen servicios regulares de uso especial.
+Para todos los vehículos que efectúen servicios regulares de uso especial, salvo los que sean propiedad del titular de la autorización.
+RESPUESTA: D
+NORMA: OM FOM/1230/2013 Art. 1
+Referencia Doctrinal: 
+COD: 66129
+El transportista de viajeros en autobús de ámbito nacional está obligado a conservar las hojas de ruta:
+
+Un año.
+Dos años.
+Seis meses.
+Tres meses.
+RESPUESTA: A
+NORMA: OM FOM/1230/2013 Art. 1
+Referencia Doctrinal: 
+COD: 66130
+¿Qué datos referidos al contratante de un servicio de transporte de viajeros en autobús de ámbito nacional se deben anotar en la hoja de ruta? 
+
+El nombre.
+El domicilio.
+El NIF.
+Las respuestas A y C son correctas.
+RESPUESTA: D
+NORMA: OM FOM/1230/2013 Art. 2
+Referencia Doctrinal: 
+COD: 66131
+¿Qué datos referidos al conductor de un servicio de transporte de viajeros en autobús de ámbito nacional se deben anotar en la hoja de ruta? 
+
+El nombre.
+El NIF.
+Ninguno, solo se anotan datos de la empresa.
+Las respuestas A y B son correctas.
+RESPUESTA: D
+NORMA: OM FOM/1230/2013 Art. 2
+Referencia Doctrinal: 
+COD: 66132
+La hoja de ruta de un transporte de viajeros en autobús de ámbito nacional:
+
+debe cumplimentarse en papel.
+debe consistir en un libro con hojas autocopiativas.
+puede consistir en un registro electrónico.
+Las respuestas A y B son correctas.
+RESPUESTA: C
+NORMA: OM FOM/1230/2013 Art. 2
+Referencia Doctrinal: 
+COD: 66133
+En un proceso de comunicación, el receptor es:
+
+quien recibe el mensaje.
+quien transmite el mensaje.
+quien ayuda a que se pueda emitir el mensaje.
+quien ayuda a que se pueda recibir el mensaje.
+RESPUESTA: A
+NORMA: Sin referencia
+Referencia Doctrinal: Habilidades comerciales. Junta de Andalucía
+COD: 66134
+En un proceso de comunicación, el código es:
+
+el conjunto de elementos objetivos que rodean al mensaje.
+el conjunto de elementos subjetivos que rodean al mensaje.
+el sistema de símbolos utilizados para componer el mensaje.
+un término también utilizado para referirnos al canal.
+RESPUESTA: C
+NORMA: Sin referencia
+Referencia Doctrinal: Habilidades comerciales. Junta de Andalucía
+COD: 66135
+Entre las barreras de tipo personal en la comunicación está:
+
+el ruido ambiental.
+el idioma hablado por el receptor del mensaje.
+la terminología utilizada por el emisor del mensaje.
+la actitud de los intervinientes.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: Habilidades comerciales. Junta de Andalucía
+COD: 66136
+Entre las barreras de tipo semántico en la comunicación está:
+
+el ruido ambiental.
+la cultura de los intervinientes.
+el uso de terminología desconocida por el receptor del mensaje.
+la actitud de los intervinientes.
+RESPUESTA: C
+NORMA: Sin referencia
+Referencia Doctrinal: Habilidades comerciales. Junta de Andalucía
+COD: 66137
+Las barreras de tipo físico en la comunicación:
+
+tienen que ver con el entorno físico en el que se desarrolla la comunicación.
+tienen que ver con una interpretación incorrecta del código utilizado.
+tienen que ver con los valores personales de los intervinientes.
+No existe este tipo de barreras.
+RESPUESTA: A
+NORMA: Sin referencia
+Referencia Doctrinal: Habilidades comerciales. Junta de Andalucía
+COD: 66138
+Una ventaja de la comunicación escrita respecto de la verbal es:
+
+que es menos rígida.
+que es más fácilmente verificable.
+que resulta más directa.
+Todas las respuestas son correctas.
+RESPUESTA: B
+NORMA: Sin referencia
+Referencia Doctrinal: Habilidades comerciales. Junta de Andalucía
+COD: 66139
+¿Qué tipo de gesticulaciones se consideran comunicación no verbal?
+
+Solo las más repetidas.
+Solo las de más intensidad.
+Solo las voluntarias.
+Las voluntarias y las involuntarias.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: Habilidades comerciales. Junta de Andalucía
+COD: 66140
+La comunicación verbal hace referencia a:
+
+uso de los gestos.
+uso de la palabra hablada.
+uso de la palabra escrita.
+Las respuestas B y C son correctas.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: Habilidades comerciales. Junta de Andalucía
+COD: 66141
+Un mensaje de carácter no verbal:
+
+puede contradecir al que enviamos de modo verbal.
+siempre coincide con el verbal.
+no es relevante si coincide o no con el verbal.
+Las respuestas A y C son correctas.
+RESPUESTA: A
+NORMA: Sin referencia
+Referencia Doctrinal: Habilidades comerciales. Junta de Andalucía
+COD: 66142
+¿Cuántas copias debe tener la hoja de reclamaciones utilizada en un transporte regular de uso general en autobús?
+
+Dos.
+Tres.
+Una.
+Cuatro.
+RESPUESTA: B
+NORMA: OM FOM/1230/2013 Art. 3
+Referencia Doctrinal: 
+COD: 66143
+Para poder diligenciar un segundo libro de reclamaciones las empresas de transporte en autobús deben:
+
+entregar el libro anterior.
+tener varios vehículos.
+trabajar en más de una Comunidad Autónoma.
+solicitar un permiso especial.
+RESPUESTA: A
+NORMA: OM FOM/1230/2013 Art. 3
+Referencia Doctrinal: 
+COD: 66144
+¿Qué empresas están obligadas a tener una aplicación informática para presentación de reclamaciones por vía electrónica?
+
+Las de transporte discrecional en autobús.
+Las de transporte escolar.
+Las de transporte regular de uso especial en autobús.
+Las de transporte regular de uso general en autobús.
+RESPUESTA: D
+NORMA: RD 1211/1990 89
+Referencia Doctrinal: 
+COD: 66145
+Las reclamaciones presentadas por vía electrónica en un transporte regular de uso general:
+
+serán remitidas al Ministerio de Transportes por correo electrónico en un plazo de tres días.
+serán remitidas al Ministerio de Transportes por correo electrónico en un plazo de diez días.
+serán remitidas al Ministerio de Transportes a través de un servicio web en un plazo de tres días.
+serán remitidas al Ministerio de Transportes simultáneamente a través de un servicio web.
+RESPUESTA: D
+NORMA: Resolución D.G. Transporte Terrestre 24/07/2020 Primero
+Referencia Doctrinal: 
+COD: 66146
+Como expresión de la posición de un cliente, una sugerencia es:
+
+una manifestación verbal o escrita recomendando una mejora en el servicio.
+una manifestación siempre verbal recomendando una mejora en el servicio.
+una manifestación siempre escrita recomendando una mejora en el servicio.
+una manifestación verbal o escrita recogiendo su insatisfacción con el servicio.
+RESPUESTA: A
+NORMA: Sin referencia
+Referencia Doctrinal: Calidad y corresponsabilidad en el transporte público de viajeros por carretera. Fundación CETMO; Modelos para implantar la mejora continua en la gestión de empresas de transporte por carretera. Fundación CETMO
+COD: 66147
+Como expresión de la posición de un cliente, una reclamación es:
+
+una manifestación generalmente verbal recogiendo su insatisfacción con aspectos esenciales del servicio.
+una manifestación generalmente escrita recogiendo su insatisfacción con aspectos esenciales del servicio.
+una manifestación normalmente verbal recogiendo su insatisfacción con aspectos accesorios del servicio.
+una manifestación normalmente escrita recogiendo su insatisfacción con aspectos accesorios del servicio.
+RESPUESTA: B
+NORMA: Sin referencia
+Referencia Doctrinal: Calidad y corresponsabilidad en el transporte público de viajeros por carretera. Fundación CETMO; Modelos para implantar la mejora continua en la gestión de empresas de transporte por carretera. Fundación CETMO
+COD: 66148
+Para que la gestión de reclamaciones sea eficaz en una empresa:
+
+se requiere compromiso del personal a todos los niveles.
+basta con que esté implicado en la gestión el personal que recoge las reclamaciones.
+basta con que esté implicado en la gestión el personal que trata directamente con los clientes.
+Las respuestas B y C son correctas.
+RESPUESTA: A
+NORMA: Sin referencia
+Referencia Doctrinal: Calidad y corresponsabilidad en el transporte público de viajeros por carretera. Fundación CETMO; Modelos para implantar la mejora continua en la gestión de empresas de transporte por carretera. Fundación CETMO
+COD: 66149
+¿Cuál de los siguientes es un método habitual para dar a conocer el sistema de gestión de reclamaciones de la empresa?
+
+Llamadas personales a los clientes.
+Avisos en la página web de la empresa.
+Edición de folletos.
+Las respuestas B y C son correctas.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: Calidad y corresponsabilidad en el transporte público de viajeros por carretera. Fundación CETMO; Modelos para implantar la mejora continua en la gestión de empresas de transporte por carretera. Fundación CETMO
+COD: 66150
+En un sistema de gestión de reclamaciones:
+
+todo el personal debe saber qué hacer si recibe una reclamación.
+todo el personal debe tener formación específica en la materia.
+solo el personal del departamento encargado de su tramitación debería recibir reclamaciones.
+Las respuestas A y B son correctas.
+RESPUESTA: A
+NORMA: Sin referencia
+Referencia Doctrinal: Calidad y corresponsabilidad en el transporte público de viajeros por carretera. Fundación CETMO; Modelos para implantar la mejora continua en la gestión de empresas de transporte por carretera. Fundación CETMO
+COD: 66151
+En un sistema de gestión de reclamaciones eficaz:
+
+todas las reclamaciones deben tener respuesta inmediata.
+todas las reclamaciones deben someterse a investigación antes de responder para evitar errores.
+algunas reclamaciones deben tener respuesta inmediata, incluso con pago de compensaciones.
+algunas reclamaciones deben tener respuesta inmediata, salvo que supongan el pago de compensaciones.
+RESPUESTA: C
+NORMA: Sin referencia
+Referencia Doctrinal: Calidad y corresponsabilidad en el transporte público de viajeros por carretera. Fundación CETMO; Modelos para implantar la mejora continua en la gestión de empresas de transporte por carretera. Fundación CETMO
+COD: 66152
+Las reclamaciones presentadas por los clientes de una empresa de transporte:
+
+conviene que tengan en su mayoría una solución interna.
+conviene que tengan en su mayoría una solución externa en vía judicial.
+conviene que tengan en su mayoría una solución externa, pero en vía arbitral.
+deben tener siempre una solución interna si el sistema es realmente eficaz.
+RESPUESTA: A
+NORMA: Sin referencia
+Referencia Doctrinal: Calidad y corresponsabilidad en el transporte público de viajeros por carretera. Fundación CETMO; Modelos para implantar la mejora continua en la gestión de empresas de transporte por carretera. Fundación CETMO
+COD: 66153
+Los contratantes de un servicio de transporte escolar son para la empresa de transporte:
+
+interesados.
+clientes internos.
+clientes externos indirectos.
+clientes externos directos.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: Manual de apoyo para la implantación de la gestión de la calidad según la Norma UNE-EN 13816 en empresas de transporte de viajeros por carretera. Fundación CETMO
+COD: 66154
+Un ejemplo de clientes externos indirectos de un transporte regular de uso general es:
+
+el tejido empresarial de la zona por la que transcurre.
+el viajero que lo utiliza.
+quien compra un billete, aunque no viaje él mismo.
+Ninguno de los anteriores.
+RESPUESTA: A
+NORMA: Sin referencia
+Referencia Doctrinal: Manual de apoyo para la implantación de la gestión de la calidad según la Norma UNE-EN 13816 en empresas de transporte de viajeros por carretera. Fundación CETMO
+COD: 66155
+Es una función de los Servicios de Atención al Cliente de una empresa:
+
+la atención de reclamaciones y la detección de aspectos del servicio que requieren mejoras.
+la atención de reclamaciones, pero no la detección de aspectos del servicio que requieren mejoras.
+la compensación a los clientes por incumplimientos cuando esté estipulado.
+Las respuestas A y C son correctas.
+RESPUESTA: D
+NORMA: Sin referencia
+Referencia Doctrinal: Modelos para implantar la mejora continua en la gestión de empresas de transporte por carretera. Fundación CETMO
+COD: 66156
+El Servicio de Atención al Cliente de una empresa:
+
+puede estar integrado por una única persona.
+debe estar integrado por un mínimo de dos personas (director y tramitador).
+debe estar integrado por un mínimo de tres personas (director, receptor y tramitador).
+debe ser un departamento amplio, formado por más de tres personas.
+RESPUESTA: A
+NORMA: Sin referencia
+Referencia Doctrinal: Modelos para implantar la mejora continua en la gestión de empresas de transporte por carretera. Fundación CETMO
+COD: 66157
+Se recomienda que el Sistema de Garantías:
+
+sea lo más amplio posible en una empresa de transporte para dar confianza a los clientes.
+sea lo más restringido posible en una empresa de transporte para evitar los abusos de los clientes.
+se limite a los fallos más graves en una empresa de transporte para reducir el coste.
+no se implante en una empresa de transporte, salvo casos especiales de empresas con mucha liquidez.
+RESPUESTA: A
+NORMA: Sin referencia
+Referencia Doctrinal: Modelos para implantar la mejora continua en la gestión de empresas de transporte por carretera. Fundación CETMO
