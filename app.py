@@ -96,7 +96,7 @@ def logout():
     logout_user()
     return redirect(url_for('index'))
 
-
+@login_required
 @app.route('/quiz', methods=['GET', 'POST'])
 def quiz():
     p = perg()

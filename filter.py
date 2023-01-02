@@ -2,7 +2,7 @@ import random
 
 
 def perg():
-        with open("cap_scrap.txt", "r", encoding="utf8") as arquivo:
+        with open("/scrapper/cap_scrap.txt", "r", encoding="utf8") as arquivo:
             dic = []
             nome = []
             txt = "COD:"

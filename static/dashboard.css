@@ -35,8 +35,9 @@ body {
 
 /* MAIN BLOCK */
 
-/* #mainBlock {
+#mainBlock {
   border: 2px solid rgb(0, 0, 0);
+  padding: 5px;
 }
 #mainBlock .tit {
   font-size: 2vh;
@@ -45,7 +46,6 @@ body {
   max-width: 100%;
 }
 #perg .perg {
-
   display: block;
   width: fit-content;
   background: #bbb;
@@ -65,7 +65,7 @@ body {
 #mainBlock .btn .leg {
   max-width: 100%;
   font-size: 2vh;
-} */
+}
 
 @media (min-width: 768px) {
   .sidebar {
