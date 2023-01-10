@@ -97,8 +97,18 @@ def logout():
 @app.route('/')
 @login_required
 def home():
-    logout_user()
+
     return redirect(url_for('index'))
+
+@app.route('/usuarios')
+@login_required
+def users():
+    data = db.session.query(User).all()
+
+    if current_user.id == 1:
+        return render_template('usuarios.html',data=data)
+    else:
+        return render_template('dashboard.html', name=current_user.username)
 
 
 @app.route('/quiz', methods=['GET', 'POST'])
