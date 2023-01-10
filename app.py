@@ -3,7 +3,7 @@ from flask_bootstrap import Bootstrap
 from flask_wtf import FlaskForm 
 from wtforms import StringField, PasswordField, BooleanField
 from wtforms.validators import InputRequired, Email, Length
-from flask_sqlalchemy  import SQLAlchemy
+from flask_sqlalchemy import SQLAlchemy
 from werkzeug.security import generate_password_hash, check_password_hash
 from flask_login import LoginManager, UserMixin, login_user, login_required, logout_user, current_user
 from filter import perg
@@ -54,7 +54,7 @@ def login():
                 login_user(user, remember=form.remember.data)
                 return redirect(url_for('dashboard'))
 
-        return '<h1>Invalid username or password</h1>'
+        return render_template('login.html', form=form, message = "Nombre de usuario o contraseña incorrectos ")
 
     return render_template('login.html', form=form)
 
@@ -67,16 +67,16 @@ def signup():
         user = User.query.filter_by(username=form.username.data).first()
         email = User.query.filter_by(email=form.email.data).first()
         if user:
-            return '<h1>Username ja cadastrado</h1>'
+            return render_template('signup.html', form=form, message="Nombre de usuario ya existe")
         if email:
-            return '<h1>Email ja cadastrado</h1>'
+            return render_template('signup.html', form=form, message="Email de usuario ya existe")
 
         hashed_password = generate_password_hash(form.password.data, method='sha256')
         new_user = User(username=form.username.data, email=form.email.data, password=hashed_password)
         db.session.add(new_user)
         db.session.commit()
 
-        return '<h1>New user has been created!</h1>'
+        return redirect(url_for('login'))
         #return '<h1>' + form.username.data + ' ' + form.email.data + ' ' + form.password.data + '</h1>'
 
     return render_template('signup.html', form=form)
@@ -91,6 +91,12 @@ def dashboard():
 @app.route('/logout')
 @login_required
 def logout():
+    logout_user()
+    return redirect(url_for('index'))
+
+@app.route('/')
+@login_required
+def home():
     logout_user()
     return redirect(url_for('index'))
 
