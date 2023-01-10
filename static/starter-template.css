@@ -1,10 +1,7 @@
 body {
-  padding-top: 50px;
-  background: linear-gradient(rgba(0, 0, 0, 0.46), rgba(13, 17, 23, 0.089)),
-    url("/img/bk.jpg");
+  background-image: url("../img/bk.jpg");
+  background-repeat: no-repeat;
   background-size: cover;
-  background-position: center center;
-  height: 100vh;
 }
 .starter-template {
   padding: 40px 15px;

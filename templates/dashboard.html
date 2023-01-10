@@ -4,6 +4,8 @@
   rel="stylesheet"
   href="{{url_for('.static', filename='dashboard.css')}}"
 />
+<script src="https://cdn.jsdelivr.net/npm/chart.js@2.9.3/dist/Chart.min.js"></script>
+<script src="{{ url_for('static', filename='styles/dashboard.js') }}"></script>
 {% endblock %} {% block content %}
 <nav class="navbar navbar-inverse navbar-fixed-top">
   <div class="container-fluid">
@@ -80,7 +82,8 @@
             >Sec 6 Complem. Comunes</a
           >
         </li>
-      <!-- </ul>
+      </ul>
+      <!-- 
       <ul class="nav nav-sidebar">
         <li><a href="">Nav item</a></li>
         <li><a href="">Nav item again</a></li>
@@ -91,8 +94,8 @@
       <ul class="nav nav-sidebar">
         <li><a href="">Nav item again</a></li>
         <li><a href="">One more nav</a></li>
-        <li><a href="">Another nav item</a></li>
-      </ul> -->
+        <li><a href="">Another nav item</a></li>-->
+      </ul>
     </div>
       <div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main">
         <div class="main_block" id="mainBlock">
@@ -277,5 +280,8 @@
       </div>
     </div>
     {% endblock %}
+   
   </div>
+ 
 </div>
+
