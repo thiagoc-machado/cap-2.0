@@ -11,7 +11,7 @@ var myChart = new Chart(ctx, {
     datasets: [
       {
         label: "# of Votes",
-        data: [numAcertos, numErros], //substitua numAcertos e numErros pelos valores desejados
+        data: [numAcertos, numErros],
         backgroundColor: ["rgba(255, 99, 132, 0.2)", "rgba(54, 162, 235, 0.2)"],
         borderColor: ["rgba(255, 99, 132, 1)", "rgba(54, 162, 235, 1)"],
         borderWidth: 1,
